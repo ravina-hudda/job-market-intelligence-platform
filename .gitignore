@@ -1,0 +1,37 @@
+# Virtual Environment
+venv/
+.venv/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Data Files
+data/*.csv
+data/*.parquet
+data/*.json
+
+# Logs
+*.log
+
+# Jupyter
+.ipynb_checkpoints/
+
+# OS Files
+.DS_Store
+Thumbs.db
+
+# Spark
+spark-warehouse/
+
+# Build
+dist/
+build/
