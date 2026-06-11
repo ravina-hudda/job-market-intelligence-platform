@@ -1,0 +1,42 @@
+{
+    "ingestion_timestamp": "2026-06-11T21:21:47.600768",
+    "source": "adzuna",
+    "response": {
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "results": [
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "title": "Data Engineer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "longitude": 78.50806,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MzE5NTA2OCIsInMiOiJwRndNZEsxbDhSR2w4TUtSUjN6TWxBIn0.S0XEYb5WbbWBVeLMbyb7aOSAtB8TQ88F53rU6zG5ioU",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-06-05T17:22:27Z",
+                "description": "Job Title: Data Engineer Experience: 6 yrs Location: Onsite Work Type: Full-time Job Requirements 5 years of experience in Data Engineering Strong hands-on expertise in Snowflake and SQL Proficiency in Python for data engineering workflows Solid experience in DWH design and data modelling Exposure to AWS or Azure cloud platforms Experience building scalable data pipelines and solutions Key Responsibilities Lead end-to-end data engineering lifecycle (design to deployment) Build and optimize SQL/…",
+                "latitude": 17.40275,
+                "id": "5753195068",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753195068?se=pFwMdK1l8RGl8MKRR3zMlA&utm_medium=api&utm_source=7d10bb5b&v=6A3150DA82DF854D6DCF717F54893BA372CB77EF"
+            }
+        ],
+        "count": 14956,
+        "mean": 1723107.23
+    }
+}

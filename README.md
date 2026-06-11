@@ -72,3 +72,22 @@ job-market-intelligence/
 ├── requirements.txt
 │
 └── README.md
+
+-----------------------------------------------------------------------------------------------
+Design Decisions for Phase one
+-----------------------------------------------------------------------------------------------
+
+✓ Source: Adzuna
+✓ Scope: Tech Jobs
+✓ Bronze: Store raw API response
+✓ Storage: One file per API call
+✓ Naming: Timestamp-based
+✓ Error Handling: Log and fail gracefully
+✓ Secrets: .env
+✓ Client: AdzunaClient
+✓ Client Responsibility: API communication only
+✓ Return Type: Parsed JSON
+✓ Role Looping: main.py orchestrates
+✓ Config Validation: Fail fast at startup
+
+-----------------------------------------------------------------------------------------------
