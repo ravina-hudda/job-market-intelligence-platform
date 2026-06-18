@@ -1,21 +1,14 @@
-from ingestion.config.settings import settings
+import snowflake.connector
 
-SNOWFLAKE_OPTIONS = {
-    "sfURL":
-        f"{settings.snowflake.account}.snowflakecomputing.com",
+from warehouse.snowflake_config import (
+    SNOWFLAKE_OPTIONS
+)
 
-    "sfUser":
-        settings.snowflake.user,
-
-    "sfPassword":
-        settings.snowflake.password,
-
-    "sfDatabase":
-        settings.snowflake.database,
-
-    "sfSchema":
-        settings.snowflake.schema,
-
-    "sfWarehouse":
-        settings.snowflake.warehouse
-}
+conn = snowflake.connector.connect(
+    user=SNOWFLAKE_OPTIONS["user"],
+    password=SNOWFLAKE_OPTIONS["password"],
+    account=SNOWFLAKE_OPTIONS["account"],
+    warehouse=SNOWFLAKE_OPTIONS["warehouse"],
+    database=SNOWFLAKE_OPTIONS["database"],
+    schema=SNOWFLAKE_OPTIONS["schema"]
+)

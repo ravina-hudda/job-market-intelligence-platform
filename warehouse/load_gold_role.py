@@ -1,28 +1,48 @@
-from pyspark_etl.spark_session import spark
-from warehouse.snowflake_config import (
-    SNOWFLAKE_OPTIONS
+import pandas as pd
+
+from snowflake.connector.pandas_tools import (
+    write_pandas
 )
 
-gold_df = spark.read.parquet(
-    "data/gold/jobs_by_role"
-)
+from warehouse.snowflake_client import conn
 
-gold_df.printSchema()
 
-gold_df.show(truncate=False)
+def main() -> None:
 
-(
-    gold_df.write
-    .format("snowflake")
-    .options(**SNOWFLAKE_OPTIONS)
-    .option(
-        "dbtable",
-        "JOBS_BY_ROLE"
+    df = pd.read_parquet(
+        "data/gold/jobs_by_role"
     )
-    .mode("overwrite")
-    .save()
-)
 
-print(
-    "Successfully loaded JOBS_BY_ROLE"
-)
+    df.columns = [
+        column.upper()
+        for column in df.columns
+    ]
+
+    print(df.columns.tolist())
+    print(df.head())
+
+    success, nchunks, nrows, _ = write_pandas(
+        conn,
+        df,
+        "JOBS_BY_ROLE",
+        auto_create_table=True,
+        overwrite=True
+    )
+
+    if success:
+
+        print(
+            f"SUCCESS | Loaded {nrows} rows into JOBS_BY_ROLE"
+        )
+
+    else:
+
+        print(
+            "FAILED | Could not load data into JOBS_BY_ROLE"
+        )
+
+    conn.close()
+
+
+if __name__ == "__main__":
+    main()
