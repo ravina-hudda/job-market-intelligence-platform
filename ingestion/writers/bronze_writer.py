@@ -20,27 +20,31 @@ class BronzeWriter:
     def save(
         self,
         source: str,
+        role: str,
+        page: int,
         data: dict
     ) -> str:
 
-        source_path = self.BRONZE_PATH / source
+
+        source_path = self.BRONZE_PATH / source 
         source_path.mkdir(parents=True, exist_ok=True)
 
         timestamp = datetime.now().strftime(
             "%Y%m%d_%H%M%S"
         )
-
+        role = role.lower().replace(" ", "_")
         filename = (
-            f"{source}_jobs_{timestamp}.json"
+            f"{source}_{role}_page_{page}_{timestamp}.json"
         )
 
         file_path = source_path / filename
 
         payload = {
-            "ingestion_timestamp":
-                datetime.now().isoformat(),
+            "ingestion_timestamp":datetime.now().isoformat(),
             "source": source,
-            "response": data
+            "response": data,
+            "page": page,
+            "role": role
         }
 
         with open(

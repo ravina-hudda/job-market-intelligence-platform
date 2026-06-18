@@ -1,0 +1,1550 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:56:49.833254",
+    "source": "adzuna",
+    "response": {
+        "count": 6271,
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "results": [
+            {
+                "salary_max": 1500000,
+                "created": "2023-06-03T17:32:26Z",
+                "longitude": 73.84735,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI0MTMzMjY1NTcwIn0.7dlPXhSk_tDAXgBXaGqWht0OOXr9WlOMs8MlJlOHxBw",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "id": "4133265570",
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Translytics Business Services Pvt Ltd"
+                },
+                "salary_min": 1200000,
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/4133265570?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "We are seeking a highly skilled and experienced Full Stack Developer to join our dynamic team. As a Full Stack Developer, you will be responsible for designing, developing, and implementing software solutions across the entire application stack. You will collaborate with cross-functional teams, including product managers, designers, and other developers, to deliver high-quality, scalable, and maintainable software products. Responsibilities : 1) Design and develop robust, scalable, and efficien…",
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "iTech India"
+                },
+                "id": "5761953294",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzYxOTUzMjk0In0._ccp-3n1DID_tOPCZLZy-_KsCJbKLh7OylaTEQqlMN4",
+                "longitude": 80.24963,
+                "created": "2026-06-13T08:49:24Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "We are seeking a skilled Full Stack Developer with hands-on experience in React, Node.js, and PostgreSQL to join our dynamic team in Chennai. The role involves working on new product development, enhancing existing features, and maintaining scalable applications across various domains such as Healthcare, HR, and Logistics. You ll be working closely with other developers, designers, and business analysts in a fast-paced Agile environment, reporting to the Tech Lead or Project Manager. Key Respon…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5761953294?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 13.06041
+            },
+            {
+                "latitude": 28.56579,
+                "redirect_url": "https://www.adzuna.in/details/5727114341?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Job Description: Job Title: Full Stack Developer Location: India (On-site) Company: Gentell - The largest wound care company About Us: At Gentell, we strive to make life better through innovative wound care solutions. As part of our ongoing commitment to excellence, we are incorporating AI into all our applications and are seeking dedicated professionals to join our dynamic team. Our company motto, \"Let's make life better,\" is not just a slogan but a way of life for us. Job Description: Overvie…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": 77.3225,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzExNDM0MSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.E_B8Fn0jFZPKkX0k0-ol-TMQDbrkRPqv7mFzqNe1DCY",
+                "created": "2026-05-13T02:02:03Z",
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Career Creed HR Services"
+                },
+                "id": "5727114341",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Noida, Ghaziabad",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ]
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5767896905?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 13.06041,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Atna is seeking a highly skilled and motivated Full Stack Developer to join our dynamic and innovative team. In this role, you will be responsible for designing, developing, and maintaining robust web applications that deliver exceptional user experiences. As a Full Stack Developer at atna, you will work closely with cross-functional teams including product managers, designers, and other engineers to create scalable solutions from front-end interfaces to back-end services. The ideal candidate i…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5767896905",
+                "salary_is_predicted": "0",
+                "title": "full stack developer",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "atna"
+                },
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2Nzg5NjkwNSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.nDKyW6OlesEk0h4ZT6tCWJK02TbFdMfkh0y0MfVxdqk",
+                "created": "2026-06-18T15:15:47Z"
+            },
+            {
+                "description": "This is a full-time on-site role for a Full Stack Developer, located in Bengaluru. The Back End Developer will be responsible for designing, developing, and maintaining the server-side of web & app applications. Skills:- Python, Django, NextJs (Next.js), React.js, Flutter and FastAPI",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/5421529118?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 400000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NDIxNTI5MTE4In0.9_eLvw94thvzC01CcbZBksvVCvm9A7FnkWUj4yUvzuQ",
+                "created": "2025-09-30T09:16:33Z",
+                "salary_max": 500000,
+                "contract_time": "full_time",
+                "title": "Full-Stack Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CineArtery"
+                },
+                "id": "5421529118",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5704063589?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "contract_type": "contract",
+                "description": "Job Synopsis Position : Full stack developer - Intern Company Name : TargetGrid Website : (link removed) About Us TargetGrid is an AI-powered sales and outreach platform designed to revolutionize business development. Based in Bengaluru, India, TargetGrid helps sales teams find, acquire, and grow customers by providing accurate, actionable, and AI-driven insights. The platform simplifies prospecting, streamlines outreach, and accelerates revenue growth by automating repetitive tasks and persona…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-04-19T05:34:55Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNDA2MzU4OSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.7o2wE6cpqem4VpoBWXKCoiml_xHzt4HbEn9G7tSfpBo",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "5704063589",
+                "salary_is_predicted": "0",
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "TargetGrid"
+                }
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Cravingcode Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Full Stack Developer",
+                "id": "5411700134",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "salary_max": 900000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQxMTcwMDEzNCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.wTdIEqXI4h8zbxrIpJqZFtsKEVwvg5Vyary3fOfbGRk",
+                "created": "2025-09-23T09:14:08Z",
+                "salary_min": 500000,
+                "redirect_url": "https://www.adzuna.in/details/5411700134?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Job Description: .NET  Angular Full Stack Developer Position: Full Stack Developer (.NET  Angular) Experience: 3 – 5 Years About the Role We are looking for a highly skilled .NET Angular Full Stack Developer to join our dynamic team. The ideal candidate should have strong expertise in both back-end and front-end development, hands-on experience with .NET Core and Angular, and a passion for building scalable, secure, and high-performance applications. Key Responsibilities Design, develop, and ma…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                }
+            },
+            {
+                "id": "5731156367",
+                "salary_is_predicted": "0",
+                "company": {
+                    "display_name": "Brego Business",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 1000000,
+                "redirect_url": "https://www.adzuna.in/details/5731156367?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 19.00821,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Senior Full Stack Developer – Analytics Dashboard Job Summary We are seeking an experienced Full Stack Developer to design and build a scalable, data-driven analytics dashboard platform. The role involves developing a modern web application that integrates with multiple external data sources, processes large datasets, and presents actionable insights through interactive dashboards. The ideal candidate should be comfortable working across the full stack and have strong experience in building ana…",
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "created": "2026-05-16T11:55:06Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzMxMTU2MzY3In0.ir7XQcZT29G49JzIrtuiUrApJ0KZa3UsgfiAQR6j4rM",
+                "longitude": 72.84415,
+                "salary_max": 1100000
+            },
+            {
+                "salary_max": 1200000,
+                "created": "2022-09-13T06:47:10Z",
+                "longitude": 78.50806,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIzNDgxNzcxNTE5In0.Vi-uDZ9lUjyTtPLIP7vanLDBhHCmRmCTcdLtNtCzEZY",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "contract_time": "full_time",
+                "title": "Full stack Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "We are looking for Full stack developers who know both Node.js and React.js with min 3 to 5 years of experience and who is ready to work from Hyderabad location. Skills:- J2EE, Spring Boot, Hibernate (Java), NodeJS (Node.js) and React.js",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/details/3481771519?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 800000,
+                "id": "3481771519",
+                "salary_is_predicted": "0",
+                "company": {
+                    "display_name": "Connecting Chains",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5087968812?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Key Responsibilities: Develop and maintain both front-end and back-end components of web applications. Collaborate with product managers, designers, and other developers to build user-friendly features. Write clean, maintainable, and efficient code that adheres to coding standards and best practices. Build reusable code and libraries for future use. Optimize applications for maximum speed and scalability. Implement responsive design to ensure consistent user experience across all devices. Work …",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Dyrect"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "5087968812",
+                "salary_is_predicted": "0",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1MDg3OTY4ODEyIn0.W48ppXx4w4LCNhT8t8uzIpEcVGEcrGKqc4BP0k9t41c",
+                "salary_max": 1300000,
+                "created": "2025-03-12T06:35:05Z",
+                "salary_min": 600000
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Designation: Full Stack Developer Product: Online Payments, Acquiring side Mandatory Skills: FSDMicroAngularWeb Imp Skills Payment Gateway, Docker, Kubernets, AWS, Mule -I6 Skills:- Java, Spring Boot, Hibernate (Java), Microservices, Angular (2), Docker, Kubernetes and Amazon Web Services (AWS)",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/3769870825?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 300000,
+                "created": "2022-12-13T06:15:29Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIzNzY5ODcwODI1In0.rGCti-9EpY7fEMAHEmdJjLYF7t2c4sDAHJWWOz3uPkM",
+                "salary_max": 2200000,
+                "id": "3769870825",
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "company": {
+                    "display_name": "Selective Global Search",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/4773815719?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Requirements: 1. 3 to 10 years of experience in full stack development. 2. Strong proficiency in Node.js and React.js, with a deep understanding of their ecosystems. 3. Solid understanding of web development principles, including RESTful APIs and responsive design. Skills:- React.js, NodeJS (Node.js) and Javascript",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Digisprint Solutions PVt Ltd"
+                },
+                "title": "Full Stack Developer",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "id": "4773815719",
+                "salary_is_predicted": "0",
+                "salary_max": 1400000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc3MzgxNTcxOSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.4g2IBwNx-LkUmmobM32XYbUQGpYw3bUPRi7SaLWcEqc",
+                "created": "2024-07-11T10:05:05Z",
+                "salary_min": 600000
+            },
+            {
+                "salary_min": 500000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "IoTRL Connect Pvt Ltd"
+                },
+                "contract_time": "full_time",
+                "title": "Full stack developer",
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "3466318971",
+                "salary_is_predicted": "0",
+                "salary_max": 900000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzQ2NjMxODk3MSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.j-YsFoAX8l8Vugx2CHzlworJcodFBglM9_b4pJnLXVc",
+                "created": "2022-09-07T07:07:19Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Safety Connect is a leading company in enterprise field force safety. We are looking for a highly skilled computer programmer comfortable with front-end and back-end programming. Full stack developers will be required to see out a project from conception to final product, requiring good organizational skills and attention to detail. What we offer Fast-paced work environment To learn, perceive and be a part of a fast-growing niche industry Incredibly competitive, collaborative, and supportive te…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/3466318971?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjcyODQzODU1NCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.0WCxI4ck_2va3j0orztsYX4y2SjgOFA2dpxZ5J3nrvc",
+                "salary_max": 1200000,
+                "created": "2021-12-11T02:44:37Z",
+                "longitude": 73.84735,
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/2728438554?utm_medium=api&utm_source=7d10bb5b",
+                "description": "We are looking for a Full Stack Python Developer who will be able to develop and support web applications. The main scope of the project will include everything from back-end to client-side code, using optimal and efficient technologies, frameworks, and patterns. As a Full Stack Python Developer, your primary responsibilities will be – design and develop, maintain and enhance applications. Therefore, it’s essential that – as a full stack Python developer — you are skilled at problem solving, so…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wavereco Consulting LLP"
+                },
+                "id": "2728438554",
+                "salary_is_predicted": "0",
+                "salary_min": 850000
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDQxMzE2OCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.kPQvk3AcYKu3JyvBsQ8vwBoGGuXf3Kd5jvw2T093PGY",
+                "created": "2026-05-29T14:10:59Z",
+                "longitude": 73.697442,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Udaipur, Rajasthan",
+                    "area": [
+                        "India",
+                        "Rajasthan",
+                        "Udaipur"
+                    ]
+                },
+                "id": "5744413168",
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Habilelabs",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "latitude": 24.462262,
+                "redirect_url": "https://www.adzuna.in/details/5744413168?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Position Overview: We are looking for a skilled Full Stack Developer with expertise in React.js and Node.js to join our dynamic team. The ideal candidate will have extensive experience in both frontend and backend development, with a focus on delivering exceptional user experiences across platforms. This role offers the chance to work on innovative projects and collaborate with a team of dedicated professionals. Key Responsibilities: Develop and maintain web applications using modern frameworks…",
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Logic Planet",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5723702893",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMzcwMjg5MyIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.DtqdpTBrift4gOmvMtOftM46vSoZMvuYYYIzvOYaZTE",
+                "created": "2026-05-09T07:10:28Z",
+                "longitude": 72.84415,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "• Develop and maintain full stack applications using Java, Spring Boot, and Angular • Design and implement RESTful APIs and backend services • Build responsive frontend interfaces using Angular • Optimize SQL queries and ensure database performance • Collaborate with teams for system integration and deployment • Provide production support and troubleshoot application issues • Ensure code quality, scalability, and maintainability Skills: Angular, Spring Boot, Javascript, Sql, Java, Full Stack De…",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5723702893?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 19.00821
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5094354454?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Overview Adesso India specialises in optimization of core business processes for organizations. Our focus is on providing state-of-the-art solutions that streamline operations and elevate productivity to new heights. Comprised of a team of industry experts and experienced technology professionals, we ensure that our software development and implementations are reliable, robust, and seamlessly integrated with the latest technologies. By leveraging our extensive knowledge and skills, we empower b…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_max": 2500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1MDk0MzU0NDU0In0.nggHhmVlH9YapSEixOmNkaxOnnPHtVC5v4dvR3BJpFA",
+                "created": "2025-03-15T04:28:16Z",
+                "company": {
+                    "display_name": "HashRoot",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Full-Stack Developer",
+                "id": "5094354454",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "salary_min": 1000000
+            },
+            {
+                "salary_min": 800000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIzNDU4OTcxOTQ5In0.pNF_l9pn0WQXk-Wh65uMlDPFkzlqEZ13vHpXikqmoF8",
+                "salary_max": 1500000,
+                "created": "2022-09-04T06:43:53Z",
+                "id": "3458971949",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Zimyo"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Company Background Zimyo HRMS (A product of Zimyo | www.zimyo.com), is one of the fastest-growing employee experience platforms in the world serving over 1000 organizations and empowering over 200,000 employees through our SaaS-based HRMS and Benefits Platform. We help organizations streamline their entire HR and Payroll processes, with a particular focus on helping their employees with financial solutions like salary advances, personal loans, health insurance, etc. We are a team of Product Man…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/3458971949?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_min": 700000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "BlackLight Studio Works Pvt Ltd"
+                },
+                "salary_is_predicted": "0",
+                "id": "4518280662",
+                "description": "About Us: We are BlackLight Games; we bring culturally relevant synchronous multiplayer games experience to mobile. Our games have been rocking the Play Stores since launch. We have built cutting-edge back-end technology; we take pride that our games are played by more than 1 million players daily. Our flagship game, Ludo SuperStar has been downloaded more than 100 million times. Other titles include – CallBreak, Carrom, Solitaire, Spider Solitaire and Word games. Website link- https://blacklig…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 28.62523,
+                "redirect_url": "https://www.adzuna.in/details/4518280662?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2024-01-10T15:15:29Z",
+                "salary_max": 1600000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI0NTE4MjgwNjYyIn0.J8glD5I2MwsSr65m2SkxKDMxdxXxW3l3qqB04ZFE6ms",
+                "longitude": 77.224601,
+                "contract_time": "full_time",
+                "title": "Full Stack developer",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5760757959?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 28.323996,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "We are seeking a highly skilled and motivated Full Stack Developer with strong proficiency in Golang and React , combined with hands-on experience in AWS , Terraform , and infrastructure-as-code practices. The ideal candidate will be comfortable working across the full stack and contributing to both application development and cloud infrastructure provisioning. Familiarity with Agile development processes and CI/CD practices is essential. Key Responsibilities: Design, develop, and maintain scal…",
+                "id": "5760757959",
+                "location": {
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Gurgaon"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Gurgaon, Haryana"
+                },
+                "salary_is_predicted": "0",
+                "title": "Full Stack Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tech Mahindra Limited"
+                },
+                "longitude": 76.983738,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzYwNzU3OTU5In0.WBEOUqnqXkJg5ooWfPa-PVLke9wb2_7B9upW_O5s1-E",
+                "created": "2026-06-12T06:57:46Z"
+            },
+            {
+                "salary_min": 700000,
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Hunarstreet Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5416720155",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NDE2NzIwMTU1In0.7oWYmNcr52GkzkCZK4hVEFcsEj6uLEHv-OS6U1Mlev8",
+                "salary_max": 1500000,
+                "created": "2025-09-27T07:19:40Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Full Stack Developer Department: IT Location: Gurugram / Mohali / Karnal Shift: General Experience: 2 Years Language: English Skills & Requirements: Core: React, Node.js Additional (Good to Have): Python, Flutter, Angular Experience in building scalable web applications Skills:- React.js, NodeJS (Node.js), angular, Python and Flutter",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5416720155?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "id": "5728291199",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "HeadSpin"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyODI5MTE5OSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.JtqzrU5j7-0-c9MMh4H63DLw1TlKeP8tLE9v-vwETXg",
+                "created": "2026-05-14T02:12:10Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "This position is with Cincom Systems, a subsidiary of PartnerOne, and will be on the HeadSpin payroll. Full Stack Developer At Cincom Systems, our mission is to help organizations simplify complex business processes through powerful, flexible software solutions. For over five decades, we’ve been empowering companies across industries to improve efficiency, enhance customer engagement, and drive growth. We understand that today’s business challenges demand agility, precision, and insight. That’s…",
+                "redirect_url": "https://www.adzuna.in/details/5728291199?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "id": "3053605144",
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "InTouch Systems"
+                },
+                "salary_min": 100000,
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/3053605144?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "We have hiring for Full stack developer. Experience in Angular version 6 & above. Other skills- Front End Developer - Including Angular Back End Developer with ASP.Net MVC Back End Developer with Azure or MS Core Project based experience HTML CSS Bootstrap Javascript Skills:- ASP.NET, C#, Angular (2) and MVC Framework",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": 73.84735,
+                "created": "2022-04-15T05:20:53Z",
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzA1MzYwNTE0NCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.sAH3XdC6n8nqDjUIkoGc35GnATyfRmL4Jg92DpY7CK0",
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "title": "Full stack developer",
+                "contract_time": "full_time"
+            },
+            {
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Baner, Pune",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune",
+                        "Baner"
+                    ]
+                },
+                "salary_max": 1200000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MTk4NjQ3OSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.S3xMj0fclIjebh4PBg4NJDUeexyaOLs1cp1XnpE9atY",
+                "longitude": 73.82065,
+                "created": "2026-03-29T11:27:18Z",
+                "salary_min": 400000,
+                "company": {
+                    "display_name": "Byline Learning Solutions",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5681986479",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "We are looking for a highly skilled Senior Full Stack Developer with experience in building secure, scalable, and high-performing web applications for eLearning or fintech platforms. The ideal candidate will have a strong background in multi-tenant dashboards, role-based access control, and API integrations, with a proactive, go-getter mindset. Key Responsibilities: Develop and maintain multi-tenant dashboards with role-based access control (RBAC) and hierarchical permission models . Implement …",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5681986479?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.55335
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5714052040?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 17.40275,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "We are seeking a talented and detail-oriented Full stack Developer to join our team. The candidate will play a critical role in developing, maintaining, and enhancing enterprise-level applications in a Web application environment. Job Title : Full stack Developer Job Type : Contract To Hire Yrs of Experience : 9 - 13 Yrs Notice Period : Immediate - 15 Days Primary Skill Set : Java , React, SQL, Microservices,Banking Domain Projects. What you'll do · Design, develop, and maintain web application…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Full stack Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infec Services Private Limited"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "id": "5714052040",
+                "salary_is_predicted": "0",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzE0MDUyMDQwIn0.gHJGm5zUMGThRVH5RExqg1n8NRs82yV9_Pzz3lSH89M",
+                "longitude": 78.50806,
+                "created": "2026-04-30T06:43:29Z"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5756808061?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 28.6774,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "contract_type": "permanent",
+                "description": "Key Responsibilities Full Stack Development : Lead the design, development, and deployment of web applications using Django and modern frontend frameworks like React. Cloud Architecture : Design scalable, secure solutions on AWS, leveraging services like EC2, S3, Lambda, and RDS. Mentorship & Code Review : Foster growth within the team by mentoring junior engineers and conducting thorough code reviews. Collaboration : Work cross-functionally with product managers and designers to deliver high-q…",
+                "id": "5756808061",
+                "location": {
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Ator Nagla"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Ator Nagla, Ghaziabad"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Basepair Inc"
+                },
+                "title": "Full Stack Developer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NjgwODA2MSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.7bLspcwpSJRfooGtw7kS3V2UAWur8DyViUaaJpbTb7Q",
+                "created": "2026-06-09T07:47:29Z",
+                "longitude": 77.43779
+            },
+            {
+                "salary_max": 800000,
+                "created": "2025-02-22T06:09:49Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1MDU5OTcwMzY5In0.S6rhzs1XVFqIw0_Xopu92OVzJvEA22kM0_1mQc5w980",
+                "longitude": 88.34373,
+                "location": {
+                    "area": [
+                        "India",
+                        "West Bengal",
+                        "Kolkata"
+                    ],
+                    "display_name": "Kolkata, West Bengal",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "latitude": 22.57285,
+                "redirect_url": "https://www.adzuna.in/details/5059970369?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Hiring for Full stack Developer for a reputed Company at Ecospace, Rajarhat Skills required: React JS, Node JS, Angular must have Python is an added advantage Experience: 2 to 5 yrs Working Days: 5 days working with Rotational Off Salary - 30k to 70k as per the experience This is a Work from Office Job Skills:- React.js, NodeJS (Node.js) and AngularJS (1.x)",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5059970369",
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Adeeba Tour and Travels"
+                },
+                "salary_min": 300000
+            },
+            {
+                "salary_is_predicted": "0",
+                "id": "2795055364",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Fitterfly HealthTech"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "created": "2022-01-07T04:36:00Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIyNzk1MDU1MzY0In0.VFNH8KcQ9iZfcrOPp7E356fxuf77L7x2S-nJwqN3sOc",
+                "salary_max": 1000000,
+                "salary_min": 300000,
+                "redirect_url": "https://www.adzuna.in/details/2795055364?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Proven experience as a Full Stack Developer or similar role Experience developing desktop and mobile applications Knowledge of multiple front-end languages and libraries (e.g. HTML/ CSS, JavaScript, XML, jQuery) Minimum 1 years of experiance in ROR or Angular. Excellent communication and teamwork skills Great attention to detail An analytical mind Skills:- Ruby on Rails (ROR), AngularJS (1.x) and Angular (2)"
+            },
+            {
+                "description": "Full Stack Developer Requirements:Degree in Computer Science.Strong organizational and project management skills.Proficiency in fundamental front end languages such as HTML, CSS, and JavaScript.Familiarity with JavaScript frameworks such as Angular JS, React and Amber.Proficiency in server-side languages such as Python, Ruby, Java, PHP, and .Net.Familiarity with database technology such as MySQL, Oracle, and MongoDB.Excellent verbal communication skills.Good problem-solving skills.Attention to …",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/4686704678?utm_medium=api&utm_source=7d10bb5b",
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI0Njg2NzA0Njc4In0.Baj5IySzBZvdpOlpKc-xFIjYqtLbn8YGRC0ThzkeUsY",
+                "created": "2024-05-10T07:38:49Z",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Full Stack Developer",
+                "id": "4686704678",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Full Stack Engineer About ZenTrades: ZenTrades is a rapidly growing product startup that has established a strong foundation in the realm of SaaS (Software as a Service) business solutions, particularly in the Field Service Management software domain. Our vision is to revolutionize the trade services industry by seamlessly integrating technology, streamlining operations, enhancing customer experiences, and driving growth. Position Overview : We are actively seeking a seasoned Full Stack Develop…",
+                "redirect_url": "https://www.adzuna.in/details/4676936493?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.5062,
+                "salary_min": 1300000,
+                "salary_is_predicted": "0",
+                "id": "4676936493",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Zentrades"
+                },
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "created": "2024-05-03T15:49:39Z",
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY3NjkzNjQ5MyIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.lgX9asB6wAcXRY5XpT_bWHGSFnhDj7HR6x431QH3hII",
+                "longitude": 73.84735
+            },
+            {
+                "salary_min": 500000,
+                "salary_max": 700000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDQ3Njg0Mzk4MiIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.9CiA1ThDq9xPiaMRrlWQo5P5E3tyO390J-UkuCwCzAE",
+                "created": "2023-12-13T15:10:07Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "4476843982",
+                "salary_is_predicted": "0",
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Airveda",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Job Title: Full Stack Developer Airveda is a mission-based organization helping people breathe well, and live well. We build Comprehensive air quality monitoring IOT systems for both indoor and outdoor environments to help people manage their air pollution exposure and to create awareness among people. We are also working with schools, offices etc to provide healthier environments for their occupants. Learn more at: https://www.airveda.com Location: Gurgaon (Sec-54 ) Job Type: Full-time, Workin…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/4476843982?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_min": 1500000,
+                "salary_max": 2200000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjcyMTM1NDMyNSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.hp32XxuAkv7m8s9zo_bmdow1sYXLOLHgZqYEqYnqqZQ",
+                "created": "2021-12-09T02:43:15Z",
+                "salary_is_predicted": "0",
+                "id": "2721354325",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "company": {
+                    "display_name": "Zuddl",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "About Zuddl Zuddl allows companies and organisations to set up their premier flagship event from anywhere in the world within 20 minutes. The one platform for all enterprise events, internal or external, hybrid or virtual. Over the last few months, we have had companies like Microsoft, Deloitte, HSBC, Adobe, Barclays, Ab InBev, Razorpay, Synopsys, WhiteHat Jr, Groww etc host their events on Zuddl. NASSCOM uses Zuddl to host their marquee conferences like Product Conclave, ER&D Summit and GCC Co…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/2721354325?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Lucknow, Uttar Pradesh",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Lucknow"
+                    ]
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "created": "2022-03-01T04:52:33Z",
+                "salary_max": 600000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkzMzk1NTIwMCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.k0l-EGNtS4x_oIuInMzofkq_X5886vrCtdwfiTu1eVY",
+                "longitude": 80.8897,
+                "salary_min": 300000,
+                "id": "2933955200",
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Compendious Med Works Pvt Ltd"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "We are looking for a passionate Full Stack Developer to be responsible for the coding, innovative design and layout of our website. The ideal candidate is someone who works with the Front End, or client-side. You must be comfortable working as part of a team while taking the initiative to take lead on new innovations and projects. Designation - Full Stack Developer Salary - Hike on Last CTC Experience - 3 to 6 years Location - Lucknow (work from office) Why to choose Compendious Med Works? Payo…",
+                "redirect_url": "https://www.adzuna.in/details/2933955200?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 26.8677
+            },
+            {
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/4990143348?utm_medium=api&utm_source=7d10bb5b",
+                "description": "What are we looking for? : - Freshers or Upto 3 years of experience in Full Stack Development. - Bachelor’s degree in computer science or equivalent practical experience. - Understanding of MVC structures, Basics of Programming and Frameworks. - Proficient in PHP, Javascript or other programming languages - Problem solving skills, Ability to think and solve challenging problems independently. - Passion to work in a startup environment and wear multiple hats. - Have knowledge of Performance opti…",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wedding Wishlist"
+                },
+                "id": "4990143348",
+                "salary_is_predicted": "0",
+                "salary_min": 300000,
+                "salary_max": 1200000,
+                "longitude": 80.24963,
+                "created": "2024-12-27T12:08:14Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MDE0MzM0OCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.4vWBc9n6WiG5t5sTi-AI1OCR_0ppt488IkCSU0QeKSs",
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                }
+            },
+            {
+                "salary_min": 900000,
+                "created": "2023-06-29T23:46:51Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDE3NjUyNjY3NiIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.8tZAHm-raVnAOl6KUTpfeMAPS4FNoF7e_auoeehFFXQ",
+                "salary_max": 1600000,
+                "id": "4176526676",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "company": {
+                    "display_name": "Thence",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Responsibilities:  Work with development and product team to ideate software solutions  Design client-side and server-side architecture  Build the front-end of applications through appealing visual design  Develop and manage well-functioning databases and applications  Write effective APIs, Ability to quickly pick up new areas in the product and write optimal code taking into consideration the security and performance aspects of the product.  Test software to ensure responsiveness and eff…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/4176526676?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Description Job Summary We are looking for a skilled Full Stack Developer to design, develop, and maintain scalable web applications. The ideal candidate will have strong hands-on experience with Node.js for backend/API development and React.js for frontend implementation , along with a solid understanding of responsive UI design using CSS . Basic exposure to Figma is expected to support collaboration with UI/UX designers and ensure design consistency. Responsibilities Key Responsibilities Back…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/5730591980?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzMwNTkxOTgwIn0.IB_aHZBhH6NrxheotUGmMEegrH2zyv989J93YwQL0Ks",
+                "created": "2026-05-16T01:58:27Z",
+                "salary_is_predicted": "0",
+                "id": "5730591980",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "EXL"
+                },
+                "title": "Full Stack Developer"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "A Full Stack Developer is responsible for designing, developing, and maintaining both the front-end and back-end components of web applications, ensuring seamless integration across the full technology stack. They work with a wide range of technologies including HTML, CSS, JavaScript frameworks on the client side, as well as server-side languages like Node.js, Python, Their role involves building scalable, secure, and high-performing applications that run reliably across diverse devices and pla…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 28.323996,
+                "redirect_url": "https://www.adzuna.in/details/5670303199?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 100000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY3MDMwMzE5OSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.4ZPFxP2mt4CQ7-uoZAcYs-ILAyxuLT_HvmRcAGtw9Fo",
+                "created": "2026-03-18T08:39:57Z",
+                "longitude": 76.983738,
+                "salary_max": 1200000,
+                "location": {
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Gurgaon"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Gurgaon, Haryana"
+                },
+                "id": "5670303199",
+                "salary_is_predicted": "0",
+                "title": "Full Stack Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "We Search"
+                }
+            },
+            {
+                "longitude": 73.84735,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyMjM5NzEyNCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.jjaXj-auJsqZsZjj0Yk8fW6VYm3X_3w45UboGTvUu60",
+                "created": "2026-05-08T07:13:01Z",
+                "title": "Full stack developer",
+                "company": {
+                    "display_name": "Logic Planet",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "id": "5722397124",
+                "salary_is_predicted": "0",
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/5722397124?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Key Responsibilities • Develop and maintain full stack applications using Java and AngularJS • Work with Contentful CMS for content management and integration • Design and implement responsive and scalable web applications • Collaborate with backend, frontend, and QA teams for end-to-end delivery • Develop RESTful APIs and integrate with microservices • Debug, troubleshoot, and resolve application issues across the stack • Ensure performance, scalability, and security of applications • Particip…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "id": "3277685751",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Whrrl",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Full Stack Developer",
+                "salary_max": 1000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIzMjc3Njg1NzUxIn0.2PHszKqeuDLFEVauPDtT8KweVbsimDD-6UYHsSXExd8",
+                "created": "2022-07-01T06:24:49Z",
+                "salary_min": 700000,
+                "redirect_url": "https://www.adzuna.in/details/3277685751?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Title: Full Stack Developer Skills/Roles hiring for: Node.Js, MongoDB, ExpressJs, Angular 6 (MEAN Stack), Web APIs. We are looking for a full stack JavaScript developer to join an award-winning Blockchain startup having PSU & Banks as clients. Candidate must have Strong Javascript front-end/back-end development experience of 1 year In-depth working knowledge of Angular JS framework and Completed at least 1 project using Experience with HTML, JavaScript/AJAX/Jquery. Experience with open source t…"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Full Stack Developer (Senior Lead) Department: IT Location: Gurugram / Mohali / Karnal Shift: General CTC: 10–30% hike on last CTC (Max ₹20 LPA) Experience: 2Years-10Years Language: English Skills & Requirements: Core: React, Node.js Additional (Good to Have): Python, Flutter, Angular Strong problem-solving and system design skills Proven leadership in software teams Experience in building scalable web applications Skills:- React.js, NodeJS (Node.js), Python, Flutter and angular",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/5400948273?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 1000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQwMDk0ODI3MyIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.ofopPlf_caCmJVQUt6VaoUtA4_74SfdYHdaZGwkStkg",
+                "created": "2025-09-16T06:33:43Z",
+                "salary_max": 2000000,
+                "id": "5400948273",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Hunarstreet Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk4ODg1MTEzNyIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.8FbPGJrX1nTv3_RZIUZBXJpqopoBEgl0FzH03CkV8WA",
+                "created": "2024-12-25T11:57:25Z",
+                "longitude": 78.50806,
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/details/4988851137?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Position: Full Stack Developer Location: Hyderabad, India Must have skills : Experience working with Typescript Experience working with Vue (including Vuex for state management, Vue cli etc.) Knowledge of one or more CSS preprocessors/JavaScript bundlers like SASS, Less, Webpack, Parcel, Rollup. integrating with Restful or other web services. Proficiency with Git Appreciation for clean and well documented code Thorough understanding of user experience and possibly even product strategy Skills:-…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Qentelli"
+                },
+                "id": "4988851137",
+                "salary_is_predicted": "0",
+                "salary_min": 500000
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5727191918?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Job Description: Full Stack Developer Location: Columbus Ohio ( 5 days onsite) Relocation is fine from EST & CST time Zone Visa: W2 Required qualifications, capabilities, and skills Must have Java/Spring/Microservices/Kafka  AWS Should be strong in ECS/EKS/S3 Will be doing a lot of creating Rest API’s and Kafka integrations Must be good with NoSQL and SQL Any Fraud or security experience is a huge plus Must be strong in API security, need to be very familiar with this 6 years experience",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "MM Staffing & Career Consultants",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "id": "5727191918",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2026-05-13T02:09:11Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzI3MTkxOTE4In0.T4ThyFDJBABv66GB_VbN-np2gCeg4RaINzAt7kkE7S4"
+            },
+            {
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "salary_max": 600000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIzNDYzNDA2NjI5In0.Sp_dl42nFFujjes-iCZyX14hg7aGefD79vSu2kYsfPU",
+                "longitude": 73.84735,
+                "created": "2022-09-06T06:52:04Z",
+                "salary_is_predicted": "0",
+                "id": "3463406629",
+                "company": {
+                    "display_name": "Byzwiz Infratech Private Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 450000,
+                "redirect_url": "https://www.adzuna.in/details/3463406629?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.5062,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Position Title Full Stack Developer Minimum Qualifications Bachelor's degree in Computer Science or equivalent practical experience. 1 year of relevant work experience developing software with: 1. Node.js 2. Express 3. MongoDB 4. React.js 5. Version Control (Git) Preferred Qualifications Master’s degree, further education or equivalent practical experience in Engineering, Computer Science or other technical related field. Experience with all of the above  the following areas: Full Stack Develop…"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY2MTQwMTAyNCIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.01YyNsuGaVuPyIN8u8rNxV3del3Mhd1GX0_yWp9pq1k",
+                "created": "2024-04-23T18:16:44Z",
+                "salary_max": 800000,
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Winning Link Business Solutions",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4661401024",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "salary_min": 600000,
+                "redirect_url": "https://www.adzuna.in/details/4661401024?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Job Title: Full Stack Developer (React, WordPress, PHP) Location: Remote Job Type: Full-Time Company Description: WLBS is a dynamic team of skilled developers and designers passionate about crafting exceptional user experiences and delivering robust, high-quality digital solutions. Company Website: https://www.wlbs.dev/ LinkedIn: https://in.linkedin.com/company/winning-link-business-solutions Role Description: We are looking for an experienced and highly skilled Full Stack Developer who possess…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Position: Full Stack Developer Experience: 3 Years Location: Bangalore Job Summary We are seeking a talented and motivated Full Stack Developer with 3 years of experience in building scalable web applications using ReactJS, Python, and PostgreSQL. The ideal candidate should have hands-on experience in frontend and backend development, database design, API development, and cloud-based application deployment. The role involves collaborating with cross-functional teams to deliver high-quality soft…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5767891888?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 400000,
+                "contract_time": "full_time",
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Appiness Interactive",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5767891888",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "salary_is_predicted": "0",
+                "salary_max": 900000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI1NzY3ODkxODg4In0.q7fX11mZ4VDGoTGyHcfqSEHkTYeA1Z5VvSh53-259ME",
+                "created": "2026-06-18T15:12:56Z"
+            },
+            {
+                "id": "2766490899",
+                "salary_is_predicted": "0",
+                "company": {
+                    "display_name": "Zycus",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 500000,
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/details/2766490899?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Zycus is looking for a Full Stack Developer to join it's Engineering team. Candidates with experience working on Spring, Hibernate, Microservices, Angular/react, JMS/Rabbit MQ/Kafka, AWS Cloud and are passionate about building a product are encouraged to apply. Zycus is a Global leader and a pioneer in cognitive procurement software. Our clients are among the fortune 500 companies . We build enterprise AI procurement software product using some of the latest technologies. In this role, you will…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2021-12-25T04:18:46Z",
+                "salary_max": 2500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjc2NjQ5MDg5OSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.KEenZU_L9uvbiht1z8BNMcwozqqbUu02wXDRBgodNWU",
+                "longitude": 72.84415,
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "contract_time": "full_time",
+                "title": "Full Stack Developer"
+            },
+            {
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/2959776738?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Full Stack Developers : (5 persons required) Should have excellent working technical skills in NodeJS, React JS, PreactJS and Mongo DB  AWS Must have done projects either at work or in college using these technical skills Should have sound logical and problem solving capabilities. Must have good communication and articulation skills in English. Overall should have a good go-getter attitude and willing to work in a Start-up environment. Skills:- NodeJS (Node.js), React.js, MongoDB, AWS Lambda, P…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Essential Five Learning Solutions Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "id": "2959776738",
+                "salary_min": 300000,
+                "salary_max": 700000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiIyOTU5Nzc2NzM4In0.wtlATF3j4OTWSldMM24GoiaxyOVjL8vrfV1Oq8xDQOk",
+                "created": "2022-03-10T05:07:13Z",
+                "longitude": 73.84735,
+                "title": "Full Stack Developers",
+                "contract_time": "full_time",
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                }
+            },
+            {
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/5486119757?utm_medium=api&utm_source=7d10bb5b",
+                "description": " We’re Hiring: React  Node.js Developer (Full Stack)  Location: Pune  Experience: 5–8 years  Notice Period: Immediate to 15 days About the Role: We’re looking for a skilled Full Stack Developer with hands-on experience in React and Node.js, and a passion for building scalable, high-performance applications. Key Skills & Responsibilities: Strong expertise in React (frontend) and Node.js (backend). Experience with relational databases (PostgreSQL / MySQL). Familiarity with production systems and …",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "NeoGenCode Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5486119757",
+                "salary_is_predicted": "0",
+                "salary_min": 2000000,
+                "salary_max": 2500000,
+                "created": "2025-11-08T02:23:16Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ4NjExOTc1NyIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.w1XSHyH-R3m39Z3y7C31MwcalbejM64ZxoqJLj7Ukyk",
+                "longitude": 73.84735,
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5713216421?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "End-to-End Development: Design, develop, and test both front-end and back-end components of web applications. Scalable Solutions: Build efficient, responsive, and scalable web pages and applications to support user and business needs. Integration: Integrate user-facing elements with server-side logic to ensure seamless performance and user experience. Security Implementation: Implement security best practices and data protection protocols to safeguard sensitive information. Feature Development:…",
+                "id": "5713216421",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "title": "Full Stack Developer",
+                "company": {
+                    "display_name": "Llp S3bglobal Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2026-04-29T07:41:18Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzIxNjQyMSIsInMiOiJlanduZDBkcjhSRzVSY2U0ajA5ZHR3In0.Z1fHS-6S7BjIHeThcP3jlZWx8WGpl6xQMNqzHJkiq2c"
+            },
+            {
+                "description": "Introduction: We are seeking a Full Stack Software Developer to join our innovative team, focusing on a project in the Food & Beverage (F&B) sector and contributing to an established Financial Services product. The ideal candidate will have extensive experience in both backend and frontend development, particularly with Python and ReactJS, and a proven ability to deliver mobile-responsive web applications. Key Responsibilities: Develop and maintain web applications using Django or similar MVC f…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/details/4661094363?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 720000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Purva Sharegistry"
+                },
+                "id": "4661094363",
+                "salary_is_predicted": "0",
+                "created": "2024-04-23T16:03:28Z",
+                "salary_max": 1200000,
+                "longitude": 72.84415,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZWp3bmQwZHI4Ukc1UmNlNGowOWR0dyIsImkiOiI0NjYxMDk0MzYzIn0.KWdo5RihmffznzDL0LK52JbVzoq1KGia22t98isL_zY",
+                "title": "Full Stack Developer",
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                }
+            }
+        ],
+        "mean": 1207509.84
+    },
+    "page": 3,
+    "role": "full_stack_developer"
+}

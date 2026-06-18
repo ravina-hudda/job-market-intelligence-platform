@@ -1,2 +1,7 @@
+pyspark==3.5.6
 requests
 python-dotenv
+snowflake-connector-python
+pandas
+pyarrow
+snowflake-snowpark-python

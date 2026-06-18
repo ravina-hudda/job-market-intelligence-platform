@@ -1,0 +1,1419 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:56:07.807676",
+    "source": "adzuna",
+    "response": {
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "count": 25635,
+        "mean": 1543747.7,
+        "results": [
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5768326254?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=6D1784B25E0FE01C0294EFD0E81CEB5908D2FC86",
+                "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Turing"
+                },
+                "longitude": 72.84415,
+                "contract_type": "contract",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzY4MzI2MjU0In0.3cyu-ubY_ipvA-PyG0TQIbKoJFYHss4638hdK-6n-RE",
+                "latitude": 19.00821,
+                "created": "2026-06-18T23:47:22Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5768326254",
+                "title": "Remote Data Engineer"
+            },
+            {
+                "contract_type": "contract",
+                "longitude": 73.02,
+                "description": "Job Description The Data Collections Technology team is the foundational platform collection engine for PitchBook. Our mission is to architect, build, and operate the unified Acquisition, Processing, and Management Platforms that power PitchBook's proprietary data engine. We focus exclusively on engineering highly scalable, resilient, and secure systems that transform vast volumes of raw external data into structured, high-quality, and actionable data assets for the entire business. As a core t…",
+                "company": {
+                    "display_name": "Morningstar",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5737572130?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=623BD3673FD4A064E76572177DFE74AE46A56E6C",
+                "salary_is_predicted": "0",
+                "title": "Director- Engineering, Data Collection Technology (Navi Mumbai)",
+                "id": "5737572130",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Navi Mumbai"
+                    ],
+                    "display_name": "Navi Mumbai, Maharashtra"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzM3NTcyMTMwIn0.tqvxUhvefaPNKejUZMpQ2PNCsWZGEVolNKegX2deuGo",
+                "latitude": 19.02,
+                "created": "2026-05-22T17:51:20Z"
+            },
+            {
+                "created": "2026-05-29T08:20:06Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDE3OTI1NSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.L0kSlyE1yHNK_F76Vad5aycX0-ExfqURJ7V6EPGKdug",
+                "latitude": 17.40275,
+                "category": {
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5744179255",
+                "title": "Lead / Manager - Analog Layout Design",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5744179255?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=9B106A1DFB951EB528D1EA676E732FD0A2163792",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Proxelera"
+                },
+                "description": "Proxelera is a specialized semiconductor and system software engineering partner headquartered in Bengaluru. We provide end-to-end silicon design and productization services, focusing on high-quality IP design and complex verification for global clients. Our culture emphasizes technical excellence, mentorship, and driving the success of next-generation AI and networking silicon, we are looking for the Experience 10 Yrs of Lead / Manager - Analog Layout Design. Key Responsibilities/Preferred Exp…",
+                "longitude": 78.50806
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5763491799?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=43EAB02DB7771C62EE2508FBFCC0CB26A8DF64D8",
+                "company": {
+                    "display_name": "FR Consultancy ",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Role - Software Engineer (Backend Development) Location – Abu Dhabi, UAE Long Term Contract Expertise in Java SpringBoot Microservices. Strong AWS cloud native development and deployment - IAM Authentication integration, Lambda, EKS, SNS, SQS, KMS, Secret Manager, Elasticache integration Strong hands-on with secure coding practices (OWASP standards) Good overall understanding of DevSecOps Strong hands on with any NoSQL database Junit, Design Patterns, Hibernate, Kafka Integration, AI integrated…",
+                "contract_type": "contract",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzYzNDkxNzk5In0.QEw_BSyGnD2oiEH1ccUuRfkhQJuAosK9RVtHyCvOCpQ",
+                "created": "2026-06-14T14:47:22Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "5763491799",
+                "title": "Java Backend Developer(Abu Dhabi)"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5Mzc1MDU1OCIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.POnKxgK8kDbRd_nj5Ijx5aNWdAaKNacYTws03GKC5WQ",
+                "created": "2026-04-09T02:28:30Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "AI Architect – GPT-4 / Generative AI / RAG / Python | Any UST Location | 12 YoE | Immediate Joiner",
+                "id": "5693750558",
+                "redirect_url": "https://www.adzuna.in/land/ad/5693750558?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=ED6580271ED58D20A13B3AED9394C4D25106C96A",
+                "salary_is_predicted": "0",
+                "description": "Candidates ready to join immediately can share their details via email for quick processing.  CCTC | ECTC | Notice Period | Location Preference nitin.patil@ust.com Act fast for immediate attention! ⏳ Must-Have Skills Strong experience in Software Engineering Strong hands-on experience with GPT-4 Good exposure to AI/ML Strong understanding of LLM Architectures Hands-on experience in RAG Systems Strong programming expertise in Python Proven experience in Generative AI Good-to-Have Skills Experien…",
+                "company": {
+                    "display_name": "UST",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "id": "5768014433",
+                "title": "Chief Technology Officer",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "created": "2026-06-18T15:55:01Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzY4MDE0NDMzIn0.QI7dw0AH7XvpI33J2hnCWBXzwc9fRs90WKAGqHz5SPA",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Clarion Technologies"
+                },
+                "description": "Chief Technology Officer (CTO) Clarion Technologies About Clarion Clarion Technologies is a global digital engineering and technology services company helping businesses build scalable software products, modernize platforms, accelerate cloud adoption, and drive AI-enabled transformation. For over 26 years, we have partnered with startups, SMBs, and enterprises across the US, Middle East, UK, and global markets to solve complex business challenges through technology. As we evolve into a modern A…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5768014433?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=91B951022696C40B81173E103778E5D9C8C98960",
+                "salary_is_predicted": "0"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "id": "5758515096",
+                "title": "Senior Quality Assurance Automation Engineer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU4NTE1MDk2In0.YcDCgp_ZvqJQzv3SqDAeWxSop7k_v88dVTP8K391ZyQ",
+                "created": "2026-06-10T18:02:37Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "About the Role Develop maintainable test automation frameworks, tools, and automated test suites in response to the growing feature set and customer requirements. Responsibilities: Develop test cases for the functional testing of new features and enhancements. Validate the Network protocol (L2/L3) implementation and validate the test steps. Testing the protocol configurations such as OSPF, BGP, DHCP and DNS and certifying that the protocol is behaving in line with the requirement. Work closely …",
+                "company": {
+                    "display_name": "Wipro",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515096?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=4A37A5B5DCDEE5CE288190FA4228DF8C83B55AB3"
+            },
+            {
+                "id": "5739765706",
+                "title": "AWS Data Engineer",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczOTc2NTcwNiIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.VBc78lotXoVmMt_ZORyyz3EEti4I30XKu7rzEXpQAxU",
+                "created": "2026-05-24T17:52:19Z",
+                "description": "Greetings from TCS Come and join us for an exciting career with TCS Role- AWS Data Engineer Experience: 6 - 10 Years. Location- Bengaluru, PUNE Must-Have AWS, Python, PySpark, Databricks, Sympy, UnityCatalog ,SQL ,Pandas ,Github Action Design, build, and maintain data transformation pipelines using AWS services (Lambda Functions, Step Functions  ) in Python. Manage efficiently large dataset. Manage SQL database - PostgreSQL. Implement and maintain complex data calculation formula. Open to colla…",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5739765706?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=EAB37BA6FBBF00D54C8A268691FC478374C134A9"
+            },
+            {
+                "created": "2026-05-24T17:55:56Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczOTc2NzU4OSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.zAkGqHrwFm7-vSgcQjYEk_xXWS6dEPU3X_zV9X-z_b8",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": "5739767589",
+                "title": "AWS Data Engineer",
+                "redirect_url": "https://www.adzuna.in/land/ad/5739767589?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=8717303BF80C1BD007FD9C215028F9E794B0A5F7",
+                "salary_is_predicted": "0",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Greetings from TCS Come and join us for an exciting career with TCS Role- AWS Data Engineer Experience: 6 - 10 Years. Location- Bengaluru, PUNE Must-Have AWS, Python, PySpark, Databricks, Sympy, Unity Catalog ,SQL ,Pandas ,Github Action Design, build, and maintain data transformation pipelines using AWS services (Lambda Functions, Step Functions  ) in Python. Manage efficiently large dataset. Manage SQL database - PostgreSQL. Implement and maintain complex data calculation formula. Open to coll…"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU4NTE1MDg3In0.q3Zsidh20CpyU4BMG4Mr8VNkNDoRmJ1HH6tlqiJFmk8",
+                "created": "2026-06-10T18:02:37Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5758515087",
+                "title": "Software Development Manager (MS D365 CRM/CE)",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515087?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=F1B55F274D6D37A71539746A2F1B555846D012CC",
+                "description": "We enable financial institutions to become digital leaders. As a professional team of global scale, we work with best clients for great and exciting projects, in an environment where we learn amazing things every day. Each code, each voice, each contribution, each challenge, each success is celebrated here. We welcome candidates who share our values, have the skills and are passionate to enjoy our journey to build the digital future of finance, together. About the Job: We are seeking a highly s…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "VeriPark"
+                }
+            },
+            {
+                "created": "2026-06-14T14:46:44Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzQ5MTMzNiIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.62VkxxApNlKDVoOQbwXv45KtwAKjlto2UXlk8A7TdeI",
+                "latitude": 19.00821,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5763491336",
+                "title": "Delivery Manager",
+                "redirect_url": "https://www.adzuna.in/land/ad/5763491336?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=E8217E75348CE57FCC4FA2468FDC04C4AD8C4819",
+                "salary_is_predicted": "0",
+                "longitude": 72.84415,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "eClerx"
+                },
+                "description": "Technical Delivery Lead (AVP) Location: Mumbai Experience: 13–22 Years Role Overvie wWe are seeking an experienced Technical Delivery Lead (AVP ) to drive end-to-end delivery of large-scale technology programs and strategic client engagements. The ideal candidate should possess a strong blend of technical expertise, delivery leadership, stakeholder management, and business acumen .The candidate must have started their career in software engineering (preferably Java technologies) and progressed …"
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515172?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=7E3A3E0465604C7BB19A3DF72ACF958438D5F835",
+                "description": "We're looking for a Senior AI Architect to lead the design and development of production-grade AI applications that solve complex real-world challenges at scale. In this role, you'll combine AI architecture, software engineering, and cloud technologies to build intelligent systems from concept to deployment. You'll work across the full technology stack, designing scalable AI solutions, retrieval systems, agent workflows, and modern application architectures that power next-generation products. …",
+                "company": {
+                    "display_name": "Kake",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 78.50806,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-06-10T18:02:39Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU4NTE1MTcyIn0.dTbDCdiyiXTIC7dOwyogaKI-nsOZ4S8hwJpglorUm0c",
+                "latitude": 17.40275,
+                "id": "5758515172",
+                "title": "Senior AI Architect - Remote",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5758515755",
+                "title": "Senior AI Architect - Remote",
+                "created": "2026-06-10T18:03:30Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODUxNTc1NSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.Zs7s8ianSha0pWySxcgwOKlYgP9lZjUXaiN1yeaRSCw",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "We're looking for a Senior AI Architect to lead the design and development of production-grade AI applications that solve complex real-world challenges at scale. In this role, you'll combine AI architecture, software engineering, and cloud technologies to build intelligent systems from concept to deployment. You'll work across the full technology stack, designing scalable AI solutions, retrieval systems, agent workflows, and modern application architectures that power next-generation products. …",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Kake"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515755?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=E5C06DAD1E925DD50C5B388B138533F4708CB99D"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Senior AI Architect - Remote",
+                "id": "5758517513",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU4NTE3NTEzIn0.t-hlFFmUHbBoa2fH96jmeK6MGZaQ4jj_PGdvxwhw2V8",
+                "created": "2026-06-10T18:05:26Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "We're looking for a Senior AI Architect to lead the design and development of production-grade AI applications that solve complex real-world challenges at scale. In this role, you'll combine AI architecture, software engineering, and cloud technologies to build intelligent systems from concept to deployment. You'll work across the full technology stack, designing scalable AI solutions, retrieval systems, agent workflows, and modern application architectures that power next-generation products. …",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Kake"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758517513?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=796ED33D45AFC2092ADC4AAA19BE8FB3411BC503"
+            },
+            {
+                "title": "SDE 2/3  Instructor(FSD)",
+                "id": "5751932444",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "created": "2026-06-04T16:46:45Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzUxOTMyNDQ0In0.k3rZHlD8QsDljuWLmj1GOtsvKYe_PLlkJucbllJ9rR0",
+                "latitude": 17.40275,
+                "longitude": 78.50806,
+                "description": "About Newton: Newton School of Technology (NST) is a new-age institution redefining technical education in India. Founded by IIT alumni, NST offers a 4-year B. Tech in Computer Science and AI, focused on hands-on learning and deep industry integration. Within two years, over 93% of students have secured paid internships with companies like Razorpay, SarvamAI, and DRDO, along with global exposure through tech treks to Singapore and Silicon Valley. Led by a distinguished faculty comprising ICPC W…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Newton School of Technology"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5751932444?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=4FF5A23ED59AB9025C05EA2B689890B54F7C895D",
+                "salary_is_predicted": "0"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Talent Toppers"
+                },
+                "description": "Technical Manager – Data Engineering & Cloud Platforms We are looking for an experienced Technical Manager to lead high-performing engineering teams responsible for building, modernizing, and operating large-scale global data platforms. This is a hands-on leadership role that combines strong technical expertise, people management, and delivery ownership to drive secure, scalable, and cloud-native solutions on Google Cloud Platform (GCP). The ideal candidate will partner closely with architects,…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5765774846?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=7905729DA3FB5168FC2CF5211BD16C0CC631308B",
+                "salary_is_predicted": "0",
+                "id": "5765774846",
+                "title": "Data Engineering Manager",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTc3NDg0NiIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.finEbjP9uQ88AtpMUXbkphiKDfdOw-CXgnEWaw8P1AA",
+                "created": "2026-06-17T01:08:03Z"
+            },
+            {
+                "description": "About Newton: Newton School of Technology (NST) is a new-age institution redefining technical education in India. Founded by IIT alumni, NST offers a 4-year B. Tech in Computer Science and AI, focused on hands-on learning and deep industry integration. Within two years, over 93% of students have secured paid internships with companies like Razorpay, SarvamAI, and DRDO, along with global exposure through tech treks to Singapore and Silicon Valley. Led by a distinguished faculty comprising ICPC W…",
+                "company": {
+                    "display_name": "Newton School",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 76.99434,
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5762134684?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=AA843E661491CE3CBDC910DD393FEC9A226A983E",
+                "title": "SDE  Instructor - Full stack development",
+                "id": "5762134684",
+                "location": {
+                    "display_name": "Sonipat, Haryana",
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Sonipat"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjEzNDY4NCIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.ZPEz8eQKS-OSj05bNkb-Djd8biNhils9RMw7PDHdt9Q",
+                "latitude": 29.00535,
+                "created": "2026-06-13T10:52:28Z"
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5745168710?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=3EF33A3BDBC1C1D6C9188BA16C285B05AF44415F",
+                "description": "Position name: Technical Sales Engineer - Software sales Location: Bengaluru, Pune, Delhi, and Gujarat Experience: 2 -4 years Qualification: BE / Btech/Diploma/Master – Electronics, Instrumentation, Mechatronics, Telecommunication Required skills : Experience in Field sales Able to achieve the sales targets Good communication with Electronics knowledge Ready to sell Engineering Softwares or Embedded Softwares Job description The candidate will be responsible for: Sales & Business Development in…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Trident Infosol"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzQ1MTY4NzEwIn0.bp8NC67Tk4UlEftISV_TiGSgLZzSONt0D5jE1G5KpFM",
+                "created": "2026-05-30T08:30:37Z",
+                "category": {
+                    "label": "Sales Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "sales-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": "5745168710",
+                "title": "Technical Product Sales Engineer"
+            },
+            {
+                "description": "Distinguished Architect Responsibilities As Distinguished Architect, you will be responsible for groundbreaking integration support across multiple technological and/or business platforms. The distinguished architect is capable of leading a team of architects and works alongside senior management, software engineers and technologists to ensure the strategic alignment of technological solutions and business objectives. The Distinguished Architect will provide architectural mentorship and oversig…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infosys"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5741247862?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=4F04610AD7312FF6E2E6522D229C1B82F241DA9B",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5741247862",
+                "title": "Distinguished Architect",
+                "created": "2026-05-26T18:11:59Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzQxMjQ3ODYyIn0.ZT5fE24pVMvf7mxi_1ChthvinS98QA0Nobu5xpVbs9A",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                }
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753854899?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=A86D2D0B1B8A032ED6359A6816BE5D31AF86F7C5",
+                "description": "Role: Senior Architect - Applied Research & Deep Learning Location: Bangalore, Hybrid Who you'll meet and work with Dr. Ashwin Rao - EVP AI at o9 & Adjunct Professor at Stanford Dr. Narasimha Kamat - EVP@o9 | Supply Chain Professional | Educator | Researcher Siddhartha Niyogi - Global EVP - PMM & Solutions - o9 India CEO & Managing Director o9 Technical Architects ( Amit Agarwal , Rajeev Karri , etc) About the role We are seeking a highly experienced, intellectually curious Senior/Principal Arc…",
+                "company": {
+                    "display_name": "o9 Solutions, Inc.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-06-06T07:40:28Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mzg1NDg5OSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.3iQoq8yPMtqtgCnequxM4dxueEhWEbT0NgMRXC90v_w",
+                "id": "5753854899",
+                "title": "Principal Data Scientist - Applied Research & Deep Learning",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/land/ad/5742256100?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=F6C2638E4E22241BC5A9065BC6CA1386847156DF",
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "description": "Role Overview/Your Impact Design and build custom automation applications and systems from scratch, owning the full lifecycle from requirements and architecture through to deployment and maintenance. Develop workflow automation solutions using tools like Camunda, Python-based orchestration, or similar BPM/workflow frameworks, tailored to specific business needs. Build data ingestion layers and integration systems using platforms such as Apache NiFi or custom-developed pipelines, connecting mult…",
+                "company": {
+                    "display_name": "Sakon",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2026-05-27T18:10:15Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzQyMjU2MTAwIn0.cODYIQJ5DvrVfyt-Qs0yINcYLJ_muZzcOY6rZWCdiD8",
+                "id": "5742256100",
+                "title": "Data Engineer",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                }
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515146?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=3D06A98637DE3C294EB5645F1E3216C0F69EBE07",
+                "company": {
+                    "display_name": "Veracy Consulting",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Job Title: Analyst Location: Delhi (Hybrid) Experience: 2–4 Years Type: Full-Time About the job Veracy Consulting provides Consulting and Development services to Energy Trading & Risk Management clients. The candidate will support daily operational activities, incident handling, monitoring, and coordination with business and technical teams. Key Responsibilities: Providing 2nd-level application support to our clients for Market Risk and Credit Risk systems. Diagnose and resolve day-to-day Incid…",
+                "contract_time": "full_time",
+                "longitude": 77.224601,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODUxNTE0NiIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.TK2u_5B9BDP15E4SHZEhM2J56q2eYBhqup6T6k5nau4",
+                "latitude": 28.62523,
+                "created": "2026-06-10T18:02:39Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Delhi, India",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Analyst",
+                "id": "5758515146"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/land/ad/5765773811?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=2ECBEB876078EFDE78A2AA58DA4E855201AE17FD",
+                "salary_is_predicted": "0",
+                "description": "Faculty Openings – Department of Computer Science & Engineering Positions: Assistant Professor / Associate Professor / Professor Location: KR Mangalam University , Sohna Road, Gurugram About the Opportunity KR Mangalam University invites qualified, passionate, and research-driven academicians to join our Department of Computer Science & Engineering . We seek dynamic educators and researchers committed to academic excellence, innovation, and student success. Key Responsibilities Teach undergradu…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "K.R. Mangalam University"
+                },
+                "created": "2026-06-17T01:04:32Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzY1NzczODExIn0.Xclh8gOzwGQ1SJbPNPRMX65NiYr_3ltvEL3HLZZB8Ig",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs"
+                },
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5765773811",
+                "title": "Assistant / Associate / Professor - Computer Science Engineering (CSE)"
+            },
+            {
+                "id": "5760048804",
+                "title": "Azure Infrastructure Architect",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzYwMDQ4ODA0In0.PL3d4ESVFMyDfITTgOPfJcCG7RwqO2Is2MHhRCWBu2U",
+                "latitude": 13.06041,
+                "created": "2026-06-11T21:04:20Z",
+                "longitude": 80.24963,
+                "description": "We are looking for a Azure Architect who has expereince in Azure Infrastructure , Application Management and Terraforms Experience : 9 - 14 yrs Shift : Rotational shifts inclusive of night shift and Rotational Week off Location: Chennai, Bangalore and Pune Work Mode: Work from office Responsibilities: Design and implement scalable and highly available cloud infrastructure solutions. Automate deployment processes using CI/CD pipelines to improve software delivery speed. Monitor system performanc…",
+                "company": {
+                    "display_name": "Neurealm",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5760048804?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=724960F3B9F3D08D1BC85E6C2AA82534C0EB0BA7",
+                "salary_is_predicted": "0"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/land/ad/5754994165?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=7A625ACF7C3C50AA33956EC01CE01233234F85FC",
+                "salary_is_predicted": "0",
+                "description": "JD - Hardware Engineer Key Responsibilities: 1. Hardware Design & Development: Design and develop sophisticated hardware components for IoT devices, ensuring high performance, reliability, and cost-effectiveness, including RF design, manufacturing standards, DSP Algorithms. 2. PCB Layout & Prototyping: Create detailed PCB layouts and prototypes. Ensure designs meet various compliance standards, including FCC and UL. 3. Component Selection & Sourcing: Select appropriate components, balancing tec…",
+                "company": {
+                    "display_name": "Hoomanely",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "Engineering Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU0OTk0MTY1In0.Ta1kW-dEMVMvT0rgKb6IfwlhgaF1YewegBhIFx1LaU0",
+                "created": "2026-06-07T07:44:25Z",
+                "title": "Hardware Engineer",
+                "id": "5754994165",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5765774061?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=B6543D289E6D27ACAB49725EBE5D3D9769C4010A",
+                "description": "Job Summary : We are looking for a hands-on builder who can own the complete lifecycle of digital operations, from integrating third-party tools and payment gateways to crafting WordPress experiences and automating multi-step workflows through power automate or similar tools - without heavy reliance on traditional software engineering. You will work closely with business and product teams to translate requirements into live solutions with minimal engineering overhead. Key Responsibilities : • D…",
+                "company": {
+                    "display_name": "BHIVE Workspace",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "engineering-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTc3NDA2MSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.X7APCbcgdRDJYFfT9TCKspzd4Ck7lizujav3YEnfe4E",
+                "created": "2026-06-17T01:05:11Z",
+                "id": "5765774061",
+                "title": "WordPress CMS Developer and Business Automation Specialist",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                }
+            },
+            {
+                "longitude": 76.93365,
+                "description": "Job Title: Generative AI / LLM Architect Experience: 10 years in software engineering with 4-6 years in AI/ML and hands-on experience in Generative AI. Role Overview We are looking for a Generative AI Architect to design and deliver enterprise-scale solutions using Large Language Models (LLMs). The role involves architecting GenAI platforms, building AI copilots and assistants, and enabling scalable AI deployment across the organization. Key Responsibilities Design end-to-end Generative AI arch…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "UST"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5743507820?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=13859A6451E4BA4F2E4E1A91C67C03C05D5AF429",
+                "salary_is_predicted": "0",
+                "id": "5743507820",
+                "title": "Generative AI / LLM Architect",
+                "location": {
+                    "display_name": "Trivandrum, Thiruvananthapuram",
+                    "area": [
+                        "India",
+                        "Kerala",
+                        "Thiruvananthapuram",
+                        "Trivandrum"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "created": "2026-05-28T18:22:30Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MzUwNzgyMCIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.Xg2TUBg6e3cBih-WhHD603NbbD0RafJLvVWpsUQXJIw",
+                "latitude": 8.49239
+            },
+            {
+                "description": "Job Description Are you an experienced Enterprise IT Architect looking for an exciting opportunity to shape the future of software development? Look no further than Kyndryl, where you'll have the chance to make a meaningful impact as you lead the design and development of cutting-edge software applications. As a Software Engineering Architect at Kyndryl, you will be responsible for leading the charge in creating technical blueprints, defining product/solution architecture, and developing the te…",
+                "company": {
+                    "display_name": "Kyndryl",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5742257103?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=C4F1A2B833B1777D1F055B86016415C3F6000158",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5742257103",
+                "title": "Enterprise IT Architect",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjI1NzEwMyIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.bQunzzd-YSepT3hMfWHwonTTvBl76a9xnhDNxc7NI9s",
+                "created": "2026-05-27T18:12:23Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                }
+            },
+            {
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-06-13T10:53:20Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjEzNjU0MCIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.WzqtupZqfX1LUAj0gjQdOhlCL2kPNz0p1nfl2kWbXXw",
+                "id": "5762136540",
+                "title": "Web Engineering Manager(Sitecore, React, Nodejs)",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5762136540?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=B4A8484E3AAAB711DF370A76607ECCD5A1AA4311",
+                "description": "Job Title: Web Engineering Manager Location: Remote Employment Type: Full-Time Experience: 10 Years About Closeloop Technologies Closeloop Technologies is a US-based software development and consulting company headquartered in Mountain View, California, with a strong engineering presence in India. We help startups, SMBs, and enterprises build innovative digital products across web, mobile, cloud, AI, data engineering, and enterprise platforms. We are looking for a highly motivated Web Engineeri…",
+                "company": {
+                    "display_name": "Closeloop Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "description": "About Ganit Inc Founded by senior industry experts, Ganit is the fastest-growing data science company in Chennai with offices in Bengaluru, Mumbai & New Jersey. Ganit has flipped the data science value chain. We don't start with a technique. For us, consumption comes first. With this philosophy we have successfully scaled from being a small start-up to 200 resource company with clients in the US, Singapore, Africa, UAE, and India. We are helping Fortune 500 companies across the globe to maximiz…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Ganit Inc."
+                },
+                "longitude": 72.84415,
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5768015825?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=3AE622F3D3FE6E620241FE0233B9B6C6474285A4",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Senior Data Scientist",
+                "id": "5768015825",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODAxNTgyNSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.Mb6hnOyNsb6NNW2E7SZ6-zVnkhF-H8G3rtz8ayV5xcg",
+                "created": "2026-06-18T15:55:21Z",
+                "latitude": 19.00821,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "title": "Generative AI Engineer",
+                "id": "5762132187",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjEzMjE4NyIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.4FdVvRCQnjIciCfknh303_yaBibZgiUfPahOBwB4gwM",
+                "created": "2026-06-13T10:51:45Z",
+                "description": "Position: Senior Full Stack AI Software Engineer About the Role We are looking for a highly experienced Senior Full Stack Software Engineer to help design, build, extend, and stabilize a highly dynamic, metadata-driven application platform. Our platform is a low-code / no-code / pro-code system (Golang / Python), with a web client (TypeScript / React) that consumes a rich API surface. The platform dynamically renders application pages from YAML-based metadata definitions. A view definition, for…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infotech.Works"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5762132187?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=B28C0250CED5A89C082F7710309D3B2CA03D7CD4",
+                "salary_is_predicted": "0"
+            },
+            {
+                "longitude": 78.50806,
+                "description": "About the Company: We are a global consulting firm; we specialize in transforming businesses through innovative digital solutions. Our expertise spans across Process Improvement, Business Process Outsourcing, AI & Automation Solutions, and Captive Setup Services. Please visit www.navsan.com Role Overview The ideal candidate combines strong software engineering capabilities with deep expertise in AI-powered automation platforms, enterprise integration, DevSecOps practices, and scalable cloud arc…",
+                "company": {
+                    "display_name": "Navsan",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5742257525?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=CEBFD13DBE2856D8012CE83E0C0942854287A7B5",
+                "salary_is_predicted": "0",
+                "title": "AI Senior Automation Engineer",
+                "id": "5742257525",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2026-05-27T18:13:16Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjI1NzUyNSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.zq3KTeQZt49epbsNFTo-6vE5HhKaD2mowIuA7ZZZ3eg",
+                "latitude": 17.40275
+            },
+            {
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5753194556",
+                "title": "Product Engineering Manager",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzUzMTk0NTU2In0.N-eRCjdLCb1dFIWC0o16nrY3_lQIChAD9-olitn5mDM",
+                "created": "2026-06-05T17:22:05Z",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Role: Product Engineering Tech Lead Experience: 3 - 5 years Location: Bengaluru Role Summary We are building an AI-native B2B intelligence and procurement platform. You will lead the Product Engineering pod, acting as the bridge between our backend AI/Agent engines and the end-user. You will own the architecture and delivery of the full product—translating complex agent workflows, search results, and procurement lifecycles into a stable, secure, and seamless application This is a hands-on techn…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753194556?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=BDAF5CF0DABC30AF6DB8CA799395D31945BCF568"
+            },
+            {
+                "description": "We are looking for experienced academic leaders to drive the growth, quality, and innovation of online degree and certification programs across Management, Computer Science, and Commerce domains. Key Responsibilities: Lead the design, development, and continuous enhancement of undergraduate, postgraduate, and executive education programs. Develop industry-relevant curricula aligned with emerging trends, technology advancements, and learner needs. Drive innovation in online learning through expe…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "FyndBridge Consultants & Advisors"
+                },
+                "longitude": 77.224601,
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5755464935?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=81C074804238ACB23E4ACAE1938339B6DD9C2168",
+                "title": "Program Director – Online Higher Education | A Reputed University in Delhi NCR",
+                "id": "5755464935",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "display_name": "Delhi, India"
+                },
+                "category": {
+                    "label": "Teaching Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "teaching-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-06-07T17:40:49Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU1NDY0OTM1In0.EpiSfNddo40DwqHaz6kIw16buWjDNAejbJGt2cHkdko",
+                "latitude": 28.62523
+            },
+            {
+                "id": "5724227608",
+                "title": "Senior Application Security Engineer",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNDIyNzYwOCIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.L1iZLSKO0Pu2_E3IR_LHxSQQtYSFHKerx6R4ad6Ja6o",
+                "created": "2026-05-09T18:31:59Z",
+                "latitude": 17.40275,
+                "longitude": 78.50806,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "H&R Block India"
+                },
+                "description": "Job Title: Senior Application Security Engineer Location: Trivandrum/Hyderabad Experience Range: 4 yrs The Senior Application Security Engineer is a hands-on role focused on application development security. This role requires a broad, deep level of technical expertise and information security experience. The Senior Application Security Engineer collaborates with staff developers, Information Technology, business users, and Information Security to assess and manage static and dynamic code analy…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5724227608?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=7441DA96DB50D234BEC6966659D6C2A6CD8DD90D",
+                "salary_is_predicted": "0"
+            },
+            {
+                "created": "2026-06-12T02:12:37Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzYwMjg5MjY5In0.abH0NTLVlU3ibgTmljb_4duh95avVF0NF7evdnLpTOg",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "id": "5760289269",
+                "title": "SEO Engineering at US Startup [Need SEO  Dev Exp]",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5760289269?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=9BB80524D05C77DB49028FAD7C77BA5226322ACF",
+                "description": "The Role This is a hybrid role for someone who lives at the intersection of SEO and software engineering . You won't just file tickets for engineers and wait — you'll write the code yourself. You'll own technical SEO end to end, build the internal tooling that makes our SEO operation scale, and ship programmatic content systems that turn data into ranking pages. You should be equally comfortable debugging a crawl-budget issue, shipping a Next.js change to fix render-blocking, and writing a Pyth…",
+                "company": {
+                    "display_name": "Swades AI",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "description": "Duck CreekIntegration Position Product Engineer The Duck CreekPolicy Position Product Engineer is a key contributor to the success of the Duck CreekPolicy product This role requires a combination of technical and business skills to develop document and maintain the product The Product Engineer must be able to work closely with the business development and support teams to ensure the product is designed and implemented to meet customer requirements Responsibilities Analyze customer requirements …",
+                "company": {
+                    "display_name": "LTM",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5708301295?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=806613EB891D26B8B8B7C29038B047D9C2BF5BCE",
+                "title": "DuckCreek Integration-Product Engineer",
+                "id": "5708301295",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzA4MzAxMjk1In0.YCede0nq5rm72b2lIajhBdCYi7bkrXs1GGNB6V8uZ_I",
+                "created": "2026-04-23T17:45:23Z"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzMzOTc1ODgzIn0.jeQDjqC2NSW-_Tyf68OY9_J5efq_zssRLMipgI6zAbk",
+                "created": "2026-05-19T17:26:59Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5733975883",
+                "title": "Wordpress Developer",
+                "redirect_url": "https://www.adzuna.in/land/ad/5733975883?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=83EA5D102C2A49BA8A0DE6CF39E8476EBDA98169",
+                "salary_is_predicted": "0",
+                "description": "Company Description RedBlackNode is a software development practice focused on creating scalable web applications, internal systems, and automation workflows. Leveraging technologies like React.js, Node.js, Express, and MongoDB, the company builds API-first systems and integrates platforms using tools like n8n, Zapier, and Make. Projects range from custom web apps and dashboards to CRM systems, e-commerce platforms, and automation pipelines that enhance efficiency and reduce manual tasks. The t…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "RedBlackNode"
+                }
+            },
+            {
+                "company": {
+                    "display_name": "GoQuant",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "CPP & Rust Software Engineer (paid) GoQuant Technologies Inc About Us GoQuant develops solutions that make life easier and more profitable for digital asset traders and researchers. We do so primarily by increasing transparency, boosting speed, and placing decisions in the hands of users. We currently offer two solutions: GoMarket and GoTrade. GoMarket is a subscription service that delivers low-latency digital asset data via WebSocket. Features include a unified querying language that allows u…",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5762122628?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=C6D7AAF695B1195C2ED3A0363B55E885C2A75A4E",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Back End Developer",
+                "id": "5762122628",
+                "created": "2026-06-13T10:48:49Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzYyMTIyNjI4In0.Ttvax90UkoKMzE-eJlp0JBbnn-EqHUPlRR1ZzMPXsq4",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "description": "As a Senior Data Engineer, you will be pivotal to evolving our existing data and reporting experiences. You’ll build out pipelines to gather data from multiple sources and make it available for analysis. You will shape both internal and external analytics products to help guide business-critical decisions, enhance their workflows, and improve decision-making. What you’ll do Design and implement sophisticated data models in SQL. Work closely with the other Software Engineers to ensure sound, sca…",
+                "company": {
+                    "display_name": "DevRabbit IT Solutions",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5758515158?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=CDE0F4AB3A6DA555E2F8E3AFD886BF230773F529",
+                "salary_is_predicted": "0",
+                "id": "5758515158",
+                "title": "Senior Data Engineer",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs"
+                },
+                "created": "2026-06-10T18:02:39Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzU4NTE1MTU4In0.k1Xd73TIOlJ8cEI39_tfY83zUOrm1aDHD36-E-meuhk"
+            },
+            {
+                "description": "About Us: At Calfus, we are known for delivering cutting-edge AI agents and products that transform businesses in ways previously unimaginable. We empower companies to harness the full potential of AI, unlocking opportunities they never imagined possible before the AI era. Our software engineering teams are highly valued by customers, whether start-ups or established enterprises, because we consistently deliver solutions that drive revenue growth. Our ERP solution teams have successfully implem…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Calfus Inc."
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5743507237?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=D5B1F362F87441DFB8C0A795A5F4571AA3D61F50",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "title": "Oracle Functional Consultant (Tax)",
+                "id": "5743507237",
+                "created": "2026-05-28T18:20:34Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MzUwNzIzNyIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.ShjjIn65XZ1nv9cacP6TtI3Fa6Qw8fk9RFjTI2tu-x8",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                }
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/land/ad/5765772947?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=EA18EE8C5953837A473C85A4185839238B8CBB5F",
+                "salary_is_predicted": "0",
+                "description": "About the Company This role will be based out of the India IT Delivery Centre and will be responsible for driving AI adoption through upskilling employees, identifying high value use cases, and enabling consistent application of AI tools across the SDLC lifecycle. The role will operate as an influencer, creating a community of AI practitioners across IT Solutions Programs. While this role will report solid line to the India IT Delivery Centre Manager, the role will also matrix into GSC IT Solut…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Eurofins"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzY1NzcyOTQ3In0.K4Zyn88guRPtR__gfX7XeK4k5G2m8t318dTNJAgMV7M",
+                "created": "2026-06-17T01:00:41Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5765772947",
+                "title": "AI Enablement Lead"
+            },
+            {
+                "contract_time": "full_time",
+                "description": "Electronics & PCB Design Engineer Location: On-site - Bengaluru Type: Full-time Experience: 1- 3 years The role You'll be our go-to person for everything electronics — reading a sensor datasheet, designing the board, and getting it working at the bench alongside our cross-functional team. It's a role with real ownership, client-facing visibility, and plenty of variety. We care less about years on paper and more about what you've built. What you'll do Design schematics and multilayer PCBs for vi…",
+                "company": {
+                    "display_name": "Rayvector Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5768219131?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=317B6ABFA875E232E3C629AB18345A7B626083B0",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "id": "5768219131",
+                "title": "Electronics & PCB Design Engineer",
+                "created": "2026-06-18T21:46:04Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODIxOTEzMSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.NRDYfFQeeb-U2DsmlgRSzcLJSdeO-xT-NZXkk_ZH71Y",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs"
+                }
+            },
+            {
+                "description": "About the Job As a Service Desk Engineer at Aspire, you will determine problems within specific systems, provide solutions for issues you find in the process, software, and maintain existing systems. What You'll Do Provide technical support via phone, email, chat, or ticketing system for hardware, software, and network issues. Manage support tickets: log, update, resolve, and escalate as needed. Handle user account setup, access management, and device provisioning (Active Directory, Office 365,…",
+                "company": {
+                    "display_name": "Aspire, Jordan",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5751932427?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=167BB81225515A97372C61EA4A61AC3608F4E88E",
+                "salary_is_predicted": "0",
+                "id": "5751932427",
+                "title": "Service Desk Engineer (German and English)",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTkzMjQyNyIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.RaXEM49YafFCq5wsd3UDArVAa2CxCojk3dUnzHHM1Rc",
+                "created": "2026-06-04T16:46:41Z"
+            },
+            {
+                "longitude": 78.50806,
+                "description": "Position Title: Gen AI Engineer Required Experience : 5- 8 yrs Job Location: Hyderabad / Indore (Hybrid) Shift : 11.30 AM - 8.30 PM Description: • Design, develop, and maintain scalable backend systems using Python. • Integrate Generative AI technologies into applications to solve real-world problems and enhance user experiences. • Collaborate with cross-functional teams including product managers, data scientists, and UX designers to deliver high-quality solutions. • Optimize performance, ensu…",
+                "company": {
+                    "display_name": "Solugenix",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5758516639?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=B664452883E6CE00DF47100E4C2652402BFCAEDA",
+                "salary_is_predicted": "0",
+                "title": "Gen AI Engineer",
+                "id": "5758516639",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODUxNjYzOSIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.5viT5nYaOP5nhTkKupHcKB_VGZu8FXytdolLfX97MIE",
+                "latitude": 17.40275,
+                "created": "2026-06-10T18:04:42Z"
+            },
+            {
+                "description": "We are happy to inform you that K L University has an immediate opening for Teaching Faculty in the Computer Science & Engineering (CSE) Department. The Koneru Lakshmaiah Charities was established as a trust in 1980, with its official address at Museum Road, Governorpet, Vijayawada, Andhra Pradesh 520002, and started K L College of Engineering in the academic year 1980-81. Position : Assistant/Associate/Professor – CSE Location: K L University Campus, Vaddeswaram, Guntur, Andhra Pradesh Key Res…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "KL University, Vaddeswaram"
+                },
+                "longitude": 80.4169,
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5736370123?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=E1EF833F44AD049B67D82A19A70A3C422A14691D",
+                "title": "Assistant Associate Professor",
+                "id": "5736370123",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Andhra Pradesh",
+                        "Guntur"
+                    ],
+                    "display_name": "Guntur, Andhra Pradesh"
+                },
+                "category": {
+                    "tag": "teaching-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Teaching Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzM2MzcwMTIzIn0.qOV6HOqdrmbFAXbQdSIbHJNnZHkkqDhpaIQ28NvtZ8E",
+                "created": "2026-05-21T17:36:37Z",
+                "latitude": 16.25345
+            },
+            {
+                "description": "Job Summary: JECRC College, Jaipur invites applications for the position of Professor (Computer Science) from accomplished academicians with expertise in Artificial Intelligence (AI), Data Science, Machine Learning, Cybersecurity, and emerging technologies , along with strong teaching, research, and academic administrative experience in reputed institutions. Key Requirements: Education: B.Tech., M.Tech., and Ph.D. in Computer Science / CSE / allied disciplines ( mandatory ) All qualifications m…",
+                "company": {
+                    "display_name": "Jaipur Engineering College and Research Centre ",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 75.9469,
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5719048957?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=6D26390630D470F4649CA0A65C5DA062787C498C",
+                "id": "5719048957",
+                "title": "Professor of Computer Science",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Jaipur, Rajasthan",
+                    "area": [
+                        "India",
+                        "Rajasthan",
+                        "Jaipur"
+                    ]
+                },
+                "category": {
+                    "label": "Teaching Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "teaching-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-05-05T08:04:28Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxOTA0ODk1NyIsInMiOiJJcGE4WFVkcjhSRzdIcWlkNTNsUFBRIn0.T3wDvnxKWrRsMdDG3wuQafoY7KHfeXTrfdWHK9iPyTw",
+                "latitude": 26.7441
+            },
+            {
+                "id": "5753191886",
+                "title": "Forward Deployed Engineer (Generative AI)",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "created": "2026-06-05T17:18:54Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzUzMTkxODg2In0.kDjL5olLwSjzhrR7QRN-Ro1GTeYsB3UEF4V5B5ybTZk",
+                "description": "We're looking for exceptional engineers who thrive at the intersection of Generative AI, Software Engineering, Customer Impact, and Enterprise Transformation . This is a unique opportunity to work directly with cutting-edge AI technologies and help bridge the gap between breakthrough research and real-world business outcomes. What makes this role exciting? Work on production-grade Generative AI solutions that solve real business challenges. Build and deploy advanced Agentic AI systems using the…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Antal International"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5753191886?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=6A351EE165026168A16987F084064664BA6C5CA5",
+                "salary_is_predicted": "0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzM2MzY4MDkyIn0.5XZE0S5x8oWl8gxu-bMjYODgXlmQcdFgILOKHNcjSSE",
+                "latitude": 13.06041,
+                "created": "2026-05-21T17:32:58Z",
+                "category": {
+                    "tag": "scientific-qa-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Scientific & QA Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "id": "5736368092",
+                "title": "Computer Vision Researcher",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5736368092?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=B17B56DB06D71590F867B391F4D86C119CEFE448",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Meril"
+                },
+                "description": "Job Title : Computer Vision Researcher . Location: Meril - Merai Newage Pvt Ltd, D block, 4th floor, Kanagam Road, Tharamani, Chennai 600 113. Shift Timings: Monday to Saturday (9 AM to 5.30 PM). Experience: 2 Years. Role Description We are seeking a highly skilled Vision-Language Model (VLM) Engineer to design, develop, and deploy state-of-the-art multimodal AI systems. You will work at the intersection of computer vision and natural language processing, contributing to cutting-edge products t…",
+                "longitude": 80.24963
+            },
+            {
+                "title": "Data Modeler",
+                "id": "5760048893",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "created": "2026-06-11T21:04:40Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiSXBhOFhVZHI4Ukc3SHFpZDUzbFBQUSIsImkiOiI1NzYwMDQ4ODkzIn0.dvrM6u6Jp1JVwc5m6frpn6CRfrVFskBcsFB2I1HrGA0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tredence Inc."
+                },
+                "description": "About the Company: Tredence focuses on last-mile delivery of powerful insights into profitable actions by uniting its strengths in business analytics, data science and software engineering. The largest companies across industries are engaging with us and deploying their prediction and optimization solutions at scale. Head quartered in the San Francisco Bay Area, we serve clients in the US, Canada, Europe, and South East Asia. We are seeking an experienced data scientist who apart from the requi…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5760048893?se=Ipa8XUdr8RG7Hqid53lPPQ&utm_medium=api&utm_source=7d10bb5b&v=2765C44ACE779239D9BA700479A37D7540223908",
+                "salary_is_predicted": "0"
+            }
+        ]
+    },
+    "page": 3,
+    "role": "software_engineer"
+}

@@ -1,0 +1,1438 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:55:59.142612",
+    "source": "adzuna",
+    "response": {
+        "results": [
+            {
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5749372718?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=0F0B40F5B6042E071B76DB90155B2DA03B4B7549",
+                "latitude": 17.40275,
+                "created": "2026-06-03T01:03:17Z",
+                "title": "Senior Specialist - Data Sciences",
+                "description": "Location: Hyderabad | Experience: 7 Years Notice Period: Immediate – 30 Days Job Summary Lead and architect advanced GenAI and LLMOps solutions within the AIOPSAI Engineering domain to drive innovation and operational excellence Job Description Spearhead the design development and deployment of generative AI and large language model operations LLMOps solutions tailored to complex business requirements Collaborate with cross functional teams to integrate AI driven automation and intelligence int…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0OTM3MjcxOCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.7bk7Nc_rIh0JV2UGQ5V5Rc70fQpoGiIpkoKcdPk5Nlc",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "LTIMindtree",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5749372718",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "longitude": 78.50806
+            },
+            {
+                "id": "5680962687",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Walmart",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY4MDk2MjY4NyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.cseei-o6Tswl-pXcMjSUrmiohFvODwx_vXMsMpPhhlk",
+                "created": "2026-03-28T09:48:19Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5680962687?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=82285111F07003955059B2FD3014FE7833142E36",
+                "title": "Sr Manager, Data Scientist",
+                "description": "About the Team: Walmart Global Logistics is a dynamic organization dedicated to delivering efficient, reliable, and innovative supply chain solutions worldwide. Our team manages the movement of goods from origin to destination, ensuring products reach Walmart stores and customers on time and in optimal condition. We focus on end-to-end logistics solutions, global transportation management, operational excellence, technology and innovation, and continuous improvement. About the Role: As a Sr Man…",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "description": "Essential skills/knowledge/experience: Role- Data Scientist ( 5 to 10 Yrs ) Hands-on experience with GenAI, Gemini or Open source LLMs and develop GenAI applications for Code Translation, Text Extraction, Summarisation and SDLC Optimization etc. Hands-on Experience with AI Agents, Chat bots, RAG (Retrieval-Augmented Generation), and vector databases. ( PG vector / croma DB ) Hands-on Experience with GenAI Performance Evaluation tools like Pegasus, Ragas, DeepEval Create Conversational Interface…",
+                "title": "Gen AI Data Scientist",
+                "redirect_url": "https://www.adzuna.in/land/ad/5757284674?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=78442E076D648F0CB4448F516EF2B7A22F49474E",
+                "created": "2026-06-09T18:09:57Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "id": "5757284674",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzU3Mjg0Njc0In0.slTs1qug5BaOd8zW2lBbz6ZFi8-F9klecj_nkXefLk8"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTYyMzgyOTI4MSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Rl-b2YSqciSm23_gYrsl3de12C9Kb3gifBkUHV_MruQ",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5623829281",
+                "company": {
+                    "display_name": "Unotech Global",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-02-11T10:29:04Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5623829281?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=221DEB37246CBF05615EA464131DB64CBCC28FCA",
+                "description": "The Opportunity: As an eCommerce Data Analyst , you'll have the opportunity to make a significant impact by providing actionable insights that drive business decisions. You are passionate about data, have mastered using it to take an advisory approach, and thrive in a business where the data you share helps support business objectives. You hold a strong understanding of data sources, their structures, how the data flows, and where improvements could be made. You'll work in a dynamic environment…",
+                "title": "Data Scientist (E-Commerce)"
+            },
+            {
+                "title": "Data Scientist - Intelligence Engine",
+                "description": "At SingleInterface, we are redefining how multi-location brands connect with customers in an AI-driven digital world. Backed by $30M in funding from PayPal Ventures and Asia Partners, we are scaling our AI Retail Tech Platform to empower businesses with seamless digital presence management, AI-powered customer engagement, online reputation management, and store-level product & service integration. Our data-driven approach helps brands enhance customer experience, gain insights, and drive revenu…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5661639854?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=5ADEE16AEF7672ACC2AFEF0B0A3D8E958571CB1E",
+                "latitude": 28.323996,
+                "created": "2026-03-11T17:50:27Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Gurgaon, Haryana",
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Gurgaon"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "longitude": 76.983738,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5661639854",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "SingleInterface"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NjYxNjM5ODU0In0.OmWXn0KtgmAei6_iCRdblicDX_eXaGNuNN1dPAMFgxg"
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/land/ad/5744180894?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=7BC336318D4AA7282AEA9BC2295AEE7EFC63DBD1",
+                "created": "2026-05-29T08:21:53Z",
+                "title": "AI/ML Data Scientist",
+                "description": "Job Title: AI/ML Engineer / GenAI Experience: 4 Years Location: Chennai (Onsite) Mandatory Skills: Machine Learning & AI, AI/ML Models, Model Deployment & APIs, GenAI. Job Description: Develop and implement advanced AI algorithms and statistical models Collaborate with cross-functional teams to deliver impactful AI solutions Design experiments to interrogate and extract insights from large datasets Host models and convert them into APIs for scalable deployment Apply predictive modeling to optim…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDE4MDg5NCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Vpa5nCcLWJJ69lqfxHH4w9wypocasz9Mf7rQSpqDayQ",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5744180894",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infosys Finacle"
+                },
+                "longitude": 80.24963
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzY1NzczNzc2In0.0PXQLMFNxp1Eda7QcgANNxDLmMmGVnnQm4EOD-8TB1o",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5765773776",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "display_name": "Three Across",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "title": "GenAI Architect - Data Science",
+                "description": "Hiring: Gen AI Engineer/ Architect Location: Gurugram/ Benagluru Experience: 4–15 Years Open Positions: 5 Work Mode: Hybrid/ On-site We are hiring for a global consulting organization at the forefront of AI-led transformation, building production-grade GenAI solutions for enterprise clients. This requirement spans across two roles: 1. GenAI Developer (4 Years) Strong Python expertise Hands-on experience with LLMs, RAG, LangChain / LlamaIndex Exposure to vector databases (Pinecone, FAISS, Weavia…",
+                "created": "2026-06-17T01:04:25Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5765773776?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=8AEEF12D06B88C38FAE7725D00B9D63992D61CE0"
+            },
+            {
+                "description": "Location: Bangalore / Pune / Lucknow Experience: 3-6 Years We are looking for a skilled AI/ML Engineer with strong experience in Machine Learning, NLP, Deep Learning, or related AI technologies. The ideal candidate should have hands-on experience building intelligent systems, working with large datasets, and developing scalable AI/ML solutions. Exposure to Generative AI/LLMs will be considered a good to have. Key Responsibilities: Build, train, and optimize Machine Learning and AI models Work o…",
+                "title": "Data Scientist(Agentic AI)",
+                "redirect_url": "https://www.adzuna.in/land/ad/5765775085?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=F9344A924D804540EE6B815C615C0B87773F1F34",
+                "created": "2026-06-17T01:09:02Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5765775085",
+                "company": {
+                    "display_name": "UsefulBI Corporation",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTc3NTA4NSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.8E-vOq8N7PNbOki43nNb9N9vVq1DWrLAYK9dUsRc4k0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDk5NTQ1NCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.UsSP65-XJwQVIvm1Br6BUUO3Flrieb08QMLwblKbtgc",
+                "longitude": 78.50806,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Prudent Technologies and Consulting, Inc.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5754995454",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "title": "Director – Data Science & Data Engineering(AI)",
+                "description": "Position Summary We are seeking an accomplished and visionary Director – Data Science, Data Engineering, AI Solutions & Pre-Sales to lead our AI and Data practice, drive strategic growth, and deliver transformative solutions for global clients. This role combines executive leadership, solution architecture, business development, pre-sales consulting, and delivery oversight across Data Engineering, Data Science, Artificial Intelligence, Generative AI, Analytics, and Cloud platforms. The ideal ca…",
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/land/ad/5754995454?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=898FB6B5872EAEB604B9BB4490C813D3EEFEBCF5",
+                "created": "2026-06-07T07:46:31Z"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5745165563",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "display_name": "LTM",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 88.34373,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NTE2NTU2MyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.8U46poTDzeCoEaNeqBKG0Vc-eX8ETOeqXwXibmMAlB0",
+                "created": "2026-05-30T08:27:55Z",
+                "latitude": 22.57285,
+                "redirect_url": "https://www.adzuna.in/land/ad/5745165563?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=5A61E211C29CB4E323B01800EE6BB99495BCADBE",
+                "title": "Gen AI  Data Science Specialist",
+                "description": " Job Overview We are looking for a Gen AI  Data Science Specialist who combines deep data science expertise with hands-on Generative AI skills. The ideal candidate will leverage statistical modeling, data analytics, and Gen AI technologies to derive actionable insights and build intelligent, data-driven AI solutions.  Note Applicants should have hands-on experience in Gen AI  Python and knowledge of Large Language Models (LLMs), RAG pipelines, embeddings, and prompt engineering. Practical exper…",
+                "location": {
+                    "area": [
+                        "India",
+                        "West Bengal",
+                        "Kolkata"
+                    ],
+                    "display_name": "Kolkata, West Bengal",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5751932506?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=22A7CB6BF7CBE2455F4D147A6F14D7E91AFBA8F7",
+                "created": "2026-06-04T16:47:02Z",
+                "description": "Are you ready to create an impact with a fast-growing B2B SaaS product company and change the face of enterprise analytics? Taglynk is looking for a talented Senior Data Scientist to help discover hidden insights within vast amounts of data and build high-quality prediction systems. If you love structuring complex business problems, experimenting with advanced ML models, and turning data into powerful business narratives, we want you on our team!  Role Overview Position: Senior Data Scientist L…",
+                "title": "Senior Data Scientist - Immediate Joiner",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUxOTMyNTA2In0.zWTT3DFYD8BZZBBvBl2peI60ZA7xTFPygxAz3gbIc2w",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Taglynk"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "id": "5751932506"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "SynapOne"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5762138930",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "longitude": 78.50806,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MjEzODkzMCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.-x5FsTVq70AcAIAI-jf_JSndE_MFV8gxgb1YsffZtR0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5762138930?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=FF5D557FADF81AB9C3EE15AB30E5144C9BFCC500",
+                "latitude": 17.40275,
+                "created": "2026-06-13T10:54:15Z",
+                "description": "Position: Senior Data Scientist Work Location: Hyderabad Work Mode: Mon-Fri (Work from Office) Primary Roles & Responsibilities • Design, develop, and deploy AI/ML products and services based on the customer needs. • Design data pipelines • Continually develops capability both against current demand and the technology/business capability roadmaps provided. • Review and integrate all application requirements, including functional, security, integration, performance, quality, and operations requi…",
+                "title": "Sr. Data Scientist with Snowflake experience",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                }
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "display_name": "Delhi, India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2026-06-06T07:41:30Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753856223?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=4B3C62FAB513952E1B6F52DAACCA819E0C6B4DD2",
+                "latitude": 28.62523,
+                "description": "Dear Tech Professional Greetings from Tata Consultancy Services (TCS) TCS has always been in the spotlight for being adept in “the next big technologies”. What we can offer you is a space to explore varied technologies and quench your techie soul. What we are looking for: Data Scientist Interview Location: Delhi Interview Mode: F2F discussion Exp : 4-12 Years 4-10 years of professional experience in data science, machine learning Strong proficiency in Python is mandatory, with experience in dat…",
+                "title": "Data Scientist- F2F discussion - Delhi",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mzg1NjIyMyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.nLfcHMXnz4UIZ8V-6BFv-bwfAYc-rZaeVIRupYWYARY",
+                "id": "5753856223",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "longitude": 77.224601
+            },
+            {
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "title": "SME in Data Science for Liberal Arts",
+                "description": "Job Title: SME in Data Science for Liberal Arts About the Opportunity: We are seeking an experienced and academically strong Freelance Subject Matter Expert (SME) in Data Science for Liberal Arts to support the development of high-quality assessment content for an innovative educational publishing/learning initiative. This role is ideal for professionals who are passionate about making data science accessible, relevant, and engaging for non-technical learners, particularly students from Liberal…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5742435249?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=155E9B063BD59904910C56DCE0B56186EED436B4",
+                "created": "2026-05-28T00:22:49Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjQzNTI0OSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Oy68bkOBsB_oFSJJBPtp7u__sEUUph5iZIw3q6TeI4U",
+                "contract_type": "contract",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "Teaching Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "teaching-jobs"
+                },
+                "company": {
+                    "display_name": "LearningMate",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5742435249"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mzg1NjI1MCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.auIy2wYpTBW2Dx8r52dzxvFXlmTpilmiY-UbST9G6mg",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "consultancy-jobs",
+                    "label": "Consultancy Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5753856250",
+                "company": {
+                    "display_name": "Dar",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "contract_time": "full_time",
+                "description": "Dar / Urban Intelligence Lab (UIL) Location: Bangalore, India (with global collaboration) Work Type: Full Time Company Overview: Dar, the founding member of the Sidara group, is an international multidisciplinary consulting organization specializing in engineering, architecture, planning, environment, project management, facilities management, and economics. Sidara operates in over 60 countries with 20,500 professionals, connecting people, places, and communities through innovative solutions to…",
+                "title": "Associate/Lead Urban Data Scientist",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753856250?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=62DC9F2F32BAB6A71929E77E5FC1F1B8CA5A115A",
+                "created": "2026-06-06T07:41:31Z"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNzU4NTQ1OSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.RAdBeaeK80WVafCfo5qBVt6hnUIyC7SYjfmdVj_bmvU",
+                "longitude": 72.84415,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5737585459",
+                "company": {
+                    "display_name": "Marsh",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "display_name": "Mumbai, Maharashtra"
+                },
+                "title": "Senior Principal Engineer - Data Science",
+                "description": "Marsh is seeking a candidate for following position based out our office in Mumbai : Senior Principal Engineer - Data Science What can you expect? This position is for an individual contributor in Data Science, who will develop and implement leading-edge techniques in artificial intelligence, machine learning, predictive modeling, and natural language processing as applied in commercial insurance and risk management. This position consults with senior colleagues on complex financial and statist…",
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/land/ad/5737585459?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=B7C45B3891A0CDE4228742C052845776807CF372",
+                "created": "2026-05-22T17:53:45Z"
+            },
+            {
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/land/ad/5744179772?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=CD72849A9C5434F6C4DAD209580BA93ADDED7A61",
+                "created": "2026-05-29T08:20:37Z",
+                "description": "Job Purpose: The position is responsible to manage and lead a team of Data Scientists, developing predictive modelling solutions in credit risk and marketing for Consumer and Commercial lending portfolios Key Responsibilities: Provide insights, perform trend and variance analyses across the product suite for cross sell activities from a risk and marketing perspective Assist Business teams with analyzing root cause of trends, identify incremental sales opportunities and risk mitigation avenues D…",
+                "title": "Associate Divisional Manager - Data Sciences",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5744179772",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "TVS Credit Services Ltd."
+                },
+                "category": {
+                    "tag": "accounting-finance-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Accounting & Finance Jobs"
+                },
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NDE3OTc3MiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.rn603F9IxDEcKoICgH1n2iQgB2ecsiIHzevsJP2gvXc"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczOTc2NjMwNiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.6EosESy7nFX1fbJoXLcqHXOo6l9ykJT4aYx5YMUoMgg",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5739766306",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Epsilon"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2026-05-24T17:53:37Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5739766306?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=A34F93A938D8AB79B38AA4DB0951E276F13BCAA1",
+                "description": "Senior Data Scientist Client Analytics Overview About Business Unit: Powerful predictors of the future - our Analytics team seamlessly blends data science and business intelligence to provide unparalleled foresight for our platform offerings. They turn insights into actionable results for our clients by collaborating with senior team members and staying ahead of market trends, powered by our data assets. By using new-age analytic tools and emerging technologies, the team cultivates a dynamic le…",
+                "title": "Senior Data Scientist Client Analytics"
+            },
+            {
+                "created": "2026-05-23T17:56:49Z",
+                "latitude": 29.00535,
+                "redirect_url": "https://www.adzuna.in/land/ad/5738790402?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=A1DB3246E8DADEDCE4BDDFE383510319A1A9616F",
+                "title": "Data Scientist  Instructor (Teaching role)",
+                "description": "Key Responsibilities: ● Teach Applied AI/ML: Design and deliver practical, project-based courses in AI/ML (Python for ML, Statistics, ML Algorithms, Deep Learning, NLP, CV, ML Ops, GenAI). ● Develop Industry-Relevant Curriculum: Help design and update the AI/ML curriculum to reflect current industry tools, techniques, and best practices, incorporating your professional experience and case studies. ● Mentor Student Projects: Guide students through hands-on AI/ML projects, providing technical dir…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Sonipat"
+                    ],
+                    "display_name": "Sonipat, Haryana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Newton School of Technology",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5738790402",
+                "longitude": 76.99434,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM4NzkwNDAyIn0.TOdgjttfthxwr16J779MTKtluU7JDGdFyzekNAu0XAY"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5763492539",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "TWO95 International, Inc"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzQ5MjUzOSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Ab3xTw34i9Pe18_eH6vi63l8z9g5A8KB7IYPYzCbMcA",
+                "redirect_url": "https://www.adzuna.in/land/ad/5763492539?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=37162D54085E4A63A9125B0ABE4BCA36DB3F55F3",
+                "created": "2026-06-14T14:48:06Z",
+                "title": "Data Science AI/ML Lead",
+                "description": "Job Title: Data Science AI/ML Lead Location: Remote Work / Bangalore Type: Full Time with our client Salary: Market About the Rol e We're seeking a AI/ML Architect to lead the design, development, and deployment of ML/AI solutions, agents, and data automations across our AWS-based analytics platform. In this role, you'll architect end-to-end ML systems, set technical direction, mentor junior engineers and analysts, and drive best practices in MLOps and ML infrastructure. This is a high-impact r…",
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "FP&A- Data Science & AI Enablement",
+                "description": "About the Role We are modernizing how our Finance team plans, forecasts, and reports. As a manufacturing and distribution business, our financial outcomes are tied closely to inventory, COGS, distribution costs, supplier terms, and customer demand — and we want our FP&A team to use modern data tools and AI to see those signals earlier and act on them faster. This is a newly created role to bring data science, machine learning, and AI into FP&A. You will help our analysts move from manual, sprea…",
+                "created": "2026-06-03T16:36:18Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5750487883?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=94CAB86F8AC8ACDBB53693AAFE2FB3802AF00A45",
+                "latitude": 17.40275,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDQ4Nzg4MyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.xM3Bal_PNXUTJg-VBgJ91xFAz7Rs3LS15MJ1KmgyB9s",
+                "longitude": 78.50806,
+                "id": "5750487883",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Sol-Millennium Medical Group",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUxOTM1MTk2In0.A6XDTno_0M37xYM-VTDyTIf5sBkeXtmpq3Q7hZ8p1Wc",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5751935196",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Birlasoft"
+                },
+                "longitude": 77.3225,
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Noida, Ghaziabad",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ]
+                },
+                "created": "2026-06-04T16:50:32Z",
+                "latitude": 28.56579,
+                "redirect_url": "https://www.adzuna.in/land/ad/5751935196?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=B72E00FEC620A66F27431C8CFA120F719B2E130B",
+                "title": "Data Scientist (AI/ML) Role",
+                "description": "Key Responsibilities - Design and implement GenAI and Agentic AI solutions using Databricks Genie, Databricks Agent Bricks, Mosaic AI (model training, evaluation, prompt engineering, RAG) - Experience Build LLM-powered use cases - Design and build scalable data pipelines using Databricks, PySpark, and SQL - Implement Delta Lake, Unity Catalog, and medallion architecture - Optimize Spark jobs for performance, cost, and scalability - Perform data ingestion, transformation, and enrichment from mul…"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODYwMDk1In0.H3QEz-14RPlEGtaWUjkAx1YkQdyTn4csMVKVUljPqlY",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Quess Global Recruitment Services"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5753860095",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "title": "Sr VP- Data Scientist- Investment bank",
+                "description": "Dear Candidates, Greetings! We have a job opportunity with one of our client in Delhi Location . Designation: Sr VP Data Scientist Experience: 15 to 18 years only Skill: Data scientist  Python is mandatory, advance analytics, International banking in risk domain (mandatory) Location: Delhi NCR only- relocation cases accepted Team lead  hands-on coding risk analystics Typical data scientist domain To apply revert with resume at rashwinder.kaur@qmail.quesscorp.com",
+                "created": "2026-06-06T07:43:12Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753860095?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=3BE8A1BE44EDE4656C8A981EF818BC9EDE0EA21C"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "salary_is_predicted": "0",
+                "description": "Role - Data Scientist Key Skills required - Ontology Engineering, Knowledge Graphs, GCP, semantic data modeling. Experience - 5-12 yrs Location - Chennai/Hyderabad Mode of work - Hybrid Role Summary: Data Scientist with deep expertise in ontology engineering and semantic data modeling , with hands-on experience in GCP-native knowledge graph technologies and strong domain exposure in the US Healthcare (Payer or Provider) industry . The ideal candidate holds a Master’s degree in Data Science (or …",
+                "title": "Data Scientist (Ontology Engineering & Knowledge Graphs)",
+                "created": "2026-05-22T17:53:51Z",
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/land/ad/5737586331?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=B0ABB8AC071C6B33C2D7572E02036E8D300666BE",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM3NTg2MzMxIn0.Urga5fqVUbm1-PyrsgrKApBC0CTfxwtya_lO5cGiI4k",
+                "longitude": 78.50806,
+                "id": "5737586331",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "display_name": "enGen Global",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "id": "5754999348",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Crescendo Global",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDk5OTM0OCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.D9gfZt6c_8oYBqmR5jDl_sEtT8ar5Yd77LDPTymxrBM",
+                "title": "Senior Data Scientist / Generative AI Engineer",
+                "description": "Senior Generative AI & Data Science Engineer High-impact role for a Data Science & GenAI specialist with 3 years of experience to deploy production-grade AI systems, multi-agent pipelines, and cloud-native LLM models. Location - Remote / Hybrid (India) Gurgaon Your Future Employer - A premier global technology organization pioneering advanced AI enterprise-grade solutions. Responsibilities - Build interactive multi-agent systems and conversational apps using LangChain, LangGraph, and Streamlit.…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5754999348?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=6460F930D5EEBC3C59FB09A522ADE86ADE45EDE4",
+                "created": "2026-06-07T07:50:07Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODYyMTg3In0.y3CbQ5MZFP92zfluur75ri2D9GmqaAKs1zO6EnRFHVw",
+                "longitude": 80.24963,
+                "company": {
+                    "display_name": "Radiant Digital",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5753862187",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "salary_is_predicted": "0",
+                "title": "Data Science & GenAI Developer (GCP  Gemini)",
+                "description": "Role Overview We are seeking highly skilled Data Science & GenAI Developers. In this role, you will be instrumental in designing, building, and deploying advanced Generative AI solutions and machine learning models leveraging the Google Cloud Platform (GCP) ecosystem. The ideal candidates will have deep hands-on experience with Google's Gemini models, Vertex AI, and end-to-end data science workflows. You will collaborate closely with our internal engineering and product teams to translate compl…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753862187?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=60BF28AB226A4990FE45740455C161AD029E8D2A",
+                "latitude": 13.06041,
+                "created": "2026-06-06T07:44:27Z"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM3NTY0MjUzIn0.u_m2eEgxPc_kGX09mQmhTvoaej0Gyteki8l3t6ghCeE",
+                "id": "5737564253",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Cybage Software",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "description": "Overall Experience: 7 years Work mode: Hybrid/ Remote About the role: Cybage Software is looking for a highly analytical and solution-oriented Data Scientist to design, develop, and deploy scalable AI/ML and automation solutions for global clients and leading brand portfolios. This role sits at the intersection of data science, advanced analytics, automation, and emerging agentic AI systems , helping transform complex business challenges into impactful, production-ready solutions. You will work…",
+                "title": "Data Scientist – AI, ML & Agentic Automation",
+                "created": "2026-05-22T17:48:11Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5737564253?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=127EF6EB62773B06DFE3B7339CC5499A73F6D4D9"
+            },
+            {
+                "title": "Senior Credit Risk Data Science Analyst",
+                "description": "Dun & Bradstreet Technology and Corporate Services India LLP is looking for candidates to support the Data Science team in Trade and Credit Risk Analytics. The candidate needs to work closely with the team based in India and across a range of Analytics leaders who are located globally to fulfill delivery on a timely basis Key Responsibilities: Work on development of B2B Risk solutions which includes Standard and custom solutions catering to various clients including fortune 500 companies Work w…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753858359?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=3D3F6A940A41B2ADFD0A3A351CCBF83BE064DEE2",
+                "latitude": 13.06041,
+                "created": "2026-06-06T07:42:33Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "longitude": 80.24963,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Dun & Bradstreet India"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "Accounting & Finance Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "accounting-finance-jobs"
+                },
+                "id": "5753858359",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODU4MzU5In0.mPO1Bc6jzRfG1hf46ToKStXhUIthzO9oHS9tjKWQK64"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM2MzY4MTQ3In0.LLF_KxOq9T7wtIK9ZiZpmxEvI4dZELW3aHP0hiO0qX8",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5736368147",
+                "company": {
+                    "display_name": "Garden City Games",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/land/ad/5736368147?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=6B083CFEB2D03154406F2A38E1EA3350D799D35A",
+                "created": "2026-05-21T17:33:06Z",
+                "description": "Garden City Games – Data Scientist https://www.gardencity.games About Us Garden City Games develops free-to-play mobile and social games enjoyed by millions of players worldwide. Based in Bangalore, the studio is home to over 100 talented professionals dedicated to creating exceptional gaming experiences across phones, tablets, and desktops. Previously known as PopReach Games , the company was founded by industry leaders and manages globally recognized IPs such as Smurfs’ Village, War of Nation…",
+                "title": "Data Scientist (Gaming Industry Experience Mandatory)"
+            },
+            {
+                "longitude": 78.50806,
+                "id": "5737564051",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM3NTY0MDUxIn0.W32KV1iySyCgms9q0hjidNM1V1g5xBrIP3IDDpqpj0c",
+                "title": "Gen AI Data Scientist - PAN INDIA",
+                "description": "Dear Tech Professional Greetings from Tata Consultancy Services TCS has always been in the spotlight for being adept in “the next big technologies”. What we can offer you is a space to explore varied technologies and quench your techie soul. What we are looking for: Gen AI Data Scientist Interview Mode: virtual discussion (via MS Teams) Interview Location : PAN INDIA Analyse large, complex datasets to identify patterns, trends, and actionable business insights. Develop and deploy machine learni…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5737564051?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=F4E0D2CFF6166B0003C53358A34729FB9E988DEA",
+                "latitude": 17.40275,
+                "created": "2026-05-22T17:48:00Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MDA1MTUzNSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.q4x3vTbSt_DsR4HYxu28oB14u1dixFzIMm4rmVan7T4",
+                "id": "5760051535",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Radix Analytics Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "longitude": 72.59465,
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Ahmedabad, Gujarat",
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ]
+                },
+                "created": "2026-06-11T21:10:27Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5760051535?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=57164BBD6EF39B345F729F0FFFB311DBCAE95E02",
+                "latitude": 23.042,
+                "description": "Key Responsibilities Design, develop and implement operations research, statistical, ML & AI models and algorithms for structured, unstructured text & image data. Understand and run efficient analytic database queries, work with datalakes & warehouses. Design, develop and implement data pipelines, APIs & agents using above models. Understand MLOps for model & data pipeline for managing continuous development/improvement of predictive and prescriptive models to support decision-making software s…",
+                "title": "Data Science: AI/ML / Statistics / OR"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTAzNDI3NiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Vnq-5alLqNI_4s_yqEwgNrWvzbKXirV-1_eDpvarYLk",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5765034276",
+                "company": {
+                    "display_name": "AlgoTutor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 75.5591,
+                "contract_time": "part_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Punjab",
+                        "Jalandhar"
+                    ],
+                    "display_name": "Jalandhar, Punjab",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5765034276?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=BE3C43A143199165EFA840C6762EDB4E4C68CB90",
+                "latitude": 31.2888,
+                "created": "2026-06-16T09:30:13Z",
+                "title": "Senior Instructor - Data Science, ML & GenAI",
+                "description": "AlgoTutor is a next-generation EdTech company dedicated to on-campus upskilling and career readiness for engineering students. We work closely with colleges to deliver structured, placement-driven training programs that align with real industry needs. Founded by engineers from J.P. Morgan and Microsoft, we understand what top tech companies expect — and we bring that knowledge directly to campuses. Our training is not just theoretical; it is hands-on, practical, and interview-focused, helping s…"
+            },
+            {
+                "description": "Role - Data Scientist Experience - 4 to 15 years Advanced degree in mathematics, statistics, computer science, or related field .Strong knowledge of statistical analysis, machine learning, and deep learning .Developing advanced algorithms and models to extract valuable insights from complex datasets, with a focus on generative AI and large language models (LLMs) .Conducting thorough exploratory data analysis (EDA) to uncover patterns, anomalies, and correlations in the data for NLP/Time series/…",
+                "title": "Walk-In Drive | Pune | June 13 | Data Scientist",
+                "created": "2026-06-06T07:38:11Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753853746?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=9F75EF173CEC1D37AB74F8660EBE550E847C3884",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5753853746",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1Mzg1Mzc0NiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.vzNgl4WlLlhzO3I0ys5VaM46m2tPSxmueDnVB8cQgkQ"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/land/ad/5753853517?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=51726C22FF2C38241224CD47FBF558F65E178B21",
+                "latitude": 13.06041,
+                "created": "2026-06-06T07:37:27Z",
+                "description": "Role - Data Scientist Experience - 4 to 15 years Advanced degree in mathematics, statistics, computer science, or related field .Strong knowledge of statistical analysis, machine learning, and deep learning .Developing advanced algorithms and models to extract valuable insights from complex datasets, with a focus on generative AI and large language models (LLMs) .Conducting thorough exploratory data analysis (EDA) to uncover patterns, anomalies, and correlations in the data for NLP/Time series/…",
+                "title": "Walk-In Drive | Chennai | June 13 | Data Scientist",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5753853517",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODUzNTE3In0.im_flbzpgzXgBbx9nLmJHaVu92XPfjC1OUbpbGpkZiI"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5753853585",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODUzNTg1In0.Qx9ful1gKd4CtJcLL6j33xQjT22v1Hssn_KW8Tgts70",
+                "title": "Walk-In Drive | Bangalore | June 13 | Data Scientist",
+                "description": "Role - Data Scientist Experience - 4 to 15 years Advanced degree in mathematics, statistics, computer science, or related field. Strong knowledge of statistical analysis, machine learning, and deep learning. Developing advanced algorithms and models to extract valuable insights from complex datasets, with a focus on generative AI and large language models (LLMs). Conducting thorough exploratory data analysis (EDA) to uncover patterns, anomalies, and correlations in the data for NLP/Time series/…",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753853585?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=931F4AAB10DD8AA338966557580570F125A244D1",
+                "created": "2026-06-06T07:37:29Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                }
+            },
+            {
+                "longitude": 72.84415,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "University of Aberdeen - Mumbai"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5758517405",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "admin-jobs",
+                    "label": "Admin Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzU4NTE3NDA1In0.XZHIzwo9jCNQ0CKHW0rHCkz9QCuJRkZ2gVDT_YnflpM",
+                "title": "Academic & Research Associate – Computing, Data Science, AI",
+                "description": "About the University and the Role Founded more than five centuries ago, the University of Aberdeen is a leading research institution that drives innovation and prepares students for future careers. It is ranked 2nd in Scotland and 12th in the UK in the 2025 Guardian University Guide, and is listed among the top 250 universities worldwide in the 2025 QS and Times Higher Education rankings. The University of Aberdeen will open its Mumbai campus in Powai in September 2026. At launch, it will offer…",
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/land/ad/5758517405?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=CE26CF51A5FEB424B6132AA67F3601BB38F09EF3",
+                "created": "2026-06-10T18:05:25Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                }
+            },
+            {
+                "description": "Hiring For: One of India's leading financial services companies. Location - Chennai Role: Data Scientist Lead / Data Scientist Manager Experience: 8-12 years (based on role & grade) Roles & Responsibilities:  In this role, The Candidate should be highly analytical with a knack for analysis, math, and statistics. Critical thinking and problem-solving skills are essential for interpreting data.  To help our company analyze trends to make better decisions.  Build propensity models, customer seg…",
+                "title": "Data Scientist- Lead / Manager - Chennai - Across levels",
+                "redirect_url": "https://www.adzuna.in/land/ad/5747044447?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=6F9521C547B6E21DB9ECDA638CB8FDCAE1E3686B",
+                "latitude": 13.06041,
+                "created": "2026-06-01T10:24:23Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "salary_is_predicted": "0",
+                "longitude": 80.24963,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "datavruti"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5747044447",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0NzA0NDQ0NyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.r5OV7zXiiUzmeQbWfYocS6QpxrQg7YHc_eBsbvu1axY"
+            },
+            {
+                "longitude": 78.50806,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5750490732",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDQ5MDczMiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.Zwj-4VY7-UfgkjP_xeq1E4T4ijtNHs6n1r3VrDjyA64",
+                "title": "Data Scientist(candidate with 6 yrs exp only)",
+                "description": "TCS Hiring TCS is Having walkin Drive for skill Data Scientist At TCS Banglore Location on 12th June 2026 Saturday exp req:6 yrs Interview Venue: TCS Rajapushpa Paradigm, ISB Road, Financial District, Nanakaramguda, Serilingampally, Hyderabad, Telangana 500032, JD Must Have – Data Science Strong expertise in Python (NumPy, Pandas, Scikit-learn) Hands-on experience with ML algorithms (Regression, Classification, Clustering) Strong knowledge of Statistics & Probability Experience in data preproce…",
+                "created": "2026-06-03T16:38:41Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5750490732?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=446CF9C42E8388E68E8C69032F7D21FB38408708",
+                "latitude": 17.40275,
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana"
+                }
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5750498357",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Tata Consultancy Services"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDQ5ODM1NyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.KFlGCgfYgRipprnYHQz3vcTG84dmUgDO8KwTBxv-pMs",
+                "created": "2026-06-03T16:40:41Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5750498357?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=EFBA638AEC40473F8BCE40DC23B08D2F5F2849B9",
+                "title": "Data Scientist(candidates with 6 yrs exp only)",
+                "description": "TCS Hiring TCS is Having walkin Drive for skill Data Scientist At TCS Pune Location on 13th June 2026 Saturday exp req:6 yrs Interview Venue: TCS Sahyadri Park 1 Plot No. 2 & 3, Phase 3, Hinjewadi Rajiv Gandhi Infotech Park, Pune, Maharashtra 411057. JD Must Have – Data Science Strong expertise in Python (NumPy, Pandas, Scikit-learn) Hands-on experience with ML algorithms (Regression, Classification, Clustering) Strong knowledge of Statistics & Probability Experience in data preprocessing, feat…",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/land/ad/5760048805?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=7723A756A20CE915AB7DA209C3413AB957246992",
+                "created": "2026-06-11T21:04:20Z",
+                "title": "Data Science / AI-ML Engineer (IIT Freshers)",
+                "description": "Job Title - Data Science / AI-ML Engineer Location - Chennai (Hybrid) Experience - Freshers (2025/2026 Pass-outs) Education - B.Tech / M.Tech from IITs (Computer Science, Information Security, Electronics, Electrical Engineering, or related disciplines) Role Overview: We are seeking talented IIT graduates with a strong foundation in Machine Learning, Artificial Intelligence, and Data Science. The candidate will work on developing intelligent solutions, building predictive models, and leveraging…",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Objectways"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "id": "5760048805",
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzYwMDQ4ODA1In0.ieE4Z88ih6zgJYX43VhQgkV1iHq497iseLbZa7uS4UY"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Tata Consultancy Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5750491522",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "longitude": 77.224601,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDQ5MTUyMiIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.O9iWExCWYhTZf3q-8gFWBJmd9cpQRtfNV4Cwz3Ibyc0",
+                "created": "2026-06-03T16:38:49Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5750491522?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=B10CFED8271D05C7E5151A10656F499C30718657",
+                "latitude": 28.62523,
+                "title": "Data Scientist(candidates with 6 yrs exp only)",
+                "description": "TCS Hiring TCS is Having walkin Drive for skill Data Scientist At TCS Delhi Location on 13th June 2026 Saturday exp req:6 yrsInterview Venue:TCS Yamuna 0ffice, Plot No. 20 & 21, Tower 6, 1st floor, Building B2Seaview Developers SEZ / Unitech Infospace Noida-Greater Noida Expressway, Sector 135, No id a JDMust Have – Data S cienceStrong expertise in Python (NumPy, Pandas, Scikit- learn)Hands-on experience with ML algorithms (Regression, Classification, Clust ering)Strong knowledge of Statistics …",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Delhi, India",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NTAzNTA0MSIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.YFOpnE7RGhRtoaxgoX8GMYhWrawsUthTRKHcNFXwJsY",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5765035041",
+                "company": {
+                    "display_name": "TalentQuell",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "description": "We are hiring GenAI/LLM practitioners who are hands-on, curious, and execution-focused. Strong practical experience with LLM tools, prompt engineering, and real-world GenAI applications is essential. What you'll do: Design, test, and optimise LLM-driven solutions for real business use cases Create, refine, and manage high-quality prompts, workflows, and agent setups Rapidly prototype GenAI applications using existing tools, APIs, and platforms Evaluate LLM outputs for accuracy, bias, safety, an…",
+                "title": "Data Scientist (only IIT CS/IT passouts)",
+                "created": "2026-06-16T09:32:11Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5765035041?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=F759ABFDB58BE8F1001FBBD4AD39006A49813FD7"
+            },
+            {
+                "company": {
+                    "display_name": "Accenture in India",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5745168876",
+                "category": {
+                    "tag": "hr-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "HR & Recruitment Jobs"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzQ1MTY4ODc2In0.YyOsbYpAyLgyzx_4pxk0v-zwtEeBrBXxM04N8sU280A",
+                "title": "HR Analytics Manager (AVP equivalent) - Data Science",
+                "description": "Designation: Talent & HR Analytics Manager (AVP equivalent) Location: Bangalore Experience Range: 12 to 16 years Work Model: Hybrid (2 days/week from office) Shift Timings : EMEA Shifts (between 12 pm - 10 pm) Talent & HR analytics practice in Accenture provides analytical services to large number of Accenture clients across industries. Its analytical solution portfolio covers entire span of employee life cycle through offerings defined as Talent Acquisition, Talent Development, Workforce Engag…",
+                "created": "2026-05-30T08:30:45Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5745168876?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=A4AEC3554F777DB8057A09F5BA9D4046A7691651",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUzODU0ODk5In0.fk1F1xfdzd3y8BFC5hanTkTDHFa6fluvl7ig_pkNWj0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5753854899",
+                "company": {
+                    "display_name": "o9 Solutions, Inc.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2026-06-06T07:40:28Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5753854899?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=A86D2D0B1B8A032ED6359A6816BE5D31AF86F7C5",
+                "title": "Principal Data Scientist - Applied Research & Deep Learning",
+                "description": "Role: Senior Architect - Applied Research & Deep Learning Location: Bangalore, Hybrid Who you'll meet and work with Dr. Ashwin Rao - EVP AI at o9 & Adjunct Professor at Stanford Dr. Narasimha Kamat - EVP@o9 | Supply Chain Professional | Educator | Researcher Siddhartha Niyogi - Global EVP - PMM & Solutions - o9 India CEO & Managing Director o9 Technical Architects ( Amit Agarwal , Rajeev Karri , etc) About the role We are seeking a highly experienced, intellectually curious Senior/Principal Arc…"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2NDIzNjU1OCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.3sWon2dXIgnfpaZjToRwkjHfx7083pL0ENJNTSotDgo",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Inveno"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5764236558",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "redirect_url": "https://www.adzuna.in/land/ad/5764236558?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=44946D0FD3315C434AF0F99DDBA83CD0E63AB7BE",
+                "created": "2026-06-15T15:21:34Z",
+                "title": "Senior Data Scientist (US startup | >5 years exp)",
+                "description": "About Inveno Inveno is a VC backed, US headquartered startup building an AI operating system that runs supply chain operations inside Fortune 500 production systems — deterministic decisioning, computer-use agents driving enterprise-grade software with no integration, and a data ontology for real-world physical operations. Our agents are in production today at some of the world’s largest companies, making operational decisions every shift — where a wrong call is a missed truck, not a bad chat r…"
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2026-04-05T08:55:19Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5690365410?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=EC939DD9D489312D969CA97CF378B622E194A508",
+                "description": "Candidates ready to join immediately can share their details via email for quick processing.  CCTC | ECTC | Notice Period | Location Preference nitin.patil@ust.com Act fast for immediate attention! ⏳ Must-Have Skills: Strong experience in Data Science and Machine Learning Hands-on experience in Artificial Intelligence and Statistical Modeling Strong programming skills in Python or R Experience with Scikit-learn, Pandas, TensorFlow , or similar libraries Strong knowledge of Statistics, Probabili…",
+                "title": "Data Scientist | 5 Years | Any UST Location | Immediate Joiner",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NjkwMzY1NDEwIn0.VENrRGQYgnbCofOijPEkD55gsk8ahMQGqYeeRDE2Ub8",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "UST"
+                },
+                "id": "5690365410",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                }
+            },
+            {
+                "description": "We are looking for a ‘Data Scientist’ skilled in Gen AI Engineering with strong expertise in Python, Azure cloud technologies, FastAPI, SQL Server, and modern data engineering practices. The ideal candidate should have experience building scalable cloud-native data pipelines, API-driven architectures, and AI-ready data solutions to support analytics and Generative AI workloads. Location – Bengaluru/ Gurugram Your Future Employer – A leading global AI and analytics organization helping enterpris…",
+                "title": "Data Scientist - Gen AI Engineer - 5 years - Bengaluru/Gurugram",
+                "created": "2026-06-07T07:49:36Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5754998683?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=B9E7A307D18891ACA554F25453BB626ADA1A40C2",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5754998683",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Crescendo Global"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1NDk5ODY4MyIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.E6Y3eBvKbCoR2PVfoPbniYLoZ1EyOXSAtovU-iz1VnI"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "description": "Applications are invited for the Faculty Position with Mukesh Patel School of Technology Management & Engineering - Mumbai Campus for Data Science Area Job Descriptio nFOR THE POST OF PROFESSO REssential :a) Ph.D. degree in relevant field and First Class or equivalent at either Bachelors or Masters level in the relevant branch., and experience of ten years in teaching, research and / or industry, out of which at least three years at the level of Associate Professor/ Reader or equivalent grade .…",
+                "title": "Professor/ Associate Professor / Assistant Professor - MPSTME- Data Sciences (Mumbai Campus)",
+                "created": "2026-06-18T15:55:38Z",
+                "redirect_url": "https://www.adzuna.in/land/ad/5768016805?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=5C4AB33BB929D9CEA980304717B2D9A49801EF1D",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzY4MDE2ODA1In0._pse1oTazokurGxReL9pzlAqNajBCTrlBMak7kcAfS4",
+                "id": "5768016805",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "SVKM's Narsee Monjee Institute of Management Studies ",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "Scientific & QA Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "scientific-qa-jobs"
+                }
+            },
+            {
+                "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+                "title": "Remote Data Engineer",
+                "redirect_url": "https://www.adzuna.in/land/ad/5768016620?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=E0EAE29F09F2118E2B5259B228D35790F81BDE28",
+                "created": "2026-06-18T15:55:34Z",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "contract_type": "contract",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Turing"
+                },
+                "id": "5768016620",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2ODAxNjYyMCIsInMiOiJ1QXV5VjBkcjhSR2hJODk5dWVoY0hBIn0.3SdBQobUmvXosPRVLHQk2exrB-zzEqF9u-SUx_86fj0"
+            },
+            {
+                "created": "2026-06-18T21:47:05Z",
+                "latitude": 22.57285,
+                "redirect_url": "https://www.adzuna.in/land/ad/5768222442?se=uAuyV0dr8RGhI899uehcHA&utm_medium=api&utm_source=7d10bb5b&v=039240DD5C509956F79CD4F3C4406C2EE962CB7E",
+                "title": "Remote Data Engineer",
+                "description": "About Turing: Based in San Francisco, California, Turing is the world’s leading research accelerator for frontier AI labs and a trusted partner for global enterprises deploying advanced AI systems. Turing supports customers in two ways: first, by accelerating frontier research with high-quality data, advanced training pipelines, plus top AI researchers who specialize in coding, reasoning, STEM, multilinguality, multimodality, and agents; and second, by applying that expertise to help enterprise…",
+                "location": {
+                    "area": [
+                        "India",
+                        "West Bengal",
+                        "Kolkata"
+                    ],
+                    "display_name": "Kolkata, West Bengal",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Turing"
+                },
+                "id": "5768222442",
+                "longitude": 88.34373,
+                "contract_type": "contract",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoidUF1eVYwZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzY4MjIyNDQyIn0.9V7rwpAPgaHdaGImk3JacR2XNTcqtUKQSGASGK4BBSg"
+            }
+        ],
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "mean": 1594621.32,
+        "count": 9973
+    },
+    "page": 4,
+    "role": "data_scientist"
+}

@@ -1,0 +1,1568 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:56:27.517127",
+    "source": "adzuna",
+    "response": {
+        "mean": 1352977.69,
+        "count": 6149,
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "results": [
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/2300496967?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMwMDQ5Njk2NyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.xjDjkl9e6hbFtpBLkbaS4Rql_TvZdNsSNsIAZzkQumc",
+                "latitude": 19.00821,
+                "salary_max": 600000,
+                "salary_is_predicted": "0",
+                "longitude": 72.84415,
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 0,
+                "description": "Backend Developer - 2 - 6 Years (Node.js, MongoDB, Express.JS, My SQL) The Role: You are a Backend Engineer passionate about building world-class mobile and web applications with performant backend and glitch-free experience. You will be part of a team which will be delivering technology that enhances the in-app experience for our users and enables our development teams to build mobile apps easier, faster and more efficient. You will build compelling and engaging applications for Web and Mobile…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Iorta Technology Solutions Pvt Ltd"
+                },
+                "id": "2300496967",
+                "title": "Backend Developer",
+                "created": "2021-07-05T21:11:16Z"
+            },
+            {
+                "description": "Job Title: Back-End Developer Location: Bengaluru, India Open Positions - 5 Company Overview: IAI Solution Pvt Ltd , operates at the edge of applied AI where foundational research meets real-world deployment. We craft intelligent systems that think in teams, adapt with context, and deliver actionable insight across domains. We are seeking talented Back-End Developers to join our team, where you will play a key role in developing the infrastructure that supports our advanced AI technologies. If …",
+                "salary_min": 900000,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "IAI solution",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5557106606?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5557106606",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NTU3MTA2NjA2In0.gcikCIdLsN5pTJXHY6FwiGkn_ltnOxKkc0UioLiueYc",
+                "salary_max": 1000000,
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2025-12-27T11:02:41Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Supersub",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "We are looking for a Backend Developer who has hands-on experience in coding, building technology blocks, help answer choice of certain platform/tech over others, help the team visualise the product with the available resources and assets. What you’ll do: Design, develop, and test functionality for the latest app design. Support the entire application lifecycle (concept, design, test, release, and support). Collaborate with cross-functional teams to define, design, and develop new features. Tak…",
+                "salary_min": 500000,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_max": 1400000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjUzOTQ4OTk5NyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.uI7nDbRL237aCKDs0R49RXXPwr0F2cuUHv6Z6qoQR0c",
+                "redirect_url": "https://www.adzuna.in/details/2539489997?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2539489997",
+                "created": "2021-10-13T05:52:39Z",
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "created": "2021-07-24T21:18:55Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "salary_max": 600000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjMzOTU3MTAyNSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.7mCwv1w7-iYxzuel8NtFTx5yfTS0uYrMpI8yNzdhhV4",
+                "redirect_url": "https://www.adzuna.in/details/2339571025?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2339571025",
+                "company": {
+                    "display_name": "Semperfi Solution",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "description": "Job description for Backend Developer: Responsibilities • Hands-on experience in Springboot and good knowledge of MySQL, MongoDB • Hands-on experience in building RESTful based APIs • Develop and manage well-functioning databases and applications • Write effective APIs • Integration of user-facing elements developed by front-end developers with server-side logic • Building reusable code and libraries for future use • Optimization of the application for maximum speed and scalability• • Implement…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 0
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Job Summary Design, develop, and maintain scalable and efficient backend systems using C#, .NET, Python ensuring high-quality, maintainable, efficient and scalable code Collaborate with cross-functional teams to translate business requirements into technical solutions Optimize application performance and troubleshoot complex issues Implement security measures and data protection protocols Write clean, maintainable, and well-documented code and unit test cases Participate in code reviews and men…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Siemens Energy"
+                },
+                "id": "5761950117",
+                "redirect_url": "https://www.adzuna.in/details/5761950117?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTk1MDExNyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.Elfpp-QpByzer35KZT9x9a875RRcU5RuYU-ekVgPloM",
+                "latitude": 28.323996,
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "created": "2026-06-13T08:48:01Z",
+                "longitude": 76.983738,
+                "location": {
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Gurgaon"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Gurgaon, Haryana"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "company": {
+                    "display_name": "Hipoteca Primero",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 500000,
+                "description": "Backend Developer H1 is a Spanish fin/proptech that revolutionizes the mortgage market by offering bank-risk approved loans before knowing the house an individual wants to purchase. It also offers a powerful selling tool for real estate agents and developers that helps manage their businesses. From there, H1 is building a community of millions of high credit profile users (individuals  companies) that use the credit marketplace technology to access a multiproduct platform (including banking and…",
+                "salary_max": 1100000,
+                "redirect_url": "https://www.adzuna.in/details/1750562835?utm_medium=api&utm_source=7d10bb5b",
+                "id": 1750562835,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOjE3NTA1NjI4MzV9.hrJnNHP6QOBcENDCNI15wtoFRUB73iKjFwZtI6TMWOw",
+                "created": "2020-10-09T02:04:17Z",
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                }
+            },
+            {
+                "company": {
+                    "display_name": "Unnati",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "description": "Work with a Tech aggregator, working on solutions that help the users worldwide. Our client is a trailblazing tech venture in the area of AI, IoT, and NLP. The startup enables its users to find real-time digital avatars of themselves to do things for them. These include activities like shopping, running errands, and even virtual travel. The virtual substitute can be guided by the user, who also gets real-time updates when tasks are completed. Founded by a serial entrepreneur known for heading i…",
+                "salary_min": 750000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "salary_max": 2000000,
+                "redirect_url": "https://www.adzuna.in/details/2933962347?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2933962347",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyOTMzOTYyMzQ3In0.MjogSOWUebd0BdkOqsPIfUdwplHG_abSr65gsogAd8E",
+                "created": "2022-03-01T04:54:15Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ]
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "created": "2026-06-15T06:00:26Z",
+                "longitude": 80.24963,
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5763918735?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5763918735",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzkxODczNSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.2t36_BWmo3wTtokbKF6ex5rxfd7dZojT3EA-d4URMf8",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Twixor"
+                },
+                "description": "Company Overview Twixor specializes in enabling enterprises to engage customers over preferred social and messaging channels, thereby structuring unstructured mediums. With headquarters in Singapore and offices across India, Twixor leverages intelligent business process automation to enhance digital customer journeys for several industries, including banking, insurance, retail, and more. Renowned for our patented low-code Digital Process Automation, we serve a global client base, including Fort…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "created": "2026-04-30T06:52:52Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/5714083338?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzE0MDgzMzM4In0.IwLPDi9yMlFLjvqszOhZoOVDCulUBYwn9JhB-H3k1H4",
+                "id": "5714083338",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wissen Infotech"
+                },
+                "description": "Responsibilities: Develop web applications using ReactJS, NodeJS and related technologies. Collaborate with UX/UI designers to implement design mockups and enhance user interfaces. Develop and maintain RESTful APIs and, endpoints to support front-end functionality. Write clean, maintainable, and efficient code following best practices and design patterns. Optimize components for maximum performance across various devices and browsers. Participate in code reviews and contribute to team knowledge…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                }
+            },
+            {
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2022-01-07T04:36:19Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Job Description Title:- Backend Developer About us:- If you think back to your school or college days, the best memories you have are those with your friends Your first day in college, your best friend, your dorms, hanging in the corridors, your school canteen, all nighters before exams & chilling for weeks after exams - our school lives are filled with so many awesome interactions, experiences & memories. In each of them you’re with a friend, never alone Humans always have, and will always con…",
+                "salary_min": 2000000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Qrata"
+                },
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyNzk1MDU1ODg4In0.k6ieL4pt7uU71Nxg21w_gFVeVMZMmkYYmWAqID2ntzs",
+                "redirect_url": "https://www.adzuna.in/details/2795055888?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2795055888",
+                "salary_max": 3000000
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "created": "2021-10-09T04:52:53Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 0,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Key responsibilities ● Partner with the product/business teams to understand the product features and specifications, translate them into high level and low-level design ● Participate in all stages of the Software Development Lifecycle ● Develop back-end components, services, and APIs. Support integration of user- facing elements, and collaborate closely with the design and front-end development team ● Write elegant, effective, and scalable code while maintaining the highest level of coding sta…",
+                "company": {
+                    "display_name": "Anzy",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "id": "2529047429",
+                "redirect_url": "https://www.adzuna.in/details/2529047429?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjUyOTA0NzQyOSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.5XGgHNPv_vSLwMbIzgSpHe-KmE1qF_N7h5AdKKt59TI",
+                "salary_max": 1600000
+            },
+            {
+                "id": "2904497743",
+                "description": "We are looking for “ Backend Developer \" for Goregaon (Mumbai)/ Lucknow location. Experience: 3 - 5 Years Notice Period: up to 30 days Location: Goregaon (Mumbai)/ Lucknow Job description: Should have 3 years of experience in Python and Django/Django REST Framework Candidate need to perform the role of the Python/Django Developer who has to build high-quality, innovative, and fully performing software that complies with coding standards and technical design. Design and develop secure and scalab…",
+                "salary_min": 300000,
+                "company": {
+                    "display_name": "e.Soft Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "title": "Backend Developer",
+                "created": "2022-02-17T04:50:45Z",
+                "redirect_url": "https://www.adzuna.in/details/2904497743?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyOTA0NDk3NzQzIn0.Kbp1-Y0JPcBzh03Wbsj8ajGEqpIoz_EvEHgdmOebNww",
+                "salary_max": 500000,
+                "latitude": 19.00821,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 72.84415
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "created": "2026-01-17T11:11:46Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "salary_max": 2500000,
+                "redirect_url": "https://www.adzuna.in/details/5588939135?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4ODkzOTEzNSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.CUO7S7TXs7CQ4nkEqzoF39zDPiWUQ13zv1NFEtFOS6g",
+                "id": "5588939135",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "NeoGenCode Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Job Description Key Responsibilities API & Service Development: Build RESTful and GraphQL APIs for e-commerce, order management, inventory, pricing, and promotions. Database Management: Design efficient schemas and optimize performance across SQL and NoSQL data stores. Integration Development: Implement and maintain integrations with ERP (SAP B1, ERPNext), CRM, logistics, and third-party systems. System Performance & Reliability: Write scalable, secure, and high-performance code to support real…",
+                "salary_min": 1000000,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "created": "2022-01-15T04:26:35Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "salary_max": 750000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjgxNDg3OTQ2NCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.E9cOFjF3LHRy42sHvWs5dEj6S4xsKwTe5QK721CGcVw",
+                "redirect_url": "https://www.adzuna.in/details/2814879464?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2814879464",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "VUMONIC",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 500000,
+                "description": "Designation : Backend - Mobile Application Developer Location : HSR, Bangalore About the Company Making impact driven by Data. Vumonic Datalabs is a data-driven startup providing business insights to e-commerce & e-tail companies to help them make data-driven decisions to scale up their business and understand their competition better. As one of the EU's fastest growing (and coolest) data companies, we believe in revolutionizing the way businesses make their most important business decisions by…"
+            },
+            {
+                "created": "2026-05-26T06:36:47Z",
+                "longitude": 80.24963,
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Twixor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Company Overview Twixor is a global IT services and consulting company specializing in digital process automation and customer engagement through messaging channels. With patented technology and a presence in Singapore and pan-India, Twixor empowers enterprises across industries to deliver personalized experiences and business transactions to clients, including Fortune 500 companies. Job Overview As a Junior Backend Developer at Twixor in Chennai, you will work on scaling backend systems poweri…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5740848274?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5740848274",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MDg0ODI3NCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.cCyU7N32NfAEez-7JCzhmTD9KA3stOXxs4OwXV80uDc"
+            },
+            {
+                "description": "Company Overview Twixor is a global IT services and consulting company specializing in digital process automation and customer engagement through messaging channels. With patented technology and a presence in Singapore and pan-India, Twixor empowers enterprises across industries to deliver personalized experiences and business transactions to clients, including Fortune 500 companies. Job Overview As a Junior Backend Developer at Twixor in Chennai, you will work on scaling backend systems poweri…",
+                "salary_min": 400000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Twixor"
+                },
+                "id": "5742548583",
+                "title": "Backend Developer",
+                "created": "2026-05-28T02:14:49Z",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/5742548583?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MjU0ODU4MyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.4WRRqTnvZdSCPaNqPJtCqA7Q0FqnJZcyboP5PRRv9hc",
+                "salary_max": 900000,
+                "latitude": 13.06041,
+                "salary_is_predicted": "0",
+                "longitude": 80.24963,
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "id": "5740847450",
+                "redirect_url": "https://www.adzuna.in/details/5740847450?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzQwODQ3NDUwIn0.F18eO4Y4m3KWRWEiswL1AsKRYbw0zauxj8EWKcami5o",
+                "latitude": 13.06041,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Company Overview Twixor is revolutionizing enterprise customer engagement by reimagining interactions over popular messaging channels. With a presence in diverse industries including banking, retail, and healthcare, we empower businesses with digital customer journeys, process automation, and hyper-personalized experiences. Headquartered in Singapore and with a strong presence in India, Twixor serves a global clientele using cutting-edge, patented low-code technology to enhance customer acquisi…",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Twixor"
+                },
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2026-05-26T06:36:44Z",
+                "longitude": 80.24963
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5740847959?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzQwODQ3OTU5In0.-TuUysm04sU39c7rZejMB2lD24pSpeY_6nOcGuqxk0Y",
+                "id": "5740847959",
+                "latitude": 13.06041,
+                "description": "Company Overview Twixor is a Singapore-headquartered leader in digital process automation, enabling structured business transactions and customer engagement over messaging channels. Leveraging AI, NLP, and menu-driven flows, Twixor powers seamless customer journeys for global Fortune 500 clients across banking, retail, healthcare, and more. To learn more, visit Twixor Website . Job Overview We are seeking a Mid-Level Backend Developer to join our team in Chennai on a Full-Time basis. You will p…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Twixor"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "title": "Backend Developer",
+                "longitude": 80.24963,
+                "created": "2026-05-26T06:36:46Z"
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Multi Recruit",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Participate in brainstorming and technical ideation for projects with product, growth, and engineering You will design Scalable and Fault-Tolerant systems You will help Maintain critical and auxiliary systems (databases, cache ) You will build Experiments that help validate hypotheses for the product Experience: 2yrs In your first 3 months, you will… Successfully onboard and create strong bonds with the current team Participate in brainstorming and technical ideation for projects with product, …",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "engineering-jobs",
+                    "label": "Engineering Jobs"
+                },
+                "salary_min": 500000,
+                "salary_max": 4000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyNTc0OTgwMjg1In0.ojA5-PfvqM4WdZxiLJ495Bam5Ok9G4FUB03h5fpyLlg",
+                "redirect_url": "https://www.adzuna.in/details/2574980285?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2574980285",
+                "created": "2021-10-25T03:52:01Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                }
+            },
+            {
+                "salary_max": 500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI0NDY2MTg1ODkwIn0.kutwBGMPs0wYTWFxH5Qdi4WtJUAtc8w2cdBsurt5ScU",
+                "redirect_url": "https://www.adzuna.in/details/4466185890?utm_medium=api&utm_source=7d10bb5b",
+                "id": "4466185890",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Arroz Technology"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 100000,
+                "description": "Job Description : Full Stack Developer Company : Arroz Technology Private Limited CTC : 5 LPA Location : Bangalore (Onsite) Responsibilities : - Design and develop scalable and high-performance web applications using the MERN (MongoDB, Express.js, React.js, Node.js) stack. - Collaborate with cross-functional teams to gather requirements and translate them into high-level designs. - Write clean, reusable, and well-structured code following industry best practices and coding standards. - Mentor a…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "created": "2023-12-06T15:01:51Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2025-07-10T05:24:07Z",
+                "id": "5294954851",
+                "redirect_url": "https://www.adzuna.in/details/5294954851?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1Mjk0OTU0ODUxIn0.0TGKD0HgWU4q01Q1533zZWqsgyTrzTzgWLVAoUdhE78",
+                "salary_max": 2000000,
+                "description": "You will own a functional area - from product conception to its delivery to customers You will be designing and coding independently in multiple tech components related to your functional area You will also need to develop a deep understanding of non-functional requirements, such as reliability and availability, scale, horizontal scalability, etc., over time and make tech stack decisions accordingly You will also be actively mentoring our junior engineers. You need to someone who owns the codeb…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 1500000,
+                "company": {
+                    "display_name": "Multi Recruit",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "salary_max": 1000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI0OTg4ODUwODU5In0.Q8qw9eJZZIK1AP9uMIIcg17nq6OhiPGrxW2vA9gd-N4",
+                "redirect_url": "https://www.adzuna.in/details/4988850859?utm_medium=api&utm_source=7d10bb5b",
+                "id": "4988850859",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "NowPurchase",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 600000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs"
+                },
+                "description": "Technology Vision The B2B manufacturing industry has a lack of digitisation globally. NowPurchase is building layers of technology to help improve the productivity and profits of the manufacturer. For this we are building the OS (Operating System) that will seamlessly connect factory equipment such as furnaces and spectrometers to our software systems that provide real time optimisations. The end-game is to use this interconnected system to do great production planning and autonomous procuremen…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "created": "2024-12-25T11:57:12Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "longitude": 77.21808,
+                "created": "2026-05-13T02:07:25Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi",
+                        "New Delhi"
+                    ],
+                    "display_name": "New Delhi, Delhi",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "company": {
+                    "display_name": "VML Enterprise Solutions",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Who We Are VML, part of WPP, is a leading creative company that combines brand experience, customer experience, and commerce, creating connected brands to drive growth. VML is celebrated for its innovative and human first, award-winning work for blue chip client partners including AstraZeneca, Colgate-Palmolive, Dell, Ford, Microsoft, Nestlé, The Coca-Cola Company, and Wendy's. The agency is recognized by the Forrester Wave™ Reports, as a Leader among Marketing Creative and Content Service Prov…",
+                "latitude": 28.62623,
+                "redirect_url": "https://www.adzuna.in/details/5727174699?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5727174699",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzE3NDY5OSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.phXYvLtNP5hssL039vZLfWU2m34reW6tlZa_7SLDLUU"
+            },
+            {
+                "created": "2021-09-03T01:56:07Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Unnati"
+                },
+                "description": "Join one of the most advanced healthcare startups, which is led by professionals and startup experts from various sectors. Our client is a very innovative digital healthcare start-up, who specialises in chronic healthcare with proven improvements in patient parameters through coaching coupled with patient data based interventions.Their core focus is to use smart technology to create sustainability, traceability and improvement in the healthcare sector. They have brought valuable information rel…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 1200000,
+                "salary_max": 1600000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjQyNzQ5OTkxMiIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.xbyQCwRsv_1CjwJXexeyqJwBtHWAc2STjuM2YdXXLTE",
+                "redirect_url": "https://www.adzuna.in/details/2427499912?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2427499912"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2024-07-31T03:19:33Z",
+                "longitude": 72.84415,
+                "id": "4801622459",
+                "redirect_url": "https://www.adzuna.in/details/4801622459?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwMTYyMjQ1OSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.RKICqMvnPIKXLbpVNcV_cuuL4lCBAiWx8K2HKG5B7Do",
+                "latitude": 19.00821,
+                "description": "We, at TinyOwl , are starting a revolution - a food revolution! Our goal is to let your food be at your fingertips in a smart and hassle free manner. We have a young and growing team comprising of coders, marketers and designers from premier Indian and global institutes like IITs, IIMs, LBS etc. We are looking to build an all-star company in the food industry and we are looking at enthusiastic and ambitious people to join our team. As a Backend Developer at TinyOwl , you will brainstorm on chal…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "TinyOwl",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 72.84415,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjUyMDAzNDM3MCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.U7t5CA5nk9wgOjnnxsU8Ipk2rOlAfZAJSd9iL-Me8XY",
+                "redirect_url": "https://www.adzuna.in/details/2520034370?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 19.00821,
+                "salary_max": 1000000,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "title": "Backend Developer",
+                "created": "2021-10-06T04:20:56Z",
+                "id": "2520034370",
+                "salary_min": 0,
+                "description": "Job purpose: A backend developer works alongside front-end developers, full stack developers, programmers or UX specialists to create comprehensive digital solutions for business needs. They make sure the website is scalable and that it can still function when hit by large loads—be that traffic or demanding scripts. They are also tasked with maintaining and testing existing back-end elements to ensure they’re as fast and efficient as possible. Data storage also comes under their remit, which re…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Credence Analytics"
+                }
+            },
+            {
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2021-10-26T04:52:02Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 750000,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Founder’s LinkedIn profile Dheeraj Pandey (Founder, Investor, & Then-CEO of Nutanix / One of the Indian origin guy out of 10 Board Member of- Adobe / Alumni- IIT, Kanpur & University of Texas, Austin) https://www.linkedin.com/in/dpandey/ & Chandra Nath ( Vice President- Nutanix/ Vice President, Head of International- Ola (ANI Technologies Pvt Ltd) – Alumni- IIT, Kanpur , The University of Chicago Booth School of Business) https://www.linkedin.com/in/chandranath/ & Manoj Agarwal (Co-Founder at S…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "zyoin"
+                },
+                "contract_time": "full_time",
+                "id": "2577819361",
+                "redirect_url": "https://www.adzuna.in/details/2577819361?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjU3NzgxOTM2MSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.bkn-qeu8bDvmyfq3dN-c0W20QeROcmzWBeraLrsEpmU",
+                "salary_max": 9000000
+            },
+            {
+                "longitude": 72.84415,
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 19.00821,
+                "salary_max": 2400000,
+                "redirect_url": "https://www.adzuna.in/details/3582947428?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIzNTgyOTQ3NDI4In0.2UJDqhZIsYhB7-RpbEn9RnICp04r7866Fj473DdDmWQ",
+                "created": "2022-10-13T07:28:38Z",
+                "title": "Backend Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Stepapp"
+                },
+                "salary_min": 1000000,
+                "description": "Backend Developer(Node.js) We are looking for a highly capable Node.js developer to optimize our web-based application performance. You will be collaborating with our front-end application developers, designing back-end components, and integrating data storage and protection solutions. To ensure success as a Node.js developer, you should possess extensive knowledge of Node.Js based services and experience in a similar role. An accomplished Node.js developer will be someone whose expertise resul…",
+                "id": "3582947428"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "AvatarLife"
+                },
+                "contract_time": "full_time",
+                "salary_min": 2000000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "As the backend engineer developer, you will drive the vision of AvatarLife and make it a significant player in metaverse gaming space. You will steer the development of our games and everything that comes with it. Skills Required 2 years experience in Node.js is required Experience in game development Familiarity with typescript is a plus We are looking for individuals who can work independently and are fine with unstructured scenarios. We are flexible with the job location, working hours and c…",
+                "salary_max": 4500000,
+                "redirect_url": "https://www.adzuna.in/details/3262155122?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIzMjYyMTU1MTIyIn0.gUXll8VKSJclbPNk71GhVgAgmwHj7hv-vLKd7zI4SCo",
+                "id": "3262155122",
+                "created": "2022-06-26T06:20:48Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                }
+            },
+            {
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2026-05-26T06:36:48Z",
+                "longitude": 77.59837,
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Company Overview Twixor is a pioneering IT services and consulting company headquartered in Singapore, with offices pan-India, including Bangalore. We empower enterprises to reimagine customer engagements via our patented, low-code digital process automation across messaging channels. Serving a global clientele, including Fortune 500 companies, we deliver intelligent, hyper-personalized customer journeys powered by AI and automation. Job Overview We are seeking a skilled Mid-Level Backend Devel…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Twixor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5740848408?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5740848408",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MDg0ODQwOCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.2UpBCsTm1ifMS3JIYwg8_Wxx5nVv6EsSjrFrbG8Oozg",
+                "latitude": 12.95703
+            },
+            {
+                "id": "5742499106",
+                "company": {
+                    "display_name": "Twixor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 300000,
+                "description": "Company Overview Twixor is a pioneering IT services and consulting company headquartered in Singapore, with offices pan-India, including Bangalore. We empower enterprises to reimagine customer engagements via our patented, low-code digital process automation across messaging channels. Serving a global clientele, including Fortune 500 companies, we deliver intelligent, hyper-personalized customer journeys powered by AI and automation. Job Overview We are seeking a skilled Mid-Level Backend Devel…",
+                "created": "2026-05-28T02:10:18Z",
+                "title": "Backend Developer",
+                "latitude": 12.95703,
+                "salary_max": 900000,
+                "redirect_url": "https://www.adzuna.in/details/5742499106?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzQyNDk5MTA2In0.lwVAjY7_2XlrWDrZpVXuPxvNZbuoI-KrUzmFiofuGS8",
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "longitude": 77.59837,
+                "salary_is_predicted": "0"
+            },
+            {
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_max": 1000000,
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/details/1171506694?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA2Njk0LCJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyJ9.IpIdTxiUWE8ogqWikpql1GOm2VCaZeatG5PMYGf-K5Q",
+                "longitude": 78.50806,
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "iii Consulting Private Limited"
+                },
+                "description": "Who We Are iii Consulting Pvt. Ltd. is a startup studio founded in 2015 with an aim to spearhead the growth of the Indian startup ecosystem, the three i s that we stand for are Ideate, Incubate and Incorporate. We help organizations to leverage latest technology to help grow their businesses. Senior Backend Developer Job Description We are looking for an experienced Back-end developer to join our tech team. You will be responsible for the server side of our web applications. If you have excelle…",
+                "salary_min": 600000,
+                "id": 1171506694,
+                "created": "2019-06-05T21:12:01Z",
+                "title": "Backend Developer"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "longitude": 77.59837,
+                "salary_is_predicted": "0",
+                "salary_max": 2000000,
+                "latitude": 12.95703,
+                "redirect_url": "https://www.adzuna.in/details/4864553215?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI0ODY0NTUzMjE1In0.GZqLL7kSXuPKuvwTXdARPqNNmJ_h8BdzZNIQ-h0wZ7s",
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2024-09-15T11:27:08Z",
+                "title": "Backend Developer",
+                "id": "4864553215",
+                "company": {
+                    "display_name": "Elocity Technologies India Private Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Job Title: Backend Developer Experience: 2 Years Location: Bangalore, India Elocity is a cleantech start-up striving to make the world a better place through technology innovations. We are building a global infrastructure for making the transition to electric vehicles viable, affordable, and sustainable by working closely with the utilities, governments, and public. Headquartered out of Canada, we are a team of highly specialized domain experts and problem solvers enabling utilities, public and…",
+                "salary_min": 1000000
+            },
+            {
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2022-03-02T04:56:17Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Backend Engineer  Develop back-end server that includes business logic linked to various data storage solutions including database.  Design back-end server system by using technology appropriate for server environment.  Develop and maintain Rest services for Samsung Pay Develop RESTful services that are highly scalable, available, maintainable Skills :  Excellent Programming Skills  Strong problem-solving abilities  Analytical skills, and troubleshooting  Good understanding of algorithms…",
+                "salary_min": 1000000,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wenger and Watson Inc"
+                },
+                "redirect_url": "https://www.adzuna.in/details/2937605137?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjkzNzYwNTEzNyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.swW0VFdYIL-ZLo_bUo8Yb_NpJkAafdhYIi43kZZFQK4",
+                "id": "2937605137",
+                "salary_max": 1500000
+            },
+            {
+                "created": "2019-06-05T21:12:20Z",
+                "title": "Backend Developer",
+                "id": 1171508747,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Civil Maps"
+                },
+                "description": "We are Civil Maps , Civil Maps, provider of 3D mapping technology for fully autonomous vehicles, has raised a $6.6 million seed funding round from Ford Motor Company, Motus Ventures, Wicklow Capital, StartX Stanford and Yahoo cofounder Jerry Yang’s AME Cloud Ventures. Civil Maps’ mission is to make it possible for fully autonomous vehicles (SAE Levels 4-5) to drive anywhere smoothly and safely. Through artificial intelligence and vehicle-based local processing, Civil Maps converts sensor data i…",
+                "salary_min": 2500000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "longitude": 78.50806,
+                "salary_is_predicted": "0",
+                "salary_max": 3500000,
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/details/1171508747?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOjExNzE1MDg3NDd9.qS72bKu79H2J56fzuXSPG_L4DvLu4r0tx-B84cl6i3o",
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                }
+            },
+            {
+                "created": "2022-03-28T05:12:49Z",
+                "title": "Backend Developer",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "silverlineswap"
+                },
+                "salary_min": 500000,
+                "description": "QUALIFICATION Bachelor's or Master's degree in Computer Science, Information Systems, or equivalent. EXPERIENCE – 2 to 5 years CTC - UPTO 5.4L P.A. JOB DESCRIPTION We are looking for a backend developer who will be responsible for designing, implementing, and supporting a distributed blockchain-based network. Your primary responsibility will be analysing requirements, designing Blockchain technology around a certain business model, and the building and launching of a blockchain network. You wil…",
+                "id": "3003838367",
+                "longitude": 80.24963,
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 13.06041,
+                "salary_max": 540000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzAwMzgzODM2NyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.YII6W_PxI3FhJiHfB8mXOQWgoMOQT7qO6hYC9b5SLTA",
+                "redirect_url": "https://www.adzuna.in/details/3003838367?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "SKS Enterpprises",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Sr. Backend Developer Exp: 1 years Location: Bangalore About Company: The company is a job matching platform that connects the blue- collar workers with potential employers in India with one other. For the first time ever, we are providing workers in India with a digital, verified biodata through the this platform. Workers in India can now be empowered to find jobs more easily, secure their livelihood and establish a formal career. At the same time, employers will also be able to enjoy improved…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 600000,
+                "salary_max": 1500000,
+                "redirect_url": "https://www.adzuna.in/details/2742136169?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyNzQyMTM2MTY5In0.9Rw4EaRMMVbodO_TeRXHlBBZXv5vF1H1JC5560FIS5Y",
+                "id": "2742136169",
+                "created": "2021-12-16T05:52:43Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                }
+            },
+            {
+                "id": "3517023438",
+                "redirect_url": "https://www.adzuna.in/details/3517023438?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzUxNzAyMzQzOCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.XwHPF7xpWBUVM23DdaPYfX8h5EYk2F8Z4SM2ff_IkMk",
+                "salary_max": 1500000,
+                "description": "Hello, Greetings for the day  We are hiring \"Backend Developer\" for one of the IT & digital tech solutions based organization  US (Chicago)  JOB BRIEF: We are looking for an experienced Back-end developer to join our IT team. You will be responsible for the server side of our web applications. If you have excellent programming skills and a passion for developing applications or improving existing ones, we would like to meet you. As a Back-end developer, you’ll work closely with our engineers to…",
+                "salary_min": 500000,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Tridat Technologies Pvt. Ltd.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2022-09-24T06:56:57Z"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 2000000,
+                "description": "Software Engineer (Backend Developer) About Falconbrick Technologies: FalconBrick is a SAAS based Construction / Real-Estate Industry, Product & Deep Technology and most importantly, on-ground change management experience. We aim to be the de facto on-site construction management system in India and abroad. We have seen very quick growth, with large builders (across Bangalore, Mumbai, Pune, Kolkata, Delhi-NCR & Hyderabad) already being our customers. Our larger team includes product and enginee…",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "wrackle"
+                },
+                "redirect_url": "https://www.adzuna.in/details/3138985405?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzEzODk4NTQwNSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.3r2S752SlVBWGVL3S8r7abO5ZMowSaCOTcg1R7C80gM",
+                "id": "3138985405",
+                "salary_max": 3000000,
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2022-05-16T05:27:44Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "created": "2022-01-07T04:36:21Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Qrata"
+                },
+                "salary_min": 600000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "JOB DESCRIPTION Senior Software Engineer It is a fish and seafood supply chain platform.It is a B2B marketplace leveraging technology to deliver the fastest harvest-to-retail in the industry.Building the future of meat and seafood supply chain.We are building smart supply chain to deliver the highest quality seafood and meat for the Indian consumer. Our innovations in process management and workforce orchestration along with strong industry credentials are enabling us to deliver the fastest har…",
+                "salary_max": 2500000,
+                "redirect_url": "https://www.adzuna.in/details/2795055920?utm_medium=api&utm_source=7d10bb5b",
+                "id": "2795055920",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyNzk1MDU1OTIwIn0.hPaNTDNUjDMVH5Q_7ro0rNyE5k9fb4fIMFlJrd72Z7A"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 0,
+                "description": "should have at least 5 years of hands-on experience in backend software development using Java. should have proven expertise in Spring Boot REST/Microservices. should have used design patterns like MVP, MVC or MVVM and should know when to use which. should have working experience with relational and NoSQL databases. should have multiple years of experience with cloud application design and in one or more reputable cloud platform providers (e.g. AWS, GCP, Microsoft Azure … ) should have professi…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Meatigocom"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/2072199003?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOjIwNzIxOTkwMDN9.G5M4BdjIm_43DCZEIzpVUOM8gbSwHt2O1HwPysUzno4",
+                "id": 2072199003,
+                "salary_max": 1000000,
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2021-03-24T04:31:45Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/2461074521?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjQ2MTA3NDUyMSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.k4vGEwhXM2XrUxWFUisOTf6OVUVbbs3VQOJuBbYdsKY",
+                "salary_max": 1500000,
+                "latitude": 18.5062,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 73.84735,
+                "id": "2461074521",
+                "description": "Job Description: We are looking for a self-starter/ Back End Developer who can work well with minimal guidance and in a fluid environment. Proficient at programming and interacting with APIs and good knowledge of RESTful design. Customer-focused reacts well to changes, works with teams, and is able to multitask. A natural communicator who can articulate and express thoughts and explain technical concepts in clear, plain English (both written and verbal) Key Responsibilities: Hands-on experience…",
+                "salary_min": 0,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Envisionard"
+                },
+                "title": "Backend Developer",
+                "created": "2021-09-16T01:20:47Z"
+            },
+            {
+                "latitude": 17.40275,
+                "id": "5714052144",
+                "redirect_url": "https://www.adzuna.in/details/5714052144?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzE0MDUyMTQ0In0.0pJRRcoROnlfJj1sQS-GV5v0lkFknL44AdRdvNrTY6A",
+                "company": {
+                    "display_name": "Wipro Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "The purpose of this role is to design, test and maintain software programs for operating systems or applications which needs to be deployed at a client end and ensure its meet 100% quality assurance parameters 1. Instrumental in understanding the requirements and design of the product/ software Develop software solutions by studying information needs, studying systems flow, data usage and work processes Investigating problem areas followed by the software development life cycle Facilitate root …",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "created": "2026-04-30T06:43:31Z",
+                "longitude": 78.50806,
+                "title": "Backend Developer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "created": "2021-09-14T02:04:36Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "HOP Financial Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "About Hop: We are a London, UK based FinTech startup with a subsidiary in India. Hop is working towards building the next generation digital banking platform for seamless and economical currency exchange, with technology at the crux of it. In a technology driven era, many financial services platforms still lack the customer experience and are cumbersome to use. Hop aims at building a ‘state of the art’ tech-centric, customer focused solution. moneyHOP is India’s first cross-border neo-bank prov…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "salary_min": 0,
+                "salary_max": 800000,
+                "redirect_url": "https://www.adzuna.in/details/2455580874?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoia2xOWGFFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIyNDU1NTgwODc0In0.MPSZYk89CnKCA6K3TZCTS7q9kxaNA1H0eHCFwY7euuk",
+                "id": "2455580874"
+            },
+            {
+                "title": "Backend Developer",
+                "created": "2022-04-12T05:27:44Z",
+                "salary_min": 100000,
+                "description": "Company Profile Easebuzz is a payment solutions (fintech organisation) company which enables online merchants to accept, process and disburse payments through developer friendly APIs. We are focusing on building plug n play products including the payment infrastructure to solve complete business problems. Definitely a wonderful place where all the actions related to payments, lending, subscription, eKYC is happening at the same time.We have been consistently profitable and are constantly develo…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "EASEBUZZ"
+                },
+                "id": "3044590182",
+                "salary_is_predicted": "0",
+                "longitude": 73.84735,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzA0NDU5MDE4MiIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.l24fFRF3VM652kTEpH5Xdmc9oVLbHcUjWBjz-XoBk5k",
+                "redirect_url": "https://www.adzuna.in/details/3044590182?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.5062,
+                "salary_max": 1200000
+            },
+            {
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2022-01-06T04:26:35Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "Backend Developer (Python) Company and Founders Egregore Labs ( www.egregorelabs.com ) is a financial software company founded in 2017 by Prashant Vijay (ISB, Tulane) & Hari Balaji (IIM Ahmedabad, IIT Madras) both of whom have spent over a decade each in Financial Services, with a majority of their experience at Goldman Sachs across New York, Hong Kong & Singapore in roles across Trading, Quant & Technology. More about the founders is available here and here We operate at the intersection of Un…",
+                "salary_min": 0,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "InvokHR",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/2792651823?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjc5MjY1MTgyMyIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.PkTrVZ7mQ8KFFQaReN8SsyK5_KMPDLkwGfi6S1w3kNs",
+                "id": "2792651823",
+                "salary_max": 1000000
+            },
+            {
+                "latitude": 19.00821,
+                "salary_max": 1800000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzEzMzEzODI2NCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.DA1gJD6TjdfI96CI3oOd-5ZDOAVKOphSlT7mY1VOrqo",
+                "redirect_url": "https://www.adzuna.in/details/3133138264?utm_medium=api&utm_source=7d10bb5b",
+                "contract_time": "full_time",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "longitude": 72.84415,
+                "salary_is_predicted": "0",
+                "id": "3133138264",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Orboai"
+                },
+                "salary_min": 500000,
+                "description": "Who Are We A research-oriented company with expertise in computer vision and artificial intelligence, at its core, Orbo is a comprehensive platform of AI-based visual enhancement stack. This way, companies can find a suitable product as per their need where deep learning powered technology can automatically improve their Imagery. ORBO's solutions are helping BFSI, beauty and personal care digital transformation and Ecommerce image retouching industries in multiple ways. WHY US Join top AI compa…",
+                "created": "2022-05-14T05:30:24Z",
+                "title": "Backend Developer"
+            },
+            {
+                "company": {
+                    "display_name": "Tagalys",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 600000,
+                "description": "About Tagalys Tagalys provides intelligent merchandising solutions to mid-sized e-commerce brands around the world, like LEGO, Fila, Crocs, Tink, Ana Luisa, Ritu Kumar, EQVVS, Lack of Color, and Apollo 247. Our products include category merchandising tools, search, recommendations, and a full analytics suite. Over the last three years, we have scaled from a two-person founding team to over 15 people. During this time, we’ve received amazing customer reviews on the quality of the product, and ou…",
+                "id": "3151738842",
+                "created": "2022-05-20T05:38:01Z",
+                "title": "Backend Developer",
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 13.06041,
+                "salary_max": 1500000,
+                "redirect_url": "https://www.adzuna.in/details/3151738842?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzE1MTczODg0MiIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.jxLIwR2Xcg7W-8xdFpNFLUHpI3cI2O1tyCiJAqGIbaI",
+                "longitude": 80.24963,
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNjI4MjM0MSIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.e-E7NPygD5lbVFU1-07pSHmXyQQYPM56VPQxQ1Ajh2U",
+                "redirect_url": "https://www.adzuna.in/details/5726282341?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5726282341",
+                "latitude": 18.5062,
+                "description": "Role: Backend Developer Experience: 5 Years Location: Remote Timings: 2:30 Pm to 11:30 PM IST Company Overview: At Codvo, software and people transformations go hand-in-hand. We are a global empathy-led technology services company. Product innovation and mature software engineering are part of our core DNA. Respect, Fairness, Growth, Agility, and Inclusiveness are the core values that we aspire to live by each day. We continue to expand our digital strategy, design, architecture, and product ma…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Codvo.ai"
+                },
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0",
+                "created": "2026-05-12T05:12:34Z",
+                "longitude": 73.84735
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5751015718?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5751015718",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTAxNTcxOCIsInMiOiJrbE5YYUVkcjhSR2lwZVlBNzY2WEp3In0.SlsMKvyJ8GMz0-qL-SfqEZUlUM4aOV4OHDYzemEO1L4",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Termgrid"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Termgrid is rewriting the rules of private capital markets. We built the category-defining operating system for deal professionals — the platform where the world's most sophisticated private equity sponsors , lenders , and advisors manage every stage of their financing workflows. Founded in 2019 by Dipish Rai ( Harvard MBA, IIT , Columbia ; ex- Providence Equity ) and Vishal Singh (Columbia MS CS; ex- CTO Link3D, acquired by Nasdaq: MTLS), Termgrid has achieved what few fintech companies dream …",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "created": "2026-06-04T02:22:48Z",
+                "title": "Backend Developer",
+                "salary_is_predicted": "0"
+            }
+        ]
+    },
+    "page": 5,
+    "role": "backend_developer"
+}

@@ -1,0 +1,1595 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:56:43.379269",
+    "source": "adzuna",
+    "response": {
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "results": [
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiI0OTUxNDM3Njk2In0.IMBGgiC_q88gRXCsW4ObcfObd-moDpFq5Z5eWtPvVus",
+                "description": "Intro EAGLE Power Holdings aims to launch a portfolio of new energy retail brands, all of which enjoy the efficiency of a single technology platform. We want to do more than offer cheap \"green\" tariffs, and believe that our range of engaging brands can identify with shifts in consumer preferences (e.g. growth of EV usage), with the value of local communities, and with proactive support of broader ESG causes. Our long-term strategy is technology-driven, and involves unlocking value through the d…",
+                "salary_max": 1500000,
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "4951437696",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/4951437696?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 0,
+                "created": "2024-11-26T11:32:59Z",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Eagle Power"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "id": "5727133793",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "description": "Job Description: At least 3 years of software development experience, preferred between 3 to 6 years. Good hold on front-end, with working proficiency in middleware, and back-end Java web development technologies - Front end languages such as HTML, CSS, jQuery and JavaScript. - Angular framework – core skill – expert experience needed - Should have good hold of designing and developing on angular framework – latest versions - Expert in APIs (Restful), need to be able to integrate backend APIs a…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcyNzEzMzc5MyIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.FXLYpmitJ4QC1ssiMG8rY8pmG0vnn7wykU5bGcdu3r0",
+                "latitude": 19.00821,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2026-05-13T02:03:58Z",
+                "company": {
+                    "display_name": "Acura Solution",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "longitude": 72.84415,
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5727133793?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExODc5MzcxMjJ9.QC25dFt39ZC6vZ677lBlZXGkg3tcn99GAYP9MLmQ1Bk",
+                "description": "Responsibility : - Own design and implementation of all user interfaces - Interact with the product team to crystalize UI/UX requirement - Own the UI technology stack, introduce and utilize pertinent frameworks and technologies which are scalable and flexible enough to cater to the platform's roadmap Requirement : - Graduate/Post graduate degree in any engineering or scientific discipline. - 3-6 years of experience in frontend technologies with the development of responsive web/mobile applicati…",
+                "salary_max": 1300000,
+                "id": 1187937122,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "redirect_url": "https://www.adzuna.in/details/1187937122?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "created": "2019-06-22T21:37:21Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 800000,
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Kuliza",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "longitude": 72.84415,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1171507976?utm_medium=api&utm_source=7d10bb5b",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "GST Edge"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 19.00821,
+                "salary_max": 500000,
+                "id": 1171507976,
+                "salary_is_predicted": "0",
+                "salary_min": 300000,
+                "created": "2019-06-05T21:12:13Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA3OTc2LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.g5ohGmkT2dz_fMTNX--PqHWWytUTc1LCLih8RYL7Fps",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra"
+                },
+                "description": "Welcome to GST Edge. We build platforms for simple, fast, accessible and reliable business management. We take product development very seriously. Hence, our Frontend Team forms the frontline, responsible for the experience derived by users. The selected candidate will work with the highest performing team, having the most far-reaching ambitions - which reflects in their work. Responsibilities include: - Design, develop, test, deploy, maintain and improve the frontend of our software products a…"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 400000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Mentor Together"
+                },
+                "contract_time": "full_time",
+                "created": "2020-07-27T00:27:38Z",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1616685629?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_max": 700000,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": 1616685629,
+                "description": "Mentor To Go is an android and web based platform to help students improve their work readiness through self-learning sessions , personalised mentorship provided by mentor professionals from a range of careers, and work experience opportunities . The technology platform implements functionalities such as: screening surveys of mentors and mentees, training content for mentors, matching through an algorithm, and mentorship through the delivery of structured activities. The application technology …",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE2MTY2ODU2Mjl9.hqU8iYqgAhT18ll99V-IpdCjCUa1cx4eDBxNQ_iNfJ0"
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/4854004537?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "salary_min": 2500000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Majoris Technologies"
+                },
+                "created": "2024-09-06T11:20:45Z",
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiI0ODU0MDA0NTM3In0.oSoGOqJVYMG2aBQIgvLpmva5jYOyufJHcSCN8niy6n4",
+                "description": "One of our premium-based product customers, we are looking to hire a team of software Developers in Bangalore, looking for Tech Geeks, who have 2 years of experience full-time. SENIOR SOFTWARE DEVELOPMENT ENGINEER - FRONTEND ● Overall, 2-4 years of experience. ● Solid foundations of Javascript, Responsive web, CSS, Semantic HTML and how the internet works. ● Strong proficiency with React and its core principles. React Native is a plus. ● Solid understanding of Chrome dev tools, APIs and fronten…",
+                "salary_max": 3500000,
+                "id": "4854004537",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "latitude": 28.56579,
+                "salary_max": 500000,
+                "id": 1316186760,
+                "longitude": 77.3225,
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1316186760?utm_medium=api&utm_source=7d10bb5b",
+                "company": {
+                    "display_name": "GRowth Gamut Pvt. Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMzE2MTg2NzYwLCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.foqBIXMAavlhrT7cmaW4blk6jrE2oXjk5iTlKU_-doU",
+                "location": {
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ],
+                    "display_name": "Noida, Ghaziabad",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Strong development experience of 2 years using front end technologies such as HTML, JavaScript, CSS, JQuery, HTML5, React JS, Angular 4 or higher , Type Script ● Skilled at Object Oriented JavaScript and having a working knowledge of at least one of the following MVC Frameworks (Angular, Ember, React etc.) ● In-depth understanding of the entire web development process (design, development, and deployment) ● Understanding of common frontend design patterns for developing high performance, user f…",
+                "salary_is_predicted": "0",
+                "salary_min": 300000,
+                "created": "2019-10-29T12:53:43Z"
+            },
+            {
+                "salary_min": 500000,
+                "created": "2022-07-01T06:25:09Z",
+                "salary_is_predicted": "0",
+                "description": "About the company Credit cards haven't changed much for over half a century so our team of seasoned bankers, technologists, and designers set out to redefine the credit card for you - the consumer. The result is OneCard - a credit card reimagined for the mobile generation. OneCard is India's best metal credit card built with full-stack tech. It is backed by the principles of simplicity, transparency, and giving back control to the user. The Engineering Challenge “Re-imaging credit and payments …",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzI3NzY4ODc2OSIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.x-PN24GrBmDu9v9-XcqszK5Km74Eygt6t7sPrUHhRzs",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "FPL Technologies Pvt Ltd"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "redirect_url": "https://www.adzuna.in/details/3277688769?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "title": "Frontend Developer",
+                "longitude": 73.84735,
+                "id": "3277688769",
+                "salary_max": 2500000,
+                "latitude": 18.5062
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDg0Nzh9.Rfn_Px5E2eXnx0MZhGsKXE-2CP6JkxucvFRutmLS7Lw",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                },
+                "description": "We're looking for a talented Frontend Engineer to work on our cutting edge online investment platform which has recently gone live. What will you be doing? Although it is a frontend position there is still some variation to the position. As well as developing frontend functionality you'll be contributing to the scoping and design of new software and supporting planning and estimating. You’ll also be identifying and investigating defects in the systems and developing bug fixes, plus correspondin…",
+                "salary_is_predicted": "0",
+                "salary_min": 400000,
+                "created": "2019-06-05T21:12:17Z",
+                "latitude": 19.00821,
+                "id": 1171508478,
+                "salary_max": 800000,
+                "longitude": 72.84415,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1171508478?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "company": {
+                    "display_name": "Moneyjar",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time"
+            },
+            {
+                "latitude": 28.62523,
+                "salary_max": 1500000,
+                "id": "2792650991",
+                "longitude": 77.224601,
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/2792650991?utm_medium=api&utm_source=7d10bb5b",
+                "company": {
+                    "display_name": "InvokHR",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjc5MjY1MDk5MSIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.tE-WAzOAAGrnQ5D2Yz6kkbtyZ4HvlBOdNii0oE5tgNo",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "display_name": "Delhi, India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Position Front-end Web-developer and UI-UX Designer Location Delhi NCR Opening Immediate Search Context Over 1.8 billion non-salaried informal sector workers globally, and roughly 700m Indians are not eligible for pension or other social protection benefits. Without an urgent and effective response to pension exclusion, they face the grim prospect of extreme poverty for over 20 years once they are too old to work. pinBox is the only global pensionTech committed exclusively to mass-scale digital…",
+                "salary_is_predicted": "0",
+                "salary_min": 700000,
+                "created": "2022-01-06T04:26:18Z"
+            },
+            {
+                "description": "Role We are looking for a seasoned front-end developer to join our product team. This role requires you to be a tech-savvy contributor in translating the customer needs and user expectations into interactive web apps. You’ll be an exceptional problem solver and take responsible actions in ensuring the application is optimised both in technology and in delivering the best user experience. Responsibilities Work closely with design, product management, and development teams to create elegant, usab…",
+                "salary_max": 2500000,
+                "id": "4082727261",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiI0MDgyNzI3MjYxIn0.VieOY9gvJiD6AeR7xbyf-b8hFxYN_hXRlYZ5Uxb5-PU",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 1200000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Catalyst IQ"
+                },
+                "contract_time": "full_time",
+                "created": "2023-05-05T15:49:45Z",
+                "redirect_url": "https://www.adzuna.in/details/4082727261?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                }
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1828967523?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_min": 240000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "ERA Interfaces"
+                },
+                "created": "2020-11-18T03:03:11Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE4Mjg5Njc1MjN9.PzOzJdCoEDwZAkcIZCQMwK3d2yjTMFJojZXC4oGZmPo",
+                "description": "We are looking for a seasoned front-end developer to join our product team. This role requires you to be a tech-savvy contributor in translating the customer needs and user expectations into interactive web apps. You’ll be an exceptional problem solver and take responsible actions in ensuring the application is optimized both in technology and in delivering the best user experience. Responsibilities: Work closely with design, product management, and development teams to create elegant, usable, …",
+                "salary_max": 300000,
+                "id": 1828967523,
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "description": "Kvantum is a career-changing opportunity where you will get to learn the latest and greatest marketing analytics for CPG, Retail, eCommerce, Pharma industry (to name few). At Kvantum, you will be part of a rapidly growing company. You will be able to make your mark; you’ll help write the story. You will get the chance to go above and beyond, being a hero to your clients and to your team. You will get the chance to make a big impact, applying your coding skills, domain expertise to ready the mos…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India"
+                },
+                "id": 1858079753,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxODU4MDc5NzUzLCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.klHwy4z_VBKy3-WwpbvanIPLHduPHA3oUSTxENiOjh4",
+                "created": "2020-12-03T03:17:25Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Kvantum Inc.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1858079753?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer"
+            },
+            {
+                "salary_max": 5000000,
+                "id": "5451110746",
+                "latitude": 17.40275,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "OpenPlay"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/5451110746?utm_medium=api&utm_source=7d10bb5b",
+                "longitude": 78.50806,
+                "description": "Job Responsibilities • JavaScript competence • Experience using a MV* framework (such as Backbone.js, Ember.js, AngularJS, ReactJS, …) • Experience with web interface development and frameworks (Ajax, Angular, Jquery, and similar) • Experience in using a version control system, preferably Git • Knowledge of HTML5, DOM traversal/manipulation and event capturing, jQuery, CSS Preferred Qualifications • Experience in responsive design, touch interfaces • Ideal candidates will show excellent debuggi…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MTExMDc0NiIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.0sbsQjM0xDRfInWER1n6lUXmvUQE-hCvG1OmMvzdw1Q",
+                "salary_min": 100000,
+                "created": "2025-10-17T06:48:15Z",
+                "salary_is_predicted": "0"
+            },
+            {
+                "salary_min": 1000000,
+                "created": "2025-10-17T06:47:25Z",
+                "salary_is_predicted": "0",
+                "description": "About the role: Work closely with our customers to understand their needs and build high-quality user interfaces. Build, test and ship dashboards using frameworks like React, ES6, and Webpack. Work with engineers and senior leadership to turn our vision into a tangible roadmap every quarter. Add positive energy in every meeting or interaction with your coworkers. Minimum Qualifications B.E/B.Tech/M.Tech in CS/CE/IT Must-have requirements for candidates include proficiency in the following areas…",
+                "location": {
+                    "display_name": "Ahmedabad, Gujarat",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTQ1MTExMDU3OSIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.MSGyh3KmXf0PC2-j8YNqu4c1EQ5OGSXRqK7jY13sFGo",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Z21tech",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5451110579?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "longitude": 72.59465,
+                "id": "5451110579",
+                "salary_max": 1500000,
+                "latitude": 23.042
+            },
+            {
+                "id": "4786290251",
+                "salary_max": 900000,
+                "latitude": 17.40275,
+                "company": {
+                    "display_name": "Dvara ERegistry",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/4786290251?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "longitude": 78.50806,
+                "description": "Experience with deploying applications on cloud infrastructure, preferably AWS • Experience in using REST APIs with the front end • Experience in handling webMap applications using leading webMap Javascript APIs like ReactJS Leaflet, Google Maps Javascript API and Geoserver management • Experience with the Agile/Scrum development model • Strong experience in code versioning using Git. • Strong design, development, and implementation experience. • Very good experience in React JS, React Leaflet …",
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDc4NjI5MDI1MSIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.pmM8ywzwLSqABF9eIGjz5RYvCKqspEwfNrhPL8cNMKs",
+                "salary_min": 700000,
+                "created": "2024-07-19T10:48:32Z",
+                "salary_is_predicted": "0"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2023-11-16T14:53:59Z",
+                "salary_min": 500000,
+                "company": {
+                    "display_name": "Swiggy",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/4435732533?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "About us: Shiprocket is a logistics platform which connects Indian eCommerce SMBs with logistics players to enable end-to-end solutions. Our innovative data-backed platform drives logistics efficiency, helps reduce cost, increases sales throughput by reducing RTO and improves post order customer engagement and experience. Our vision is to power all logistics for the direct commerce market in India including first mile, linehaul, last mile, warehousing, cross border and O2O. Requirement: We are …",
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "id": "4435732533",
+                "salary_max": 2000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiI0NDM1NzMyNTMzIn0.jHvDTMwWBMwiodAuLLJPT1y8UwGD5Wz4GzlyCydU9WA"
+            },
+            {
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": 1899703447,
+                "salary_max": 3000000,
+                "description": "Responsibilities - ● Design overall architecture of the web application. ● Maintain quality and ensure responsiveness of applications. ● Collaborate with the rest of the engineering team to design and launch new features. ● Maintain code integrity and organization. ● Experience working with graphic designers and converting designs to visual elements. ● Understanding and implementation of security and data protection. ● Highly experienced with front-end programming languages - HTML, CSS JavaScri…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE4OTk3MDM0NDd9.4pkkLVTzJZ2KyuhqPv-dah342mqEzoH51wK8_iX_BHY",
+                "salary_min": 750000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Anzy Careers",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "created": "2020-12-25T03:39:58Z",
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1899703447?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_min": 0,
+                "created": "2020-10-09T02:04:00Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "We are looking for a Front-End Web Developer who is motivated to combine the art of design with the art of programming. Responsibilities will include translation of the UI/UX design wireframes to actual code that will produce visual elements of the application. You will work with the UI/UX designer and bridge the gap between graphical design and technical implementation, taking an active role on both sides and defining how the application looks as well as how it works. Responsibilities Develop …",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE3NTA1NjI3MjB9.yGPGeP43FzyBuW1N8mKX7xb6pkTgIalVZqMSos4_GfM",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "sense.bio"
+                },
+                "contract_time": "full_time",
+                "longitude": 72.84415,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1750562720?utm_medium=api&utm_source=7d10bb5b",
+                "id": 1750562720,
+                "salary_max": 450000,
+                "latitude": 19.00821
+            },
+            {
+                "salary_min": 500000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Hipoteca Primero",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "created": "2020-10-09T02:04:12Z",
+                "title": "Frontend Developer",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1750562807?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Front-end Developer H1 is a Spanish fin/proptech that revolutionizes the mortgage market by offering bank-risk approved loans before knowing the house an individual wants to purchase. It also offers a powerful selling tool for real estate agents and developers that helps manage their businesses. From there, H1 is building a community of millions of high credit profile users (individuals  companies) that use the credit marketplace technology to access a multiproduct platform (including banking a…",
+                "id": 1750562807,
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "salary_max": 1100000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE3NTA1NjI4MDd9.d7wSvqdrdt7SP1b18l5lHEDWaGJJgBu9-fI_Y8zOEE8"
+            },
+            {
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1791176667?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 1000000,
+                "company": {
+                    "display_name": "Aurigin",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2020-10-30T02:55:49Z",
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE3OTExNzY2Njd9.w-1s59JCrMBUaqQII9WxcKdUl4CwWnxbpqlzjquFCYc",
+                "salary_max": 1800000,
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "id": 1791176667,
+                "description": "Job Description – Senior Software Engineer - Front End Aurigin is a deal origination platform that connects qualified investment opportunities to institutional investors around the world. We're dedicated to creating efficiency and true scale in this area of the investment banking industry. Aurigin provides thousands of live, curated transactions from late-stage VC to PE, M&A, and pre-IPO investments online, globally. Our proprietary matching software matches sell-side characteristics with buy-s…"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Success Pact",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 1500000,
+                "contract_time": "full_time",
+                "created": "2020-03-17T16:03:50Z",
+                "title": "Frontend Developer",
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1492197683?utm_medium=api&utm_source=7d10bb5b",
+                "id": 1492197683,
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "salary_max": 2200000,
+                "description": "Front End Web Developer We are looking for passionate, self-driven Engineers who are best at what they do and truly believe anything is possible, someone who likes to discuss and explore new ideas and enjoys working with others to design and create great market defining features and products. We want team members who want to do more than just code, we want a dreamer, a creator, someone who likes to discuss new ideas everyday. What we are looking for: ● Experience in design and implementation of…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE0OTIxOTc2ODN9.IVneYwhgRvS9v2R17x5bIBG-zET4yNLVvl-K34tHkhk"
+            },
+            {
+                "location": {
+                    "display_name": "Gurgaon, Haryana",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Haryana",
+                        "Gurgaon"
+                    ]
+                },
+                "description": "We are looking for programmers with a keen eye for design for the position of Front End Developer. Front end Developers are responsible for ensuring the alignment of web design and user experience requirements, optimizing web pages for maximum efficiency and maintaining brand consistency across all web pages, among other duties. Front End Developers are required to work in teams alongside Back end Developers, Graphic Designers, and User Experience Designers to ensure all elements of web creatio…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxNDg5NTk5NjU0LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.JrEBynRWsY5b4x_wYHlsg19oWXsDuQKXzZL0wUiVhIg",
+                "salary_min": 600000,
+                "created": "2020-03-15T09:27:24Z",
+                "salary_is_predicted": "0",
+                "salary_max": 1200000,
+                "id": 1489599654,
+                "latitude": 28.323996,
+                "company": {
+                    "display_name": "SwifLearn",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "longitude": 76.983738,
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1489599654?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_is_predicted": "0",
+                "created": "2019-06-05T21:12:19Z",
+                "salary_min": 400000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA4Njk0LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.OX12XjAxpY_qDGt65Pi6fV9W9GGLT24XEROlpuBgQsA",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "description": "About the company: Orcaso is a Chennai based start-up founded by the graduates of Y Combinator’s Startup School in 2017. The company aims to be a special hybrid of game design and product development company dedicating it’s time and energy to create a productive working culture. located at Tidel Park, Chennai backed by NASSCOM. Hiring Front end Developers who have keen eye of details and Creative in nature. Skills: Javascript, HTML/CSS and AngularJS (1.x)",
+                "longitude": 80.24963,
+                "redirect_url": "https://www.adzuna.in/details/1171508694?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Orcaso",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "latitude": 13.06041,
+                "id": 1171508694,
+                "salary_max": 600000
+            },
+            {
+                "id": 1171508669,
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "salary_max": 300000,
+                "description": "Hi my role is Front-end Developer am Deliver the project be on Time an Attract the customer Skills: Javascript, HTML/CSS and Adobe Photoshop",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDg2Njl9.peBimCc2M2_bTWN7DQcIyGM3GsgSaOrrgex29Y1sNks",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "salary_min": 200000,
+                "company": {
+                    "display_name": "Zysk Technologies",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2019-06-05T21:12:19Z",
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1171508669?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "salary_min": 8000,
+                "created": "2019-06-05T21:12:21Z",
+                "salary_is_predicted": "0",
+                "description": "We are into product development company. Skills: Javascript, HTML/CSS, jQuery, AngularJS (1.x) and AJAX",
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA4ODgxLCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.wqj18tNIDjp__Z2fx1LykMpyM5Ora63WSlavSYvMfnc",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "GBIT India Pvt Lyd"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1171508881?utm_medium=api&utm_source=7d10bb5b",
+                "longitude": 78.50806,
+                "salary_max": 80000,
+                "id": 1171508881,
+                "latitude": 17.40275
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/1171508878?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 400000,
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Try Cinema"
+                },
+                "created": "2019-06-05T21:12:21Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA4ODc4LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.Mvmg46jzHB2AquFAFG4Z1pEulSe9xJuueD-2TmsZlIw",
+                "salary_max": 600000,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": 1171508878,
+                "description": "I am Deepak, building a simple web application that boosts team performance in any organization. I need someone to work on the front end. Will you be interested in working together? PS. Should be all ready to start the work asap Estimated Duration: 5 days. Paid Gig: 10,000 INR. Working space will be provided. Thanks Deepak Entrepreneur Y Combinator Founders Track SUS17 Skills: Javascript, HTML/CSS and React.js"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1171506955?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "salary_min": 1000000,
+                "company": {
+                    "display_name": "Niki.ai",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2019-06-05T21:12:04Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA2OTU1LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.oPSumHRrfTZQSGL5rCODXWlYT80cUTUP4QfuK-9BkyY",
+                "description": "SENIOR FRONTEND A senior frontend lead at niki.ai is someone who has individual and team experience in developing web and mobile products and can mentor developers working across all UI platforms - web, android, iOS. We are looking for someone who has deep experience in developing hybrid and native android apps, can work at low level with the hardware resources of phone(mic, audio, camera etc.) and at the same time is well aware of latest web development frameworks at a high level. You will be …",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "id": 1171506955,
+                "salary_max": 2500000
+            },
+            {
+                "salary_min": 400000,
+                "created": "2019-06-05T21:12:04Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Goa"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Goa, India"
+                },
+                "description": "Workspex GmbH is a Berlin based company with its technical team located in Goa, India. Workspex is primarily concerned with solutions that help companies make leadership decisions based on timely and targeted information. One such solution is the \"Goodnity\" app which motivates employees to regularly provide anonymous feedback on their own work and thus captures not only the up-to-the-minute sentimental pictures but also possible opportunities and problems to ensure the best possible control of …",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDY5NDV9.HpjRaEfgeefcYfSY48ngrwo1IegDEg96MWENtM_pmZU",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Workspex",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 74.014575,
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1171506945?utm_medium=api&utm_source=7d10bb5b",
+                "id": 1171506945,
+                "salary_max": 950000,
+                "latitude": 15.3542
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2022-01-02T04:29:03Z",
+                "salary_min": 0,
+                "company": {
+                    "display_name": "Jobdost",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/2782428413?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "description": "Knowledge and Skills: Writing semantic, modern, and accessible HTML mark-up. ReactJS (v17),Type Script, HTML, CSS Organizing and writing modular, well-structured CSS. Mastery of turning complex mock-ups into performant components/pages. Strong familiarity with Vanilla JS and up to date with the latest TypeScript features. Experience with writing scalable and performant code for a high-traffic website. Experience and/or knowledge of both Object Oriented Programming and Functional Programming pri…",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "2782428413",
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiIyNzgyNDI4NDEzIn0.B59tzN5QgAGcZh21rZej9zMbvpzei6CC8AXt9Ye3MXo"
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/2965122029?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Zyvka Global Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 1000000,
+                "created": "2022-03-12T05:07:50Z",
+                "contract_time": "full_time",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjk2NTEyMjAyOSIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.T_Q8wCUm40C2-YaHilbDkg9CTLr0qzlfBhcT1qtak0c",
+                "description": "Must Have: Must have Javascript and React.js Responsibilities: Use markup languages like HTML to create user-friendly web pages Maintain and improve website Optimize applications for maximum speed Design mobile-based features Collaborate with back-end developers and web designers to improve the usability Get feedback from, and build solutions for, users and customers Write functional requirement documents and guides Create quality mockups and prototypes Help back-end developers with coding and …",
+                "id": "2965122029",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_max": 3000000
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjE1MTc4MjQzNCIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.D2jsWp8mXn0nP7IV1zeiS5x4LiLpNBHtM4kqigHJTBM",
+                "salary_max": 2000000,
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "2151782434",
+                "description": "Job description for Front end Developer: Angular Developer Responsibilities:​ • Designing and developing user interfaces using Angular best practices.​ • Experience in Angular Material UI component Library.​ • Experience Leaflet javascript library (building Maps).​ • Adapting interface for modern internet applications using the latest front-end technologies.​ • Writing JavaScript, CSS, and HTML.​ • Developing product analysis tasks.​ • Making complex technical and design decisions for Angular p…",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/2151782434?utm_medium=api&utm_source=7d10bb5b",
+                "salary_min": 1000000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Semperfi Solution"
+                },
+                "contract_time": "full_time",
+                "created": "2021-04-30T12:37:07Z"
+            },
+            {
+                "description": "We are looking for a Front End Engineer at SIMBO.AI: Responsibilities Developing and implementing highly responsive UI Design software with great UX Produce clean and efficient code Troubleshoot, debug and upgrade existing software Management of entire end-to-end project pipeline Requirements Strong working knowledge of React JS and Redux Experience with JavaScript and CSS Experience with REST APIs Familiarity with browser testing and debugging In-depth understanding of the entire web developme…",
+                "id": "2196075742",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_max": 800000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiIyMTk2MDc1NzQyIn0.PWz59Sd5vtEMUYkyd0un7oLZG7mZ2liyI4GHouT5DXs",
+                "salary_min": 0,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "created": "2021-05-19T15:57:46Z",
+                "company": {
+                    "display_name": "SIMBOAI",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "title": "Frontend Developer",
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/2196075742?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "description": "Role : Senior UI Developer We are looking for talented front-end developers who can help us in enabling our users and to deliver excellent experiences to end users. The role of a front-end developer in our teams is crucial in realizing our design ideas. We are looking for developers who can contribute in building the best-in-class digital experiences through the right use of frameworks, technologies and code. Design and Develop web applications using front-end technologies like Angular 8, Types…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjE5ODM1MzY2MyIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.RyaZoUBkerorVqvq0ydNsNFPXqZhizUMwOjYJIhIVb8",
+                "salary_min": 0,
+                "created": "2021-05-20T15:21:42Z",
+                "salary_is_predicted": "0",
+                "id": "2198353663",
+                "salary_max": 1000000,
+                "latitude": 17.40275,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Eunimart Multichannel Pvt Ltd"
+                },
+                "longitude": 78.50806,
+                "redirect_url": "https://www.adzuna.in/details/2198353663?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "salary_min": 1000000,
+                "created": "2020-10-10T02:15:09Z",
+                "company": {
+                    "display_name": "Ishi Systems",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_is_predicted": "0",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1752711990?utm_medium=api&utm_source=7d10bb5b",
+                "salary_max": 2000000,
+                "id": 1752711990,
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "What will you do?  Lead frontend team and work with Engineering Team to design beautiful products and thoughtful interactions that make the experience of working with data seamless Help us design and optimize the performance of our products. Some of our users work with large data sets and have complex workflows that they manage with Atlan. You will be expected to prioritize user experience while building for scale. Design and develop products for diverse personas—data analysts in a large FMCG c…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE3NTI3MTE5OTB9.lEo-N7thmBdSOEJm-2O1496C5YgAgCTESVCjjzgtGHY"
+            },
+            {
+                "description": "AutoScheduler is looking for a remote Front-End Full-Stack Developer to join our talented team. The ideal candidate is a self-starter who is interested in constant learning. We want this person to join our dynamic team as we take an established software and re-develop it from scratch as a part of a new start up. We are looking for a Front-End developer responsible for rebuilding the back-end and front-end components of the AutoScheduler user interface. Your primary responsibilities will be to d…",
+                "salary_max": 2000000,
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "id": 1831361638,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE4MzEzNjE2Mzh9.A7M46RmZlO1g6yOfaEPpudlf8CRyNaiRRXQSBc9PhtM",
+                "salary_min": 0,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Transportation | Warehouse Optimization"
+                },
+                "created": "2020-11-19T02:53:59Z",
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1831361638?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "title": "Frontend Developer"
+            },
+            {
+                "title": "Frontend Developer",
+                "salary_is_predicted": "0",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1833908480?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2020-11-20T03:03:39Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 650000,
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Aakash Edutech"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE4MzM5MDg0ODB9.j_MyHKhb3pUEOE40PKRDB5ikmFwsldj0EeLFP_hSNjM",
+                "salary_max": 2000000,
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Delhi, India"
+                },
+                "id": 1833908480,
+                "description": "Experience working with HTML5, CSS3 in user interface design. Understanding of web technologies including one or more of the following:, Javascript (React, Angular, Node, D3, etc.) Expert knowledge on CSS preprocessors like Sass and LESS Experience on RESTful API. Strong typography, layout and visual design skills. Good exposure to databases, SQL queries Good analysis skills in order to troubleshoot and resolve the problems. Creative to suggest ways to simplify the UI workflows Skills:- Javascr…"
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Homesfy",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Frontend Developer",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1838936320?utm_medium=api&utm_source=7d10bb5b",
+                "longitude": 73.04845,
+                "salary_max": 1000000,
+                "id": 1838936320,
+                "latitude": 19.17335,
+                "salary_min": 0,
+                "created": "2020-11-23T02:52:30Z",
+                "salary_is_predicted": "0",
+                "description": "Skills: Expertise in Front-end development taking into account response times, and optimize rendering Extremely strong analytical skills Good Design Skills would be great Culture: Ability to work independently with minimal supervision Happy to deal with, and contribute to, an environment of daily builds Has worked in small teams, is versatile Desirable Social Attributes: Has contributed to one or more Open Source projects through own initiative Has provided a high quality answer to a question p…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Thane"
+                    ],
+                    "display_name": "Thane, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjE4Mzg5MzYzMjB9.LJXKYvbWhy3FIH3xVrYrLt4CcKbh1Aat6SYdhKRuvIo"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDkyNDF9.l--8iZl8TmMdXleU_bEI33Y5813x34ZS2Bsl0-lM_lk",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "description": "Deep knowledge of and passion for Agile/Scrum, and applying it in a smart and practical way. Expertise writing elegant, cross-browser HTML/CSS/JavaScript/jQuery/AngularJS with an attention to detail, scalability, performance, and maintainability Skills: Javascript, HTML/CSS, PHP, jQuery, AngularJS (1.x), Bootstrap and Wordpress",
+                "salary_is_predicted": "0",
+                "salary_min": 300000,
+                "created": "2019-06-05T21:12:24Z",
+                "latitude": 13.06041,
+                "id": 1171509241,
+                "salary_max": 600000,
+                "longitude": 80.24963,
+                "redirect_url": "https://www.adzuna.in/details/1171509241?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "title": "FrontEnd Developer",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "WonderWrks IT Services Pvt. Ltd.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "longitude": 75.9035,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/2258468480?utm_medium=api&utm_source=7d10bb5b",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Expertinaisa Pvt. Ltd.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "latitude": 22.66215,
+                "salary_max": 600000,
+                "id": "2258468480",
+                "salary_is_predicted": "0",
+                "salary_min": 200000,
+                "created": "2021-06-17T15:09:10Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiIyMjU4NDY4NDgwIn0.rAt9spMFDQVvicX6YmZ9ibEVfiDZ8KRNGkBzRjaZLjs",
+                "location": {
+                    "area": [
+                        "India",
+                        "Madhya Pradesh",
+                        "Indore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Indore, Madhya Pradesh"
+                },
+                "description": "Are you looking for an exciting, challenging, and fast paced work culture? Expertinasia Pvt. Ltd. software development company is seeking a skilled AngularJS Developer to join our Indore office. We are looking for someone who enjoys working with a hands-on approach and can make an immediate contribution to our organization. Requirements Responsibilities and Duties: • Develop user interfaces for internet applications with the latest front-end technologies. • Perform product analysis and developm…"
+            },
+            {
+                "salary_max": 500000,
+                "id": "2258466316",
+                "latitude": 19.00821,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Genie Bazaar"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/2258466316?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "longitude": 72.84415,
+                "description": "Duties and Responsibilities -Use a variety of programming languages in order to create user-friendly web pages -Maintain and improve company website -Work in multidisciplinary team with other professionals such as back-end developers and web designers -Build high-quality mockups and design different prototypes -Provide high-quality graphics and visual elements -Optimize our web applications for maximum speed -Design mobile-based features -Always stay consistent with our brand guidelines -Get fe…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjI1ODQ2NjMxNiIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.8FxgdL5OdLBx9zbp7mpMnyiQJADn3hWHtNvuxoghpNo",
+                "created": "2021-06-17T15:08:37Z",
+                "salary_min": 400000,
+                "salary_is_predicted": "0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDY4NTR9.DEXL6lvnOWLsAlQk0InGweNbo8-gFEcOztzON0LTTjw",
+                "description": "Job Description We are looking for a UI developer with a strong experience in Javascript, Html, and CSS who could join our team of extremely talented, motivated and hard working people. You would be responsible for architecture, design, and development of the UI application Responsibilities : 1. Create applications layout / user interface by using standard HTML5 / CSS practices. 2. Make those layout functional using Angular framework. 3. Build reusable code and libraries 4. Optimize application…",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Noida, Ghaziabad",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "salary_min": 400000,
+                "created": "2019-06-05T21:12:03Z",
+                "latitude": 28.56579,
+                "salary_max": 700000,
+                "id": 1171506854,
+                "redirect_url": "https://www.adzuna.in/details/1171506854?utm_medium=api&utm_source=7d10bb5b",
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "longitude": 77.3225,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Spaak Super Tec"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 300000,
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CakeZone"
+                },
+                "created": "2019-06-05T21:12:03Z",
+                "salary_is_predicted": "0",
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1171506872?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "salary_max": 800000,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "id": 1171506872,
+                "description": "We are an online cake delivery platform operating in Bangalore, Hyderabad, and Pune. We want to make celebrations easier and special days memorable. Bootstrapped in Bangalore (April 2016) and growing at a exponential pace since then. Expanded in 2 more cities already (Hyderabad & Pune) and going to reach a 9 figure when it comes to GMV. We work in a full stack model (own kitchen, own logistics setup) which gives us immense control of our business. We are driven by data and hyperactive when it c…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDY4NzJ9.gvpH6lSTOVxd8FB6b5xZnVwl3GjeoZdtD1kC2_-PHhg"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNTUwODk2Mzl9.QWMMwgPa9h6MjLtTT45YHji2Mc5_MZK8b97Z4JjrDSQ",
+                "description": "Diabeto is a system which consists of a hardware device that wirelessly transmits Blood Glucose readings from a Glucometer into a smartphone. These readings can then be easily analyzed with the help of a Smartphone application which are pushed to a cloud server and the patient can get feedback from a diabetologist in real time. Skills: Javascript, HTML/CSS, jQuery and AJAX",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "display_name": "Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "created": "2019-05-17T21:02:46Z",
+                "salary_min": 200000,
+                "latitude": 19.00821,
+                "salary_max": 400000,
+                "id": 1155089639,
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/1155089639?utm_medium=api&utm_source=7d10bb5b",
+                "longitude": 72.84415,
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Diabeto Medtech India pvt ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "created": "2019-06-05T21:12:02Z",
+                "salary_min": 200000,
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Ahmedabad, Gujarat",
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ]
+                },
+                "description": "We are looking for a full-time ReactJS developer with below skills and at least 1 year of relevant working experience. Skills: Must have: - ReactJS - Javascript (ES6/7) - HTML5 - CSS3 - Git Good to have: - React Native - MaterialUI - CSS animation - Electron Company Profile: A service-based software company located at Ahmedabad, Gujarat, providing best front-end development services to clients across the globe on a wide array of domains. Perks: - Flexible timings - Friendly work environment - L…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDY3NDl9.j_lQEJDIiD8fBoXjckebIDPKtxF8IpqyJ3vwT4WbvrY",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Upforce Tech",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 72.59465,
+                "redirect_url": "https://www.adzuna.in/details/1171506749?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Frontend Developer",
+                "salary_max": 600000,
+                "id": 1171506749,
+                "latitude": 23.042
+            },
+            {
+                "latitude": 13.06041,
+                "id": 1171506758,
+                "salary_max": 800000,
+                "longitude": 80.24963,
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1171506758?utm_medium=api&utm_source=7d10bb5b",
+                "company": {
+                    "display_name": "StuCred",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxMTcxNTA2NzU4LCJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyJ9.xp0LV4EvWA9ZU4jUPoOjDZFVq710lGd5BAa44aZrbhA",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "description": "We are looking for a motivated and talented MEAN Stack Developer to join our talented and fun dream team. Must have: Previous working experience as a Full-stack Developer for 4 years with a minimum one-year experience with MEAN Full stack paradigm. In depth knowledge of NodeJS, ExpressJS, AngularJS and MongoDB. Experience implementing applications using Angular 4. Experience creating front end applications using HTML5, Angular. Experience in coding back end applications using Node.js and MongoD…",
+                "salary_is_predicted": "0",
+                "salary_min": 400000,
+                "created": "2019-06-05T21:12:02Z"
+            },
+            {
+                "latitude": 13.06041,
+                "salary_max": 1500000,
+                "id": 1171506763,
+                "longitude": 80.24963,
+                "redirect_url": "https://www.adzuna.in/details/1171506763?utm_medium=api&utm_source=7d10bb5b",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "title": "Frontend Developer",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Antal International Network",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDY3NjN9.e8Kj_SCw9KLI1wz8ahyCzGxS72F0rMqZi8CdQJUKS4I",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "- Work closely with the Product, UX, and Analyst teams to deliver great customer experiences, taking them from idea to execution. - Work on the ZoomRx suite of iOS, Android & web apps targeted at healthcare professionals - Design and develop applications for mobile devices & tablets. - Constantly evaluate new technologies, frameworks, and methodologies - Re-engineer current systems to allow for flexibility, stability, and scalability while preserving existing functionality - Zeal to work on cut…",
+                "salary_is_predicted": "0",
+                "salary_min": 600000,
+                "created": "2019-06-05T21:12:02Z"
+            },
+            {
+                "salary_min": 500000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Indiqus",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "created": "2019-06-05T21:12:22Z",
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "title": "Frontend Developer",
+                "redirect_url": "https://www.adzuna.in/details/1171508989?utm_medium=api&utm_source=7d10bb5b",
+                "id": 1171508989,
+                "location": {
+                    "display_name": "Delhi, India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ]
+                },
+                "salary_max": 600000,
+                "description": "At Indiqus, we're busy building a digital platform to enable cloud service providers set up and manage their cloud infrastructure, business, as well as drive a 360-degree online customer engagement - that includes automating billing, infrastructure management, monitoring, as well as a marketplace for selling API-driven services through a single, cohesive interface. We’d like to hire a frontend engineer, who’ll be responsible for consolidating and maintaining our cloud operations dashboards, as …",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOjExNzE1MDg5ODl9.wMBg3aSLpKCr332tUSqnAqmRuFlXgqlW_YFwk-8LkMA"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Experience- 3 to 8 years Educational Qualification - IT Graduation or Post Graduation Location : Bangalore, Pune , Gandhinagar Working days - 5 days a week, weekends off Tech stacks: React.js,HTML/CSS,Javascript,React Nativ RESPONSIBILITIES Developing new user-facing features using React.js Building reusable components and front-end libraries for future use Translating designs and wireframes into high quality code Optimizing components for maximum performance across a vast array of web-capable …",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjQyNzQ5OTkwOCIsInMiOiJmR1ExY1VkcjhSRzlsSmRZcmI0QkNnIn0.OU5_8QErjHsgijIoN53_rgT5DmVHXzA_QZ7BbON5rYA",
+                "created": "2021-09-03T01:56:03Z",
+                "salary_min": 400000,
+                "salary_is_predicted": "0",
+                "salary_max": 1500000,
+                "id": "2427499908",
+                "latitude": 18.5062,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Etaash Consultants"
+                },
+                "longitude": 73.84735,
+                "title": "Frontend Developer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/2427499908?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_min": 0,
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Konnectbox",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_type": "permanent",
+                "created": "2021-06-15T12:32:09Z",
+                "redirect_url": "https://www.adzuna.in/details/2252577114?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "title": "Frontend Developer",
+                "salary_max": 1200000,
+                "id": "2252577114",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "description": "Ideally from IIT, NIT, IIIT ,top colleges or hackers with project demonstrating exceptional problem solving capability. Note : This job is for immediate joining. Please apply ONLY IF you can join immediately. Experience : - Junior role : 1 to 3 years/Senior : 5 to 7 Years Industry: FinTech / BFSI Functional Area: Core Platform Programming, Maintenance Role Category: Programming & Design Role: Software Developer Employment Type: Permanent Job, Full Time Overview: We are looking for a passionate,…",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiZkdRMWNVZHI4Ukc5bEpkWXJiNEJDZyIsImkiOiIyMjUyNTc3MTE0In0._Gnma0_7A2hegOLmRf6F8CHVutFt00nadC0Ukws9iP4"
+            }
+        ],
+        "mean": 1284262.54,
+        "count": 3290
+    },
+    "page": 5,
+    "role": "frontend_developer"
+}

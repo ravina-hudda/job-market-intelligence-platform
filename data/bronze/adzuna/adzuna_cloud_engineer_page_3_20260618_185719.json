@@ -1,0 +1,1504 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:57:19.915068",
+    "source": "adzuna",
+    "response": {
+        "results": [
+            {
+                "created": "2026-04-07T11:35:02Z",
+                "title": "\" GCP Cloud Engineer\"",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wissen Technology"
+                },
+                "salary_min": 1500000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Job Summary: We are looking for an experienced GCP Cloud Engineer to design, implement, and manage cloud-based solutions on Google Cloud Platform (GCP). The ideal candidate should have expertise in GKE (Google Kubernetes Engine), Cloud Run, Cloud Loadbalancer, Cloud function, Azure DevOps, and Terraform, with a strong focus on automation, security, and scalability. You will work closely with development, operations, and security teams to ensure robust cloud infrastructure and CI/CD pipelines wh…",
+                "salary_max": 3500000,
+                "id": "5691797741",
+                "redirect_url": "https://www.adzuna.in/details/5691797741?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NjkxNzk3NzQxIn0.fIHZ-fdYC245SFaz-qielfyW_XqxFLvOA43Tp-Wi6sw"
+            },
+            {
+                "id": "5363476853",
+                "redirect_url": "https://www.adzuna.in/details/5363476853?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM2MzQ3Njg1MyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.bcXBqYNUGwX11RABBGXlYpfin6j_9oVqfrBcB-WkdwQ",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Aubrant Digitial"
+                },
+                "contract_time": "full_time",
+                "description": "What qualifications make you an Aubrant Cloud Engineer You are able to participate and contribute to architectural decisions A strong communicator and facilitator, able to explain complex concepts Able to collaborate across multiple teams Mentoring and supporting of peers and junior developers Leading the way when there is ambiguity with requirements and priorities Key Responsibilities: Azure Cloud Migration: Lead and execute the migration of on-premises services to Microsoft Azure, ensuring mi…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "created": "2025-08-22T17:21:26Z",
+                "title": "Cloud Engineer (India)",
+                "salary_is_predicted": "0"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/4992020331?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDk5MjAyMDMzMSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.OYsQFp1NJwHhK5XIFQFQS1HQYlsqox5c2ykDxsNUo6M",
+                "latitude": 18.5062,
+                "salary_max": 1000000,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 73.84735,
+                "id": "4992020331",
+                "salary_min": 800000,
+                "description": "Backend Cloud Engineer @ CricStox CricStox is a Pune startup building a trading solution in the realm of gametech x fintech. We intend to build a sport-agnostic platform to allow trading in stocks of sportspersons under any sport through our mobile &amp; web-based applications. We’re currently hiring a Backend Cloud Engineer who will gather, refine specifications and requirements based on technical needs and implement the same by using best software development practices. Responsibilities? ● Ma…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CricStox Private Limited"
+                },
+                "title": "Backend Cloud Engineer",
+                "created": "2024-12-30T12:10:26Z"
+            },
+            {
+                "company": {
+                    "display_name": "Wissen Technology",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "description": "We are looking for an experienced GCP Cloud Engineer to design, implement, and manage cloud-based solutions on Google Cloud Platform (GCP). The ideal candidate should have expertise in GKE (Google Kubernetes Engine), Cloud Run, Cloud Loadbalancer, Cloud function, Azure DevOps, and Terraform, with a strong focus on automation, security, and scalability. You will work closely with development, operations, and security teams to ensure robust cloud infrastructure and CI/CD pipelines while optimizin…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "latitude": 18.5062,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1MjY2NTE2NjI4In0.Xl2Qw1zy8ZSfWgl-bjN4jX6c57AxAIgWhF6oVB5XF14",
+                "redirect_url": "https://www.adzuna.in/details/5266516628?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5266516628",
+                "created": "2025-06-25T07:05:47Z",
+                "longitude": 73.84735,
+                "title": "GCP cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                }
+            },
+            {
+                "description": "Role: Cloud Solution Architect / Azure cloud Engineer Exp: 3 - 6 years of experience in cloud principles, migration and methodologies Location: Chennai Looking for candidates with lesser notice period. Cloud Solutions Architect will focus on migrating on-premise applications to the public cloud at the scale and speed required to enable our digital transformation. Strategic role in migrating and deploying all cloud systems including the front-end platforms, servers, storage, and management netwo…",
+                "salary_min": 300000,
+                "company": {
+                    "display_name": "People First Consultants",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4590721856",
+                "title": "Azure Cloud Engineer",
+                "created": "2024-03-03T15:33:15Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/4590721856?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI0NTkwNzIxODU2In0.PT9Bljft609I4XqQEw1lF95edv9hR6IvTVL-9gp4xmg",
+                "salary_max": 1000000,
+                "latitude": 13.06041,
+                "salary_is_predicted": "0",
+                "longitude": 80.24963,
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 73.84735,
+                "redirect_url": "https://www.adzuna.in/details/1974347027?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTc0MzQ3MDI3LCJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyJ9.inTnQq73uKZszGPV4NkteiVzawPv3GUUIJpsd-DbAZY",
+                "salary_max": 3000000,
+                "contract_type": "permanent",
+                "latitude": 18.5062,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "contract_time": "full_time",
+                "title": "Senior Cloud Engineer",
+                "created": "2021-02-06T03:56:41Z",
+                "id": 1974347027,
+                "description": "If you are looking for good opportunity in Cloud Development/Devops. Here is the right opportunity. EXP: 4-10 YRs Location:Pune Job Type: Permanent Minimum qualifications: Education: Bachelor-Master degree Proficient in English language. Relevant experience: Should have been working for at least four years as a DevOps/Cloud Engineer Should have worked on AWS Cloud Environment in depth Should have been working in an Infrastructure as code environment or understands it very clearly. Has done Infr…",
+                "salary_min": 750000,
+                "company": {
+                    "display_name": "Talent21 Management and Shared Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "title": "Google Cloud Engineer",
+                "created": "2025-06-21T05:27:27Z",
+                "salary_min": 400000,
+                "description": "Strong proficiency in at least one major cloud platform - Azure, GCP(Primary) or AWS. Azure  GCP (Secondary) preferred. Having proficiency in all 3 is a significant plus. · Design, develop, and maintain cloud-based applications and infrastructure across various cloud platforms. · Select and configure appropriate cloud services based on specific project requirements and constraints. · Implement infrastructure automation with tools like Terraform and Ansible. · Write clean, efficient, and well-do…",
+                "company": {
+                    "display_name": "VyTCDC",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5260792645",
+                "salary_is_predicted": "0",
+                "longitude": 78.50806,
+                "location": {
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/5260792645?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1MjYwNzkyNjQ1In0.4w1AMCmqXu7rVo0WP0wnTEu2BZYdT6Rib5MowVO1YN8",
+                "latitude": 17.40275,
+                "salary_max": 2500000
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "Aws Cloud Engineer",
+                "longitude": 73.84735,
+                "created": "2026-05-12T05:45:41Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Job Description Roles and Responsibilities Design, deploy, and manage scalable and highly available cloud infrastructure on AWS using EC2, S3, VPC, IAM, RDS, CloudFormation, Terraform, and CloudWatch. Collaborate with cross-functional teams to identify business requirements and design solutions that meet those needs. Develop automation scripts using Python or other languages to streamline deployment processes. Troubleshoot complex issues related to cloud infrastructure and provide timely resolu…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Infogain"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/5726293504?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzI2MjkzNTA0In0.TLNtjo1gpBpalDRWcjppORVyqYoGPIHqmrEMiuuEkkE",
+                "id": "5726293504",
+                "latitude": 18.5062
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CONTUS TECH"
+                },
+                "description": "Required Skills: Experience working on Linux based infrastructure Introduce and oversee software development automation across cloud providers like AWS and Azure Configuration Management experience such as Jenkins, Ansible, Argo-CD or similar. Working on ways to automate and improve development and release processes. Working on ways to automate and improve development and release processes. Excellent troubleshooting, working with software developers and software engineers to ensure that develop…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5759289179?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5759289179",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTI4OTE3OSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.jjFxgD3IGbyYWO8rsBZPY6KphPabwCexo6XAUuY3Hgc",
+                "created": "2026-06-11T06:55:01Z",
+                "longitude": 80.24963,
+                "salary_is_predicted": "0",
+                "title": "Senior Cloud Engineer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                }
+            },
+            {
+                "title": "GCP Cloud Engineer",
+                "salary_is_predicted": "0",
+                "longitude": 73.84735,
+                "created": "2025-09-02T07:56:40Z",
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Job Description We are looking for an experienced GCP Cloud Engineer to design, implement, and manage cloud-based solutions on Google Cloud Platform (GCP). The ideal candidate should have expertise in GKE (Google Kubernetes Engine), Cloud Run, Cloud Loadbalancer, Cloud function, Azure DevOps, and Terraform, with a strong focus on automation, security, and scalability. Work location: Pune/Mumbai/Bangalore Experience: 4-7 Years Joining: Mid of October You will work closely with development, opera…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wissen Technology"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/5379021875?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5379021875",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1Mzc5MDIxODc1In0.eHK2ZH728qapv1HR3e9Q6Uk5WvjYOrgn09q86VoFsI4",
+                "latitude": 18.5062
+            },
+            {
+                "created": "2026-04-11T02:10:27Z",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Guidewire"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Summary As a Senior Cloud Engineer on Guidewire’s Business Technology (BizTech) team, you will design, build, and operate secure, production-grade cloud infrastructure across AWS and GCP to support our internal platforms and employees globally. You’ll own Infrastructure as Code, DevOps/SecOps tooling, and cloud reliability at scale, while driving cost optimization and embedding security into everything we ship. You will play a key role in BizTech’s mission to power Guidewire’s growth to $2B in …",
+                "redirect_url": "https://www.adzuna.in/details/5696029959?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1Njk2MDI5OTU5In0.Cnzc3h6w54V7j9TpvPCuAmieG6bxnry9jC2gHrGCxeo",
+                "id": "5696029959"
+            },
+            {
+                "description": "Qualifications and Skills Proven experience of at least 7 years in cloud engineering, with a focus on AWS technologies. Strong understanding of AWS, including its services and tools such as Identity And Access Management (IAM) (Mandatory skill). Skilled in designing and operating REST APIs, ensuring that they meet business and technical needs. Proficiency in at least one programming language such as Java, enabling efficient development and scripting. Experience with Python for automation, scrip…",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "display_name": "Chiselon Technologies Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwMTkzNjM4NyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.zm8Yu9zgqOB2IH0ma1EMNzlsJWr1CTVkuwbytnZm2Bk",
+                "redirect_url": "https://www.adzuna.in/details/5701936387?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5701936387",
+                "title": "AWS Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-04-17T05:33:19Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/4809609937?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgwOTYwOTkzNyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.0r0Ik0nLXTgOm7fNfol9zboBa_FaMvsW7JEVsynrCys",
+                "id": "4809609937",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "The Cloud Engineer will design and develop the capabilities of the company cloud platform and the automation of application deployment pipelines to the cloud platform. In this role, you will be an essential partner and technical specialist for cloud platform development and Operations. Key Accountabilities Participate in a dynamic development environment to engineer evolving customer solutions on Azure. Support SAP Application teams for their requirements related to Application and release mana…",
+                "company": {
+                    "display_name": "Cargill Business Services",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2024-08-04T10:54:23Z"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Overview of 66degrees 66degrees is an end-to-end AI transformation partner that guides enterprises from complex business challenges to clear, quantifiable outcomes. Our company is the culmination of several successful firms, each a leader in its own right in cloud, artificial intelligence, and data. This convergence of talent and expertise is how we help businesses reach their own \"inflection point,\" where chaotic data becomes a strategic asset, complexity becomes clarity, and AI becomes an eng…",
+                "company": {
+                    "display_name": "66degrees",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5729536325",
+                "redirect_url": "https://www.adzuna.in/details/5729536325?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzI5NTM2MzI1In0.CJMIJHEnUUnhvjJ4GJEW9I2yCde-14OvyLRxaBnfko0",
+                "title": "Azure Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-05-15T01:58:32Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "AWS Cloud Engineer",
+                "created": "2026-04-29T05:42:39Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Job Description AWS Cloud Engineer Experience: 3- 6 Years Location: Noida/Pune/Mumbai/Bangalore/Kochi(Hybrid) Notice Period: 0-15 Days Job Description:- Key Responsibilities Develop and maintain AWS IaC and CaC : Terraform / CloudFormation modules Fix scale and reliability issues Implement AWS automation for: Account and environment provisioning UOPs, IDR, and observability onboarding Execute AWS FinOps operations : Budget setup and monitoring Cost anomaly investigation Resource-level cost opti…",
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Infogain",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzA4NDE2NyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.DVcyvZ4Fdq-QmNktkX8HRrZ2S0IgygC7T3TjqX3g8Cg",
+                "redirect_url": "https://www.adzuna.in/details/5713084167?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5713084167"
+            },
+            {
+                "company": {
+                    "display_name": "Takeda",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "By clicking the “Apply” button, I understand that my employment application process with Takeda will commence and that the information I provide in my application will be processed in line with Takeda’s Privacy Notice and Terms of Use . I further attest that all information I submit in my employment application is true to the best of my knowledge. Job Description The Future Begins Here At Takeda, we are leading digital evolution and global transformation. By building innovative solutions and fu…",
+                "contract_type": "contract",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczOTA4NzY1MCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.hm5sp8gCZj5HM6ev_L1Lue9zKCtQWvFF9W1925mDWNc",
+                "redirect_url": "https://www.adzuna.in/details/5739087650?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5739087650",
+                "created": "2026-05-24T02:12:53Z",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Amravati"
+                    ],
+                    "display_name": "Amravati, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "longitude": 78.004,
+                "redirect_url": "https://www.adzuna.in/details/3379797479?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIzMzc5Nzk3NDc5In0.cKe7BUO8ppBxFA49sTGTNWyFO51JmT8hDsYUvo_gsVc",
+                "latitude": 21.3993,
+                "salary_max": 1000000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "contract_time": "full_time",
+                "title": "Kubernetes and Cloud Engineer",
+                "created": "2022-08-06T06:35:35Z",
+                "id": "3379797479",
+                "salary_min": 600000,
+                "description": "Job Title: Kubernetes and Cloud Engineer Location: Amravati, Maharashtra 444605 , INDIA We are looking for a Kubernetes Cloud Engineer with experience in deployment and administration of Hyperledger Fabric blockchain applications. While you will work on Truscholar blockchain based platform (both Hyperledger Fabric and INDY versions), if you combine rich Kubernetes experience with strong DevOps skills, we will still be keen on talking to you. Responsibilities ● Deploy Hyperledger Fabric (BEVEL S…",
+                "company": {
+                    "display_name": "TruScholar",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "created": "2025-10-10T14:55:33Z",
+                "title": "Cloud Engineer - BLR",
+                "salary_is_predicted": "0",
+                "id": "5440766893",
+                "redirect_url": "https://www.adzuna.in/details/5440766893?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NDQwNzY2ODkzIn0.4tPnbWi4Yc5UJmEYmhmjel8xj-XdvZ0Aq4e1rfnj_xM",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Photon Group"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Description Location: Bangalore Experience: 3 - 5 Years The Value You Deliver A technology focused software development space with a focus driven attitude towards developing and supporting of critical systems. Foster teamwork and a spirit of collaboration among team members and business partners while conveying a sense of urgency and responsiveness to meet business needs. You will develop an understanding of the business domain to participate in discussions and provide guidance to development t…"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Kerala",
+                        "Ernakulam",
+                        "Kochi"
+                    ],
+                    "display_name": "Kochi, Ernakulam",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "longitude": 76.24637,
+                "salary_is_predicted": "0",
+                "latitude": 9.98011,
+                "salary_max": 700000,
+                "redirect_url": "https://www.adzuna.in/details/5736159371?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzM2MTU5MzcxIn0.ibyrDdnYcY0lDRs0fb1W22D0XqQFI_iPgZe4vaBbH80",
+                "contract_time": "full_time",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "created": "2026-05-21T12:49:17Z",
+                "title": "Azure Cloud Engineer",
+                "id": "5736159371",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Thomasmount Consulting"
+                },
+                "salary_min": 500000,
+                "description": "Job Summary We are seeking a motivated and detail-oriented Junior Azure Cloud Engineer with 2–3 years of experience in Microsoft cloud technologies. The ideal candidate will have hands-on experience in Microsoft Azure infrastructure services and Microsoft 365 administration. This role involves supporting cloud environments, managing identity and security, and assisting in cloud-based deployments and operations. Key Responsibilities Manage and support Azure Entra ID (Azure Active Directory) incl…"
+            },
+            {
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "GCP Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-06-04T02:17:01Z",
+                "redirect_url": "https://www.adzuna.in/details/5750958850?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5750958850",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDk1ODg1MCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0._tiLYfByV5vcvgWymEWe0PkcIlwldZbBQ_Op1zJw3N8",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Experience: 5 years of professional experience in software development. Must Have: GCP ,Terraform,Harness,GitHub,Scripting,Cloud Database,Cloud Security Key Responsibilities: Setup and manage GCP resources (VMs, buckets, VPCs, IAM)Automate provisioning using Terraform or Deployment ManagerManage cloud monitoring, alerting, and logging (Stackdriver)Implement GCP backup, patching, and lifecycle managementReview and optimize billing and cost usageConfiguring monitoring and alerting through terrafo…",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Virtusa"
+                }
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Kobie Marketing"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Join our India Tech Hub – Be among the first hires! Kobie, a 35-year veteran of the loyalty industry, a multi-year Forrester Leader, and USA Top Workplace is expanding its global footprint by establishing a Tech Hub in India. Kobie partners with global brands to build deep connections with their customers through personalized, data-driven loyalty experiences and has a mission of growing enterprise value through loyalty. The Tech Hub will serve as a Global Capabilities Center for a broad range o…",
+                "redirect_url": "https://www.adzuna.in/details/5594461604?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5594461604",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU5NDQ2MTYwNCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.-M9Wwv8X79UPN4URwRE4R6Bw2coaTcIwj2lCSVlhAKM",
+                "created": "2026-01-22T00:54:17Z",
+                "title": "Lead Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                }
+            },
+            {
+                "created": "2026-06-12T02:22:32Z",
+                "title": "Azure Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Itineris",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Description Itineris , with HQ in Belgium, is a global technology company purely focused on software and services for the energy and water industry . Itineris is the developer of UMAX , a customer information system (CIS) and ERP solution fully integrated with and leveraging the power of Microsoft’s Dynamics 365 platform . Founded in 2003 and Microsoft Dynamics Global ISV , Itineris has a sound financial base and has established an impressive track record of successful implementations . Our cli…",
+                "id": "5760333191",
+                "redirect_url": "https://www.adzuna.in/details/5760333191?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MDMzMzE5MSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.mmUmq60ijPXcqgZ3o78RDP3Mzb_8uRV_1euFecRkcww"
+            },
+            {
+                "description": "We are seeking a skilled Azure Cloud Engineer to manage and optimize cloud infrastructure. The ideal candidate will have a strong understanding of Azure services and a passion for automation and optimization. You will be responsible for designing, deploying, and managing Azure resources, troubleshooting issues, and implementing cost-effective solutions. Experience: 3-5 years Needed Key Responsibilities: Design and deploy Azure infrastructure using Infrastructure as Code (IaC) principles with to…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "ParamInfo"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5759287616?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5759287616",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzU5Mjg3NjE2In0.uMwlW-UIZbXVTChUlAOyXbnYbeH7lhoipFs31Oi9I8Y",
+                "title": "Azure Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-06-11T06:53:31Z",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/5759287620?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTI4NzYyMCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.IYexSCfqUThwOpCDRaiz9cgQvarrnlyd8TfN4GNAPHg",
+                "id": "5759287620",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "ParamInfo"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "We are seeking a skilled Azure Cloud Engineer to manage and optimize cloud infrastructure. The ideal candidate will have a strong understanding of Azure services and a passion for automation and optimization. You will be responsible for designing, deploying, and managing Azure resources, troubleshooting issues, and implementing cost-effective solutions. Experience: 3-5 years Needed Key Responsibilities: Design and deploy Azure infrastructure using Infrastructure as Code (IaC) principles with to…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                },
+                "created": "2026-06-11T06:53:31Z",
+                "longitude": 73.84735,
+                "title": "Azure Cloud Engineer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "Devops Cloud Engineer",
+                "longitude": 80.24963,
+                "created": "2026-06-11T06:55:03Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "description": "Required Skills: 5 years of experience with AWS, Azure and Google cloud 5 years of experience with cloud-based provisioning, monitoring, troubleshooting, and related DevOps technologies 5 years of experience with build technologies and tools like Packer, Rake, Ant, Gradle, or Jenkins 5 years of experience with containerization/orchestration technologies tools like Kubernetes, Docker, Rancher, Mesos, and Swarm Experience with config/provisioning tools like Ansible, Chef, Puppet, Terraform, or Sa…",
+                "company": {
+                    "display_name": "CONTUS TECH",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5759289197?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5759289197",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1OTI4OTE5NyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.bjq3vjT2qHX2J0nw3z-JxixLtmQVgXa7HGurElRlA14",
+                "latitude": 13.06041
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "Aws Cloud Engineer",
+                "created": "2026-04-30T06:43:41Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Description: Title: AWS Cloud Engineer Bangalore/Hyderabad/Pune/Chennai/Noida/Gurugram/Delhi Work Mode: Hybrid based on HR rule (currently 1 day per month) Shift Timings 24 x 7 -Work in shifts on rotational basis Total Experience in Years- 8 yrs, 5 yrs of relevant exp is required. Must have- AWS platform, Terraform, Redshift / Snowflake, Python / Shell Scripting Experience and Skills Requirements: 8 years of experience in a technical role working with AWS Mandatory Technical troubleshooting and…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Vdart Inc"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzE0MDUyNDEyIn0.Z8bmoDInsy3ufBWknyEXMX-t0Igw3iylYxwppkGL5xY",
+                "redirect_url": "https://www.adzuna.in/details/5714052412?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5714052412"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5586605500?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NTg2NjA1NTAwIn0.z8KZgEjeThPWrnRBqIKwTDyAfVdE8GQqH7KiM3t4gQg",
+                "id": "5586605500",
+                "latitude": 17.40275,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Beghou brings over three decades of experience helping life sciences companies optimize their commercialization through strategic insight, advanced analytics, and technology. From developing go-to-market strategies and building foundational data analytics infrastructures to leveraging artificial intelligence to improve customer insights and engagement, Beghou helps life sciences companies maximize performance across their portfolios. Beghou also deploys proprietary and third-party technology so…",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Beghou Consulting"
+                },
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-01-16T00:49:21Z",
+                "longitude": 78.50806
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5740003673?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzQwMDAzNjczIn0.bfacjuGP2-lBsfw0bWmhoPOEOi1zunnTM1kZS14GbEk",
+                "id": "5740003673",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Thank you for your interest in joining Solventum. Solventum is a new healthcare company with a long legacy of solving big challenges that improve lives and help healthcare professionals perform at their best. At Solventum, people are at the heart of every innovation we pursue. Guided by empathy, insight, and clinical intelligence, we collaborate with the best minds in healthcare to address our customers’ toughest challenges. While we continue updating the Solventum Careers Page and applicant ma…",
+                "company": {
+                    "display_name": "Solventum",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-05-25T02:13:30Z"
+            },
+            {
+                "latitude": 18.5062,
+                "salary_max": 3500000,
+                "redirect_url": "https://www.adzuna.in/details/2130673713?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoyMTMwNjczNzEzLCJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyJ9.qH4wWuvIoNMpKSQ6xWZQeOFTTWvEGtLMdPaubtkHwCE",
+                "contract_time": "full_time",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ]
+                },
+                "longitude": 73.84735,
+                "salary_is_predicted": "0",
+                "id": 2130673713,
+                "company": {
+                    "display_name": "Espressif Systems India Pvt Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 600000,
+                "description": "About Company Espressif Systems (688018) is a public multinational, fabless semiconductor company established in 2008, with headquarters in Shanghai and offices in Greater China, India, and Europe. We have a passionate team of engineers and scientists from all over the world, focused on developing cutting-edge WiFi-and-Bluetooth, low-power IoT solutions. We have created the popular ESP8266 and ESP32 series of chips, modules, and development boards. By leveraging wireless computing, we provide g…",
+                "created": "2021-04-21T10:28:34Z",
+                "title": "Senior Cloud Engineer"
+            },
+            {
+                "company": {
+                    "display_name": "IDX",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Why Join IDX? Not Just Any Brands: See your work come to life for iconic brands like Vodafone, Rolls Royce and Diageo. Collaborative Spirit: Work alongside passionate innovators who share your thirst for progress. Continuous Learning: Grow your skills with ongoing training, mentorship, and the freedom to experiment. Fast Paced & Fun: Thrive in a dynamic environment where big ideas and bold action collide. Cutting-Edge Technology: Play with the latest analytics tools, use AR to build immersive d…",
+                "latitude": 22.2891,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY0NjUyODk1NyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.cyQfzFTsQzetg06n4Ew2aRk72ffRepm0dWbXZFNPUV4",
+                "redirect_url": "https://www.adzuna.in/details/5646528957?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5646528957",
+                "created": "2026-02-27T01:45:43Z",
+                "longitude": 73.17535,
+                "title": "Associate Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Vadodara",
+                        "Sevasi"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Sevasi, Vadodara"
+                }
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Why Join IDX? Not Just Any Brands: See your work come to life for iconic brands like Vodafone, Rolls Royce and Diageo. Collaborative Spirit: Work alongside passionate innovators who share your thirst for progress. Continuous Learning: Grow your skills with ongoing training, mentorship, and the freedom to experiment. Fast Paced & Fun: Thrive in a dynamic environment where big ideas and bold action collide. Cutting-Edge Technology: Play with the latest analytics tools, use AR to build immersive d…",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "IDX"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5758256679?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1ODI1NjY3OSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.Q_SGZEDEzk2XZCF6S688t4YvSOmMarDL8OM-TDeJGk4",
+                "id": "5758256679",
+                "latitude": 22.2891,
+                "title": "Associate Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-06-10T14:24:31Z",
+                "longitude": 73.1924,
+                "location": {
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Vadodara"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Vadodara, Gujarat"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "description": "Job description . Our most valuable asset is our people . At ZS we honor the visible and invisible elements of our identities, personal experiences and belief systems the ones that comprise us as individuals, shape who we are and make us unique. We believe your personal interests, identities, and desire to learn are part of your success here. Learn more about our diversity, equity, and inclusion efforts and the networks ZS supports to assist our ZSers in cultivating community spaces, obtaining …",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Z5"
+                },
+                "id": "5741769169",
+                "redirect_url": "https://www.adzuna.in/details/5741769169?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzQxNzY5MTY5In0.EQSPsZ1Sv8uka6DhfmcWVfl3KPYdBkrd7jTlqMuac5c",
+                "latitude": 18.5062,
+                "title": "Cloud Engineering Lead",
+                "salary_is_predicted": "0",
+                "created": "2026-05-27T06:46:36Z",
+                "longitude": 73.84735,
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "description": "Job Details Job Location: Noida, Candor Tech Space, Sector- 135 Timing: 2.00 PM to 11.00 PM The Role: Senior Cloud Engineer Quick Take - We're looking for a senior infrastructure engineer who can own our Windows-based core services — Exchange, Active Directory, DNS, and DHCP — while contributing to our growing Kubernetes and KubeVirt footprint. This is a hybrid role: the majority of your time will be spent keeping mission-critical Windows infrastructure healthy, secure, and well-architected, wi…",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "display_name": "apexanalytix",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "id": "5586411906",
+                "redirect_url": "https://www.adzuna.in/details/5586411906?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTU4NjQxMTkwNiIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.gDjnDujBUVi71YKSb0Ou2e5OS3hk4VJnLE3x7LmnKW4",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-01-16T00:28:15Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "id": "5713136741",
+                "redirect_url": "https://www.adzuna.in/details/5713136741?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzEzMTM2NzQxIn0.G5YwsENV85DL7Sii74OyxXHZLpwfIa-U1w7SvxfLf6E",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "3 years of experience in cloud operations, SRE, or a related role. Proficiency in cloud platforms Azure. Desired Characteristics: Certification in cloud platform Professional DevOps Engineer, Azure DevOps Engineer Expert). Experience with containerization and orchestration tools (e.g., Docker, Kubernetes). Knowledge of infrastructure monitoring and logging tools (e.g., Prometheus, Grafana, ELK stack). Strong scripting and programming skills (e.g., Python, Bash, Go). Familiarity with CI/CD pipel…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Citiustech Healthcare Technology Private Limited"
+                },
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Azure Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-04-29T06:44:48Z"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MTA1MjY0NSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.Rw5VQ4l301C0T-7vhJpjgeDgQY27PylD7WJmKSXf-0M",
+                "redirect_url": "https://www.adzuna.in/details/5751052645?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5751052645",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Cloud Engineering Manager This role has been designed as ‘’Onsite’ with an expectation that you will primarily work from an HPE office. Who We Are: Hewlett Packard Enterprise is the global edge-to-cloud company advancing the way people live and work. We help companies connect, protect, analyze, and act on their data and applications wherever they live, from edge to cloud, so they can turn insights into outcomes at the speed required to thrive in today’s complex world. Our culture thrives on fin…",
+                "company": {
+                    "display_name": "Hewlett Packard Enterprise",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Cloud Engineering Manager",
+                "salary_is_predicted": "0",
+                "created": "2026-06-04T02:27:13Z"
+            },
+            {
+                "location": {
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Ahmedabad, Gujarat"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "longitude": 72.59465,
+                "created": "2026-05-22T02:01:06Z",
+                "redirect_url": "https://www.adzuna.in/details/5736723811?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNjcyMzgxMSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.vM3l3fBefgh1nZDJZzOSh5HDzagr2cZhlq2SWY8u1yg",
+                "id": "5736723811",
+                "latitude": 23.042,
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Take your career to new heights with Loopio! ✨ We are seeking an experienced Senior Cloud Engineer to design, build, and support all aspects of our platform infrastructure. You will be joining the team of talented Engineers and Architects on the mission to support and enable our software development and machine learning/data teams to deliver cutting-edge features to our customers with high speed and confidence in an automated and repeatable process. Our infrastructure is in constant evolution, …",
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Loopio"
+                }
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "salary_is_predicted": "0",
+                "title": "Cloud Engineer-3",
+                "created": "2025-11-20T22:21:29Z",
+                "longitude": 78.50806,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTMwOTQ1MiIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.0BSTQ6gnQezjpqADBPEHdtmBGj676AJ05HX8Hbau2ig",
+                "redirect_url": "https://www.adzuna.in/details/5505309452?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5505309452",
+                "latitude": 17.40275,
+                "description": "At CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW. Accountabilities: AWS Case Positive Resolution Customer…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CDW"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "salary_is_predicted": "0",
+                "title": "Cloud Engineer-1",
+                "longitude": 77.59837,
+                "created": "2025-11-20T23:02:06Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "At CDW, we make it happen, together. Trust, connection, and commitment are at the heart of how we work together to deliver for our customers. It’s why we’re coworkers, not just employees. Coworkers who genuinely believe in supporting our customers and one another. We collectively forge our path forward with a level of commitment that speaks to who we are and where we’re headed. We’re proud to share our story and Make Amazing Happen at CDW. Accountabilities: AWS Case Positive Resolution Customer…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "display_name": "CDW",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "contract_time": "full_time",
+                "redirect_url": "https://www.adzuna.in/details/5505606551?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUwNTYwNjU1MSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.LX9yZ24XqIWDvPcqsbK8QO0qdLtvqarXwY4mZCR7lLA",
+                "id": "5505606551",
+                "latitude": 12.95703
+            },
+            {
+                "contract_time": "full_time",
+                "company": {
+                    "display_name": "Quicken Inc",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_min": 2800000,
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Since 1988 Quicken has been the top personal management software for millions of consumers. We pioneered a radically easier and faster way for people to manage their household finances. Since then we’ve continued to focus on delighting customers and making the Quicken product and experience better than ever. Job Title: Lead Software Engineer-Quicken Cloud Services Department: Product Development Job Summary: Quicken is the 1 personal finance management software with a 30-year heritage of helpin…",
+                "salary_max": 3500000,
+                "id": "3914013864",
+                "redirect_url": "https://www.adzuna.in/details/3914013864?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIzOTE0MDEzODY0In0.gYvtaNXhhOaujhnEgfz4igE3Fr1svgkrTxHpON8Qpag",
+                "created": "2023-02-09T06:29:36Z",
+                "salary_is_predicted": "0",
+                "title": "Lead Cloud Engineer",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka"
+                }
+            },
+            {
+                "created": "2026-05-15T10:00:13Z",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Ferguson"
+                },
+                "description": "About Ferguson: Since 1953, Ferguson has been a source of quality supplies for a variety of industries. Together We Build Better infrastructure, better homes, and better businesses. We exist to make our customers complex projects simple, successful, and sustainable. We proactively solve problems, adapt and grow to continuously serve our customers, communities, and each other. Ferguson is proud to provide best in class products, service, and capabilities across the following industries: Commerci…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5730051723?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzMwMDUxNzIzIn0.flw-hbXgI5oFIli_89EekDPKT3WZGQ3l2yQKTtieAW4",
+                "id": "5730051723"
+            },
+            {
+                "id": "3017038563",
+                "company": {
+                    "display_name": "Delhi Academy of Medical Science P Ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "- Ensure reliability and efficiency of both large-scale cloud systems and business-operations - Build and manage systems, infrastructure and applications through automation - Develop and maintain CI/CD pipeline - Build/Maintain alerting and monitoring service - Automate all manual operations work - Strong experience of AWS ecosystem - Good working experience in python - Experience in CI/CD tools like Jenkins - Experience with Infrastructure automation tools like salt stack or chef is a plus - M…",
+                "salary_min": 420000,
+                "created": "2022-04-02T05:15:01Z",
+                "title": "AWS Cloud Engineer",
+                "salary_max": 850000,
+                "latitude": 28.56579,
+                "redirect_url": "https://www.adzuna.in/details/3017038563?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiIzMDE3MDM4NTYzIn0.44zcLcvwnZzIr8TINcKgrZrDfoO7_UEITuGKSGas1_c",
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Noida, Ghaziabad",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ]
+                },
+                "longitude": 77.3225,
+                "salary_is_predicted": "0"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Priceline"
+                },
+                "contract_time": "full_time",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "This role is eligible for our hybrid work model: Two days in-office. Our Technology team is the backbone of our company: constantly creating, testing, learning, and iterating to better meet the needs of our customers. If you thrive in a fast-paced, ideas-led environment, you’re in the right place. Why this job’s a big deal: The Priceline Cloud Development Team is responsible for running the company’s current cloud infrastructure. It works closely with members from product, engineering, support,…",
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/details/5699261411?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5699261411",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY5OTI2MTQxMSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.vY73OE2HhT-RXL_VztJ2eoqxYYcXksYz-Ya2kMVkv2c",
+                "created": "2026-04-15T02:01:59Z",
+                "longitude": 72.84415,
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ]
+                }
+            },
+            {
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "Job Description We are seeking a highly skilled and motivated Senior Site Reliability Engineer(SRE)- Disaster Recovery Specialist. The ideal candidate will be responsible for designing, implementing, and maintaining systems and processes that ensure the reliability, scalability, and disaster resilience of our infrastructure and applications. This role requires a good understanding of both SRE/DevOps practices and Disaster Recovery strategies. • Responsible for managing all activities related to…",
+                "company": {
+                    "display_name": "ITC Infotech India Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5713137156",
+                "redirect_url": "https://www.adzuna.in/details/5713137156?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzEzMTM3MTU2In0.HTdhSV-YBfIfHnLPoFkoUUMCdPVGghbm7QLSeTvUsIE",
+                "title": "Sr. Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-04-29T06:45:15Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "title": "Sr. Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-04-29T06:45:15Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "description": "AWS devops:- Job Description Key Roles & Responsibilities: Overall 4 years of experience in AWS. Should be able to design landing Zones, infrastructure set-up and automation. Must be well versed with automation on cloud (both infrastructure and application deployments). Must have an experience in hosting containerized workload in AWS EKS, Argo CD Must be able to understand the networking and communication on AWS platform. Should have a clear understanding of cloud security. Must have a good und…",
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "company": {
+                    "display_name": "ITC Infotech India Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5713137154",
+                "redirect_url": "https://www.adzuna.in/details/5713137154?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzEzMTM3MTU0In0.NLnoDKL_GwI5yx5f8IcEFf92qoq-UIyFlZtzBlqvIb4"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDA5OTAyNCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.QtPDNp4JHkQ245VloU4Vkme3l0GbvQW9KC9ukaVI3o4",
+                "redirect_url": "https://www.adzuna.in/details/5714099024?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5714099024",
+                "latitude": 28.56579,
+                "description": "Cadence is a pivotal leader in electronic design, building upon more than 30 years of computational software expertise. The company applies its underlying Intelligent System Design strategy to deliver software, hardware and IP that turn design concepts into reality. Cadence customers are the world s most innovative companies, delivering extraordinary electronic products from chips to boards to systems for the most dynamic market applications including consumer, hyperscale computing, 5G communic…",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Cadence Design Systems"
+                },
+                "location": {
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Noida, Ghaziabad"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "Principal Cloud Engineer",
+                "salary_is_predicted": "0",
+                "created": "2026-04-30T06:55:59Z",
+                "longitude": 77.3225
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5713213955?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzIxMzk1NSIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.ScQdzb95cpSWozALL6vAe9Efi_XXGw2CSaLxxTyYr3E",
+                "id": "5713213955",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Cradlepoint"
+                },
+                "category": {
+                    "label": "IT Jobs",
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "description": "What you will do: Design, deploy, and manage scalable and secure network architectures with a focus on SDN technologies. Collaborate with IT and business teams to understand network requirements and develop solutions that align with organizational goals. Implement and maintain network monitoring and management tools to ensure optimal performance and reliability. Troubleshoot and resolve network-related issues, ensuring minimal downtime and impact on business operations. Stay up-to-date with ind…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "created": "2026-04-29T07:21:39Z",
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "description": "Job description Working at WPP means being part of a global network of more than 100,000 talented people dedicated to doing extraordinary work for our clients. We operate in over 100 countries, with corporate headquarters in New York, London and Singapore. WPP is a world leader in marketing services, with deep AI, data and technology capabilities, global presence and unrivalled creative talent. Our clients include many of the biggest companies and advertisers in the world, including approximate…",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Wpp Groups"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5714083197?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDA4MzE5NyIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.hzOrwLeScgrJk6jSqXcDT0ZTfYJErXkTw1ZqljJb39U",
+                "id": "5714083197",
+                "latitude": 13.06041,
+                "salary_is_predicted": "0",
+                "title": "Cloud Engineer - Citrix",
+                "longitude": 80.24963,
+                "created": "2026-04-30T06:52:51Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5714083314?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5714083314",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNDA4MzMxNCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.misSJl78loqmYgHA0gcAQolHvTqZozLr8yHs0KFaHto",
+                "company": {
+                    "display_name": "Wpp Groups",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "description": "Job description Working at WPP means being part of a global network of more than 100,000 talented people dedicated to doing extraordinary work for our clients. We operate in over 100 countries, with corporate headquarters in New York, London and Singapore. WPP is a world leader in marketing services, with deep AI, data and technology capabilities, global presence and unrivalled creative talent. Our clients include many of the biggest companies and advertisers in the world, including approximate…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "created": "2026-04-30T06:52:51Z",
+                "longitude": 80.24963,
+                "title": "Cloud Engineer - Citrix",
+                "salary_is_predicted": "0"
+            },
+            {
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/5713137150?utm_medium=api&utm_source=7d10bb5b",
+                "id": "5713137150",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMzEzNzE1MCIsInMiOiJMS0REaUVkcjhSR2lwZVlBNzY2WEp3In0.BP8YQYCWAiNEEcRDhn4_gmDf_uXNlteMg3KR8sekfgQ",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "ITC Infotech India Limited"
+                },
+                "description": "Key Roles C Responsibilities: • Overall 5 years of experience with atleast 3 years of experience in AWS. • Should be able to design landing Zones, infrastructure set-up and automation. • Must be able to understand the networking and communication on AWS platform. • Must be well versed with automation on cloud deployments • Must have an experience in hosting containerized workload in AWS EKS. • Strong experience with CNCF tools with helm, ArgoCD, CrossPlane, Kyverno, Calico, Istio, KEDA, Velero,…",
+                "category": {
+                    "tag": "it-jobs",
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Pune, Maharashtra"
+                },
+                "created": "2026-04-29T06:45:15Z",
+                "longitude": 73.84735,
+                "title": "Sr. Cloud Engineer",
+                "salary_is_predicted": "0"
+            },
+            {
+                "created": "2026-04-23T06:39:13Z",
+                "longitude": 80.24963,
+                "title": "Senior Cloud Engineer",
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Aspire Systems India Private Limited"
+                },
+                "description": "Strong understanding of cloud computing concepts and best practices. Hands-on experience Alibaba Cloud services(At least one project with Alibaba), AWS In depth knowledge in Kubernetes, containers Proficiency in scripting languages like Python , Shell Hands-on experience on CI-CD, Monitoring Effective communication skills Hands-on experience Cloud Configuration tools Skills: Aws, Python Experience: 5.00-7.00 Years",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5707748853?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiTEtERGlFZHI4UkdpcGVZQTc2NlhKdyIsImkiOiI1NzA3NzQ4ODUzIn0.w2-6hkpDYs7CQBSPu8qpTTZWIbWAIORC3Z7yDrRl0kk",
+                "id": "5707748853"
+            }
+        ],
+        "mean": 1651020.48,
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "count": 5039
+    },
+    "page": 3,
+    "role": "cloud_engineer"
+}

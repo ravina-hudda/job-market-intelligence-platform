@@ -1,0 +1,1480 @@
+{
+    "ingestion_timestamp": "2026-06-18T18:57:10.679698",
+    "source": "adzuna",
+    "response": {
+        "mean": 1560770.7,
+        "results": [
+            {
+                "title": "DevOps Engineer",
+                "description": "As a DevOps Engineer, you’re responsible for automating the deployment of our software solutions. You interact with software engineers, functional product managers, and ICT professionals daily. Using your technical skills, you provide internal tooling for development and QA teams around the globe. We believe in an integrated approach, where every team member is involved in all steps of the software development life cycle: analysis, architectural design, programming, and maintenance. We expect y…",
+                "redirect_url": "https://www.adzuna.in/details/5131532071?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-04-06T02:07:04Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5131532071",
+                "company": {
+                    "display_name": "OMP Careers",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTEzMTUzMjA3MSIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.R39nECXfcC9ecxvB16JblobLKwQzB2zzc2qVzPX0wx0"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/2644597049?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2021-11-15T04:19:36Z",
+                "title": "DevOps Engineer",
+                "description": "Devops engineer : Roles and Responsibilities 3 years of experience in Infrastructure setup on Cloud, Build/Release Engineering, Continuous Integration and Delivery, Configuration/Change Management. Good experience with Linux/Unix administration and moderate to significant experience administering relational databases such as PostgreSQL, etc. Experience with Docker and related tools (Cassandra, Rancher, Kubernetes etc.) Experience of working in Config management tools (Ansible, Chef, Puppet, Ter…",
+                "salary_min": 600000,
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "id": "2644597049",
+                "company": {
+                    "display_name": "Codvoai",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 2000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIyNjQ0NTk3MDQ5In0.GmMG3DXJT6tTswOlTT_3RR3gjUcAAtwUYaIhXY1KDjk"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5382247645?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-09-04T05:53:31Z",
+                "description": "Role: DevOps Engineer Exp: 4 - 7 Years CTC: up to 28 LPA Key Responsibilities • Design, build, and manage scalable infrastructure on cloud platforms (GCP, AWS, Azure, or OCI) • Administer and optimize Kubernetes clusters and container runtimes (Docker, containerd) • Develop and maintain CI/CD pipelines for multiple services and environments • Manage infrastructure as code using tools like Terraform and/or Pulumi • Automate operations with Python and shell scripting for deployment, monitoring, a…",
+                "title": "DevOps Engineer",
+                "salary_min": 1000000,
+                "contract_time": "full_time",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "id": "5382247645",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "display_name": "TIGI HR Solution Pvt. Ltd.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1MzgyMjQ3NjQ1In0.3tIlU1qWkvvwCMXOcW0LYoG_gTxqzvuD75WNo8ZDYww"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Arcana Analytics",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5396105107",
+                "longitude": 77.59837,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTM5NjEwNTEwNyIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.BUQZ-xkYCRCSIl32n5ymU0FU9zSC8abHWm-XuXnbGr4",
+                "created": "2025-09-12T23:24:25Z",
+                "latitude": 12.95703,
+                "redirect_url": "https://www.adzuna.in/details/5396105107?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Join our dynamic team at the forefront of cutting-edge technology as we seek a seasoned DevOps Engineer (Bangalore, Coimbatore). Embark on a journey where your deep-rooted expertise in computer science fundamentals, alongside an intricate understanding of data structures, algorithms, and system design, becomes the cornerstone of innovative solutions. This pivotal role not only demands your proficiency in developing and elevating compute and I/O-intensive applications but also ensures their peak…",
+                "title": "DevOps Engineer",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "location": {
+                    "display_name": "Hyderabad, Telangana",
+                    "area": [
+                        "India",
+                        "Telangana",
+                        "Hyderabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "title": "DevOps Engineer",
+                "description": "At Accellor, we are a trusted consultant that uses best-of-breed Cloud technology to deliver superior customer engagement and business effectiveness for clients. We bring a deep understanding of Financial, Retail, High Tech, Healthcare, and retail verticals. We’ve created an atmosphere that encourages curiosity, constant learning, and persistence. We encourage our employees to grow and explore their interests. We cultivate an environment of collaboration, autonomy, and delegation – we know our …",
+                "created": "2026-06-03T14:15:15Z",
+                "latitude": 17.40275,
+                "redirect_url": "https://www.adzuna.in/details/5750299380?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc1MDI5OTM4MCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.B0wI0p0p7xogK6f462uBz9jqt_2SCjAiK2cfTEUoAFo",
+                "longitude": 78.50806,
+                "company": {
+                    "display_name": "Accellor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5750299380"
+            },
+            {
+                "title": "Devops Engineer",
+                "description": "Candidate should have good Platform experience on Azure with Terraform. The devops engineer needs to help developers, create the Pipelines and K8s Deployment Manifests. Good to have experience on migrating data from (AWS) to Azure. To manage/automate infrastructure automatically using Terraforms. Jenkins is the key CI/CD tool which we uses and it will be used to run these Terraforms. VMs to be provisioned on Azure Cloud and managed. Good hands on experience of Networking on Cloud is required. A…",
+                "redirect_url": "https://www.adzuna.in/details/4203224524?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2023-07-13T13:20:51Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "salary_min": 1000000,
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "EnterpriseMinds",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "4203224524",
+                "salary_max": 3500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI0MjAzMjI0NTI0In0.3gBfdPHhnRA5dnjNVWsi1I7WSBbk9GpHUFL1Gp3CLJ0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1MTk1NjEwNTI0In0.5hTTIjz7MkZNBuhpEqaPVzhz7lKm2BLhMgQBjdUoLbs",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Deqode"
+                },
+                "id": "5195610524",
+                "salary_max": 2000000,
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "salary_min": 700000,
+                "contract_time": "full_time",
+                "title": "DevOps Engineer",
+                "description": "We’re hiring a DevOps Engineer who’s passionate about automation, reliability, and scaling infrastructure for modern cloud-native applications. If you thrive in dynamic environments and love problem-solving at scale, we’d love to meet you!  Key Responsibilities Manage and support production systems with on-call rotations Deploy and maintain scalable infrastructure on AWS (ECS, EC2, EKS, S3, RDS, ELB, IAM, Lambda) Build infrastructure using Terraform Manage and monitor Kubernetes clusters and Do…",
+                "redirect_url": "https://www.adzuna.in/details/5195610524?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-05-13T06:47:12Z"
+            },
+            {
+                "created": "2023-01-30T06:15:15Z",
+                "latitude": 23.042,
+                "redirect_url": "https://www.adzuna.in/details/3886200106?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIzODg2MjAwMTA2In0.Gsa9cPHpcr6COTj_kSBZXJ9SktxPpeBh-2MmOUUivNI",
+                "salary_max": 2500000,
+                "id": "3886200106",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Novo"
+                },
+                "longitude": 72.59465,
+                "contract_time": "full_time",
+                "salary_min": 100000,
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Ahmedabad, Gujarat",
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "description": "What you’ll be doing at Novo: ● Systems thinking ● Creating best practices, templates, and automation for build, test, integration and deployment pipelines on multiple projects ● Designing and developing tools for easily creating and managing dev/test infrastructure and services in AWS cloud ● Providing expertise and guidance on CI/CD, Github, and other development tools via containerization ● Monitoring and support systems in Dev, UAT and production environments ● Building mock services and pr…",
+                "title": "Devops Engineer",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1Mzk1Mzg3MDU5In0.wqsLP--hNElRxdb0YnpOpRC3rHelyDF-vanoqBNwfss",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5395387059",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "TIGI HR Solution Pvt. Ltd.",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 1500000,
+                "salary_min": 1000000,
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/5395387059?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-09-12T05:58:36Z",
+                "description": "Role: DevOps Engineer Exp: 4 - 7 Years CTC: up to 28 LPA Key Responsibilities • Design, build, and manage scalable infrastructure on cloud platforms (GCP, AWS, Azure, or OCI) • Administer and optimize Kubernetes clusters and container runtimes (Docker, containerd) • Develop and maintain CI/CD pipelines for multiple services and environments • Manage infrastructure as code using tools like Terraform and/or Pulumi • Automate operations with Python and shell scripting for deployment, monitoring, a…",
+                "title": "DevOps Engineer"
+            },
+            {
+                "created": "2026-05-26T06:36:51Z",
+                "redirect_url": "https://www.adzuna.in/details/5740849120?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 13.06041,
+                "title": "DevOps Engineer",
+                "description": "Job Summary We are looking for a skilled DevOps Engineer who has strong experience in containerization, database management, and CI/CD tools. The candidate will be responsible for managing infrastructure, deploying applications, and maintaining system reliability using modern DevOps practices. Key Responsibilities Deploy and manage applications using Docker containers. Manage and orchestrate containerized applications using Kubernetes . Install, configure, and maintain databases such as MongoDB…",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5740849120",
+                "company": {
+                    "display_name": "Twixor",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc0MDg0OTEyMCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.RPALqeeN_ceaxPkk4JYNzq74Eyl2Z7nxR3WmJ7DD_TI"
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/5761949457?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-06-13T08:47:32Z",
+                "description": "As a key enabler for all development teams to leverage the provided development, testing, and operations infrastructure, you will be responsible for playing the roles of DevOps Engineer in an integrated environment. This includes setting up, managing the DevOps infrastructure, and integrating various tool chains to support the development lifecycle. Skills: Minimum 3 years of experience in a process-oriented software organization. Minimum 2 years of experience in managing DevOps infrastructure,…",
+                "title": "DevOps Engineer",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "University Of Cambridge"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5761949457",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTk0OTQ1NyIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.sBOYgW0OYmCI-xqWFY7qsz89DcMyIG0-CYRuPcFIWQA"
+            },
+            {
+                "created": "2026-06-11T02:44:47Z",
+                "redirect_url": "https://www.adzuna.in/details/5759086435?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Position Description: Company Profile: Founded in 1976, CGI is among the largest independent IT and business consulting services firms in the world. With 94,000 consultants and professionals across the globe, CGI delivers an end-to-end portfolio of capabilities, from strategic IT and business consulting to systems integration, managed IT and business process services and intellectual property solutions. CGI works with clients through a local relationship model complemented by a global delivery …",
+                "title": "Devops Engineer",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "id": "5759086435",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "CGI",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzU5MDg2NDM1In0.B3megoqNr7dcWsEsPH1-qkkSXyGawkX3xNipjo6d6qs"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIzNzk5OTQ4ODgyIn0.BeK8BF40oSCApD3NX6yHw0vWysMiuMPmHg-NDKS-5WM",
+                "id": "3799948882",
+                "company": {
+                    "display_name": "Rejolut",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 1300000,
+                "longitude": 73.02,
+                "redirect_url": "https://www.adzuna.in/details/3799948882?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 19.02,
+                "created": "2022-12-25T06:22:38Z",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "salary_min": 100000,
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Navi Mumbai"
+                    ],
+                    "display_name": "Navi Mumbai, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "DevOps Engineer Navi Mumbai 1 - 3 years Rejolut is among the fastest - growing and award-winning Tech companies working on leading technologies namely Blockchain, Machine Learning & Artificial Intelligence, Complex mobile & Web Apps, IoT, etc.Rejolut is a venture - backed company with clients in over several countries namely Malaysia Airlines,gba global,my - earth,biomes, Dlg - hub,etc. We are looking for Tech geeks having hands - on experience and in love with building scalable, distributed an…",
+                "title": "Devops Engineer"
+            },
+            {
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Accenture",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5736781487",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNjc4MTQ4NyIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.5mgry93L1UALAFRgt3LTklGGBR60tnq835wLjaTj1AM",
+                "created": "2026-05-22T02:09:47Z",
+                "redirect_url": "https://www.adzuna.in/details/5736781487?utm_medium=api&utm_source=7d10bb5b",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : DevOps Good to have skills : NA Minimum 3 year(s) of experience is required Educational Qualification …",
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ],
+                    "display_name": "Chennai, Tamil Nadu"
+                },
+                "salary_is_predicted": "0",
+                "description": "Job Title DevOps Engineer Location Chennai Trimble is looking for a DevOps Engineer for their Core Product Development team in Chennai. You will be part of the global IT Operations Team for Trimble Transports & Logistics Europe team from Chennai. We are looking for an open-minded individual who likes collaborating with others. We are working with real-time data and this makes us a fast-moving organization that evolves quickly. To aid us with this evolution we are adopting new and upcoming techn…",
+                "title": "Devops Engineer",
+                "created": "2026-05-28T06:53:44Z",
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/5742845670?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzQyODQ1NjcwIn0.WFoej-a6WfZE6bJhkaF_0xN4QoBSWUCFng7RvtY3liU",
+                "longitude": 80.24963,
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Trimble",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5742845670"
+            },
+            {
+                "latitude": 28.62523,
+                "redirect_url": "https://www.adzuna.in/details/5537465414?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-12-11T11:00:45Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTUzNzQ2NTQxNCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.e45kvmkIM-uLv8vNUXX9ssztJ4HC93_rEyAdQgXhU1A",
+                "company": {
+                    "display_name": "Lovoj",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5537465414",
+                "salary_max": 1400000,
+                "longitude": 77.224601,
+                "salary_min": 800000,
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "display_name": "Delhi, India"
+                },
+                "salary_is_predicted": "0",
+                "title": "DevOps Engineer",
+                "description": "Key Responsibilities Design, implement, and maintain CI/CD pipelines for backend, frontend, and mobile applications. Manage cloud infrastructure using AWS (EC2, Lambda, S3, VPC, RDS, CloudWatch, ECS/EKS) . Configure and maintain Docker containers and/or Kubernetes clusters . Implement and maintain Infrastructure as Code (IaC) using Terraform / CloudFormation. Automate build, deployment, and monitoring processes. Manage code repositories using Git/GitHub/GitLab , enforce branching strategies. Im…",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "title": "DevOps Engineer",
+                "description": "Sr.DevOps Engineer (5 to 8 yrs. Exp.) Location: Ahmedabad Strong Experience in Infrastructure provisioning in cloud using Terraform & AWS CloudFormation Templates. Strong Experience in Serverless Containerization technologies such as Kubernetes, Docker etc. Strong Experience in Jenkins & AWS Native CI/CD implementation using code Strong Experience in Cloud operational automation using Python, Shell script, AWS CLI, AWS Systems Manager, AWS Lamnda, etc. Day to Day AWS Cloud administration tasks …",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Ahmedabad, Gujarat",
+                    "area": [
+                        "India",
+                        "Gujarat",
+                        "Ahmedabad"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_min": 0,
+                "contract_time": "full_time",
+                "contract_type": "permanent",
+                "longitude": 72.59465,
+                "company": {
+                    "display_name": "Compufy Technolab",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": 2089179445,
+                "salary_max": 1200000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOjIwODkxNzk0NDV9.h39gQzsSCY-Q1bLqNYSR8aW3eoom7ROU9zlCA7UmcSU",
+                "redirect_url": "https://www.adzuna.in/details/2089179445?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 23.042,
+                "created": "2021-04-01T05:54:59Z"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Quench Techno Valley"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5761947650",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzYxOTQ3NjUwIn0.x9rmKbv1_WkiqARqfKIDGjZprLwlz5c0mrDCOve7Xqg",
+                "description": "Job Description: We are looking for a highly skilled DevOps Engineer with expertise in GitHub Actions to join our team. The ideal candidate will have a strong background in CI/CD, automation, and infrastructure management to enhance our deployment processes and overall system reliability. Key Responsibilities: Design, implement, and manage CI/CD pipelines using GitHub Actions . Automate build, test, and deployment processes for efficient software delivery. Monitor and optimize infrastructure to…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/5761947650?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-06-13T08:44:04Z",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "title": "Devops Engineer",
+                "description": "We are looking for a full-time remote DevOps Engineer who has worked with CI/CD automation, big data pipelines and Cloud Infrastructure, to solve complex technical challenges at scale that will reshape the healthcare industry for generations. You will get the opportunity to be involved in the latest tech in big data engineering, novel machine learning pipelines and highly scalable backend development. The successful candidates will be working in a team of highly skilled and experienced develope…",
+                "redirect_url": "https://www.adzuna.in/details/4686699992?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.5062,
+                "created": "2024-05-10T07:38:14Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDY4NjY5OTk5MiIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.nJF2CQTzBWOIoagqc-J2DafXMWOmCTKhSwOFj3QCdr0",
+                "longitude": 73.84735,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4686699992",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Jobdost"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "4344577335",
+                "salary_max": 3000000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI0MzQ0NTc3MzM1In0.8konxD9bOgqWAX4RHU1are30nFr3fPv7zZ6U7BRncfY",
+                "redirect_url": "https://www.adzuna.in/details/4344577335?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2023-10-02T13:22:23Z",
+                "title": "Devops Engineer",
+                "description": "We are looking for very hands-on DevOps engineers with 3 to 6 years of experience. The person will be part of a team that is responsible for designing & implementing automation from scratch for medium to large scale cloud infrastructure and providing 24x7 services to our North American / European customers. This also includes ensuring 100% uptime for almost 50 internal sites. The person is expected to deliver with both high speed and high quality as well as work for 40 hours per week (6.5 hours…",
+                "salary_min": 1000000,
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "description": "We are looking for an experienced and driven DevOps Engineer to join our dynamic team at VIDA Digital Identity. The successful candidate will play a pivotal role in designing, implementing, and maintaining our hybrid cloud infrastructure using AWS and VMware. This position requires extensive hands-on expertise in system administration, cloud-native platforms, automation, and infrastructure-as-code practices. Responsibilities: Design, deployment, and management of our hybrid cloud infrastructure…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/5468478577?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-10-29T00:16:45Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "id": "5468478577",
+                "company": {
+                    "display_name": "VIDA",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NDY4NDc4NTc3In0.WnAvPAWSv-8sGn3pgO9FVLRG9grdO09m07oZgRsb4jE"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MTk1NTkxNCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.jQRzEWamt-T1DyHoeYrnWOTYZoFX6EsPVPM43MhIpNc",
+                "longitude": 73.84735,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5761955914",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "LTM"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "description": "Role: Devops Engineer Location: Pune Years of experience: 6- 10 years Notice period: Immediate to 30 days We are seeking a highly skilled 6 years DevOps This role will focus on developing and automating deployment workflows for Azure Kubernetes Service AKS managing Above ARM deployments and integrating Azure CIS buildout automation The ideal candidate will have strong experience in cloud native development infrastructures code and secure DevOps practices Must Have Skills AKS / container ecosyst…",
+                "title": "DevOps Engineer",
+                "created": "2026-06-13T08:55:01Z",
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/5761955914?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "description": "Role Overview: We are looking for a skilled DevOps Engineer to join our team. You will be responsible for managing and automating the deployment, monitoring, and scaling of our applications, ensuring high availability, security, and performance. The ideal candidate is passionate about automation, CI/CD, and cloud infrastructure. Key Responsibilities: Design, implement, and maintain CI/CD pipelines for development, testing, and production environments. Manage cloud infrastructure (AWS, Azure, GC…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/5659207326?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-03-09T11:19:33Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_min": 400000,
+                "contract_time": "full_time",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "PhotonMatters"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5659207326",
+                "salary_max": 1200000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY1OTIwNzMyNiIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.iPKmTeWBxM6EU7SR-QohXLTLiPxbCA7uDXXuV7726u4"
+            },
+            {
+                "description": "Responsibilities ● Create and manage the company’s technology infrastructure ● Deploy updates and fixes ● Build tools to reduce occurrences of errors and improve customer experience ● Develop software to integrate with internal back-end systems ● Perform root cause analysis for production errors ● Experience creating and maintaining CI/CD systems. ● Investigate and resolve technical issues ● Develop scripts to automate visualization ● Design procedures for system troubleshooting and maintenance…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/2167825911?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2021-05-07T11:43:51Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_min": 0,
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "BarRaiser"
+                },
+                "id": "2167825911",
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIyMTY3ODI1OTExIn0.Alrt9CQ_S6c27PopMXgFwXJxpJXplLcwf9ALKYdHAOQ"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka"
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-04-25T07:26:46Z",
+                "redirect_url": "https://www.adzuna.in/details/5709911056?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Description We are seeking a skilled DevOps Engineer to join our team in India. The ideal candidate will have extensive experience in automating and optimizing our operational processes, as well as a strong background in cloud technologies and continuous integration/deployment strategies. Responsibilities Design, implement and manage CI/CD pipelines to automate software deployment processes. Monitor and maintain system performance, security, and reliability of cloud infrastructure. Collaborate …",
+                "title": "Devops Engineer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzA5OTExMDU2In0.b9xZdOoTrGq0VfgZ1qInrmUIakTN_opaMeSgf1xlyto",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Cerebra IT Services Private Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5709911056"
+            },
+            {
+                "longitude": 77.3225,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "Diensten Tech Limited",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "5713136774",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzEzMTM2Nzc0In0.ctrnCH8N-Oawa1UeRoNgRbd05e83WoaU22cp3Lm26xQ",
+                "description": "Description We are looking for a skilled DevOps Engineer to join our team. The ideal candidate should have 2-4 years of experience in the job market context of India. The candidate should have a strong understanding of the software development life cycle and should be proficient in developing, deploying, and maintaining applications in a cloud environment. Responsibilities Design and implement continuous integration and deployment pipelines Automate the deployment and management of applications…",
+                "title": "Devops Engineer",
+                "created": "2026-04-29T06:44:49Z",
+                "latitude": 28.56579,
+                "redirect_url": "https://www.adzuna.in/details/5713136774?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "location": {
+                    "display_name": "Noida, Ghaziabad",
+                    "area": [
+                        "India",
+                        "Uttar Pradesh",
+                        "Ghaziabad",
+                        "Noida"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                }
+            },
+            {
+                "salary_min": 700000,
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra"
+                },
+                "salary_is_predicted": "0",
+                "title": "Devops Engineer",
+                "description": "Role & Responsiblities DevOps Engineer will be working with implementation and management of DevOps tools and technologies. Create and support advanced pipelines using Gitlab. Create and support advanced container and serverless environments. Deploy Cloud infrastructure using Terraform and cloud formation templates. Implement deployments to OpenShift Container Platform, Amazon ECS and EKS Troubleshoot containerized builds and deployments Implement processes and automations for migrating between…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "redirect_url": "https://www.adzuna.in/details/4838060004?utm_medium=api&utm_source=7d10bb5b",
+                "latitude": 18.5062,
+                "created": "2024-08-24T11:26:15Z",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDgzODA2MDAwNCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.RoVqlgMTiwDUoQAcxGDAKwJn9VedMgAlO2pDsyf_gDk",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Hipla By InVentry"
+                },
+                "id": "4838060004",
+                "salary_max": 1000000,
+                "longitude": 73.84735
+            },
+            {
+                "description": "DevOps Engineer Job Description: The position requires a broad set of technical and interpersonal skills that includes deployment technologies, monitoring and scripting from networking to infrastructure. Well versed in troubleshooting Prod issues and should be able to drive till the RCA. Skills: Manage VMs across multiple datacenters and AWS to support dev/test and production workloads. Strong hands-on over Ansible is preferred Strong knowledge and hands-on experience in Kubernetes Architecture…",
+                "title": "DevOps Engineer",
+                "salary_min": 500000,
+                "contract_time": "full_time",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Chennai, Tamil Nadu",
+                    "area": [
+                        "India",
+                        "Tamil Nadu",
+                        "Chennai"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "latitude": 13.06041,
+                "redirect_url": "https://www.adzuna.in/details/3532568012?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2022-09-29T06:59:08Z",
+                "company": {
+                    "display_name": "Agiletech Info Solutions pvt ltd",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "id": "3532568012",
+                "salary_max": 1500000,
+                "longitude": 80.24963,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzUzMjU2ODAxMiIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.LNb-dtNkiPm3k5GZj4LoAkkd9DNNnwrYY3mExBkH-7c"
+            },
+            {
+                "description": "The AWS Cloud/ Devops Engineer will be working with the engineering team and focusing on AWS infrastructure and automation. A key part of the role is championing and leading infrastructure as code. The Engineer will work closely with the Manager of Operations and Devops to build, manage and automate our AWS infrastructure. Duties & Responsibilities: Design cloud infrastructure that is secure, scalable, and highly available on AWS Work collaboratively with software engineering to define infrastr…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/2577819379?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2021-10-26T04:52:03Z",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Delhi"
+                    ],
+                    "display_name": "Delhi, India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_min": 0,
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "2577819379",
+                "company": {
+                    "display_name": "Planet Spark",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 1200000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjU3NzgxOTM3OSIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.6WGzurxAoakLoVVC4XbKQ1Ev29C1aZsgzgiLm246Ex8"
+            },
+            {
+                "contract_time": "full_time",
+                "salary_min": 1200000,
+                "location": {
+                    "display_name": "Mumbai, Maharashtra",
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Mumbai"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "title": "DevOps Engineer",
+                "description": "Role Description We are looking for a DevOps Engineer responsible for managing cloud technologies, deployment automation and CI /CD Key Responsibilities Building and setting up new development tools and infrastructure Understanding the needs of stakeholders and conveying this to developers Working on ways to automate and improve development and release processes Testing and examining code written by others and analyzing results Ensuring that systems are safe and secure against cybersecurity thr…",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "created": "2022-10-02T07:01:37Z",
+                "latitude": 19.00821,
+                "redirect_url": "https://www.adzuna.in/details/3546813470?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMzU0NjgxMzQ3MCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.ryu5Hd5e9rwqEatxs0a88hvSkTnqMZA0wImRC4RvuRY",
+                "salary_max": 1500000,
+                "id": "3546813470",
+                "company": {
+                    "display_name": "Merito",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "longitude": 72.84415
+            },
+            {
+                "redirect_url": "https://www.adzuna.in/details/4003187900?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2023-03-27T10:05:13Z",
+                "description": "Why LiftOff? We at LiftOff specialize in product creation, for our main forte lies in helping Entrepreneurs realize their dream. We have helped businesses and entrepreneurs launch more than 70 plus products. Many on the team are serial entrepreneurs with a history of successful exits. As a Devops Engineer, you will work directly with our founders and alongside our engineers on a variety of software projects covering various languages, frameworks, and application architectures. Must Have Work ex…",
+                "title": "Devops Engineer",
+                "salary_min": 100000,
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "4003187900",
+                "company": {
+                    "display_name": "LiftOff Software India",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNDAwMzE4NzkwMCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.ROZKc0Sb2oO0ua8VfXTJoEEPgsFjtPxL0IyySQBCZbo"
+            },
+            {
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Workday US Absence Management Good to have skills : NA Minimum 5 year(s) of experience is required Edu…",
+                "redirect_url": "https://www.adzuna.in/details/5735489095?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-05-21T02:15:56Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "id": "5735489095",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzM1NDg5MDk1In0.lPcaXPcMVmrrHLXSaxpVk8OjQXehIv6IkdQxQXcktgA"
+            },
+            {
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5735530292",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTczNTUzMDI5MiIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.84pvHouAdMqrYMx-gek6WteAXO9XP-zWvAyoUId3adg",
+                "created": "2026-05-21T02:21:09Z",
+                "redirect_url": "https://www.adzuna.in/details/5735530292?utm_medium=api&utm_source=7d10bb5b",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Workday Report Designer (BIRT) Good to have skills : NA Minimum 3 year(s) of experience is required Ed…",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "display_name": "Accenture",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "id": "5760390288",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MDM5MDI4OCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.siF6QOad2YKh8gQY5Aynb1ztTodIY3GizIfYdeKuBsY",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Advanced Embedded System Engineering Good to have skills : NA Minimum 3 year(s) of experience is requi…",
+                "created": "2026-06-12T02:31:52Z",
+                "redirect_url": "https://www.adzuna.in/details/5760390288?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxMDUyMjA3NCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.kcytur01i2SZ1RvZx10DXV33nLNhdm7mOj2CAGLlcyo",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "id": "5710522074",
+                "contract_time": "full_time",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-04-26T02:06:11Z",
+                "redirect_url": "https://www.adzuna.in/details/5710522074?utm_medium=api&utm_source=7d10bb5b",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Databricks Unified Data Analytics Platform Good to have skills : NA Minimum 5 year(s) of experience is…"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5724430229",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzI0NDMwMjI5In0.f_18Km8trPSDNnxYehfsan_pdaNLXhvdpNf1VE9pHQk",
+                "created": "2026-05-10T02:09:55Z",
+                "redirect_url": "https://www.adzuna.in/details/5724430229?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : DevOps Good to have skills : NA Minimum 12 year(s) of experience is required Educational Qualification…",
+                "title": "DevOps Engineer",
+                "contract_time": "full_time",
+                "location": {
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ],
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTc2MzgwNzQ3MyIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.gIu49strDQnMKHWZogLcikVCsWIoHiysMlDWtJ-p-8I",
+                "company": {
+                    "display_name": "Accenture",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "id": "5763807473",
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "created": "2026-06-15T02:29:11Z",
+                "redirect_url": "https://www.adzuna.in/details/5763807473?utm_medium=api&utm_source=7d10bb5b",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Cloud Automation DevOps Good to have skills : NA Minimum 5 year(s) of experience is required Education…"
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5662663093",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTY2MjY2MzA5MyIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.UBSG3rtBiuqTZ2NdfiuLCTwvqpSde05DnKxLYJuzy-8",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Data Science Good to have skills : NA Minimum 2 year(s) of experience is required Educational Qualific…",
+                "created": "2026-03-13T01:32:17Z",
+                "redirect_url": "https://www.adzuna.in/details/5662663093?utm_medium=api&utm_source=7d10bb5b",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "contract_time": "full_time"
+            },
+            {
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Advanced Embedded System Engineering Good to have skills : NA Minimum 3 year(s) of experience is requi…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/5679602462?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-03-27T02:05:10Z",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "Engineering Jobs",
+                    "tag": "engineering-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5679602462",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1Njc5NjAyNDYyIn0.pMMTBWr87iQhV6cQa8F39xa5tWL5bGaX7uGE4yHh-U0"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzUyNDIwMjA2In0.6CgVOQ89RK0pc2JCHMyzaQLTgnTbDG6k1pQvGsc_dbM",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "id": "5752420206",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "salary_is_predicted": "0",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "contract_time": "full_time",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : SAP FI S/4HANA Accounting Good to have skills : NA Minimum 2 year(s) of experience is required Educati…",
+                "title": "DevOps Engineer",
+                "created": "2026-06-05T02:47:31Z",
+                "redirect_url": "https://www.adzuna.in/details/5752420206?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-06-13T02:36:46Z",
+                "redirect_url": "https://www.adzuna.in/details/5761799972?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : DevOps Good to have skills : NA Minimum 7.5 year(s) of experience is required Educational Qualificatio…",
+                "title": "DevOps Engineer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzYxNzk5OTcyIn0.kdiqDnUI_bszCVs4DEPbZQSUZnYBPmlXtOBuDKpwdjQ",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5761799972",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "company": {
+                    "display_name": "Accenture",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5706473041",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Accenture"
+                },
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwNjQ3MzA0MSIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.u10ltWxlLlR9KaO6KkibvNx3TqqPPyfXGf3x0vkCpec",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : Salesforce DevOps Good to have skills : NA Minimum 7.5 year(s) of experience is required Educational Q…",
+                "title": "DevOps Engineer",
+                "redirect_url": "https://www.adzuna.in/details/5706473041?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2026-04-22T02:01:13Z",
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1NzY3MjQyMzk5In0.IlAF6AAqemvdDmB9c22k8b0CC3IzWUpCk23xEcwe2j4",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5767242399",
+                "company": {
+                    "display_name": "Accenture",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                },
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "India",
+                    "area": [
+                        "India"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "title": "DevOps Engineer",
+                "description": "Project Role : DevOps Engineer Project Role Description : Responsible for building and setting up new development tools and infrastructure utilizing knowledge in continuous integration, delivery, and deployment (CI/CD), Cloud technologies, Container Orchestration and Security. Build and test end-to-end CI/CD pipelines, ensuring that systems are safe against security threats. Must have skills : DevOps Architecture Good to have skills : AWS Architecture, AWS CloudFormation, Python (Programming La…",
+                "created": "2026-06-18T03:29:44Z",
+                "redirect_url": "https://www.adzuna.in/details/5767242399?utm_medium=api&utm_source=7d10bb5b"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiI1MzUxNjAwNzU3In0.QOxrZTyn-wuL6us64T8lZJ-Jwy4aXyVQiPkJY2mZitE",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5351600757",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Bizongo"
+                },
+                "salary_max": 1600000,
+                "salary_min": 800000,
+                "contract_time": "full_time",
+                "salary_is_predicted": "0",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "redirect_url": "https://www.adzuna.in/details/5351600757?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2025-08-14T05:40:26Z",
+                "title": "DevOps Engineer",
+                "description": "Designation: DevOps Engineer Work Location: Andheri East, Mumbai Experience: 2-4 Years About the Role: At Bizongo, we believe in delivering excellence which drives business efficiency for our customers. As Software Engineer’s at Bizongo, you will be working on developing next generation of technology that will impact how businesses take care of their process and derive process excellence. We are looking for engineers who can bring fresh ideas, function at scale and are passionate about technolo…"
+            },
+            {
+                "longitude": 73.84735,
+                "id": "2673447726",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Magicflare Software Services"
+                },
+                "salary_max": 1500000,
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiMjY3MzQ0NzcyNiIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.vusOwJ-9pFI9KacWEQb4EjFznrc93-aMGmn4f6DW6jk",
+                "latitude": 18.5062,
+                "redirect_url": "https://www.adzuna.in/details/2673447726?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2021-11-24T07:16:21Z",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "title": "DevOps Engineer",
+                "description": "Profile: DevOps Engineer Experience: 5-8 Yrs Notice Period: Immediate to 30 Days Job Descrtiption: Technical Experience (Must Have): Cloud: Azure DevOps Tool: Terraform, Ansible, Github, CI-CD pipeline, Docker, Kubernetes Network: Cloud Networking Scripting Language: Any/All - Shell Script, PowerShell, Python OS: Linux (Ubuntu, RHEL etc) Database: MongoDB Professional Attributes: Excellent communication, written, presentation, and problem-solving skills. Experience: Minimum of 5-8 years of expe…",
+                "location": {
+                    "area": [
+                        "India",
+                        "Maharashtra",
+                        "Pune"
+                    ],
+                    "display_name": "Pune, Maharashtra",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "salary_min": 0,
+                "contract_time": "full_time"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India"
+                },
+                "salary_is_predicted": "0",
+                "created": "2026-05-01T06:44:09Z",
+                "redirect_url": "https://www.adzuna.in/details/5715038425?utm_medium=api&utm_source=7d10bb5b",
+                "description": "Deploy, maintain, and upgrade live production applications serving high-profile corporate customers. Develop and enhance our deployment and automation infrastructure and processes. Implement and continuously improve monitoring and alerting solutions. Stay updated with, learn, and adapt to new DevOps tools and technologies. Collaborate with team members to brainstorm and resolve complex challenges in infrastructure, security, and development. Required Skills & Qualifications: Bachelor s degree i…",
+                "title": "DevOps Engineer",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcxNTAzODQyNSIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.Q_88Zdz_1bd7eUi66WiSCurqToTUHgEQae6P6BmIl6I",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "5715038425",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "display_name": "Bottom Line",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "title": "Devops Engineer",
+                "description": "Description We are seeking an experienced DevOps Engineer to join our team in India. The ideal candidate will have a strong background in automation, cloud services, and system monitoring. You will play a crucial role in bridging the gap between development and operations, ensuring efficient deployment and smooth operation of our applications. Responsibilities Design, implement, and manage CI/CD pipelines. Monitor system performance and troubleshoot issues. Automate infrastructure provisioning …",
+                "created": "2026-04-25T07:26:46Z",
+                "redirect_url": "https://www.adzuna.in/details/5709911064?utm_medium=api&utm_source=7d10bb5b",
+                "location": {
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ],
+                    "display_name": "Bangalore, Karnataka",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Cerebra IT Services Private Limited"
+                },
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs",
+                    "label": "IT Jobs"
+                },
+                "id": "5709911064",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoiNTcwOTkxMTA2NCIsInMiOiI3S0NWZ2tkcjhSR2hJODk5dWVoY0hBIn0.y0U9NFeYSpCilzn0rtgNjAAa2K_A2PZUC_LKRl90TDY"
+            },
+            {
+                "location": {
+                    "__CLASS__": "Adzuna::API::Response::Location",
+                    "display_name": "Bangalore, Karnataka",
+                    "area": [
+                        "India",
+                        "Karnataka",
+                        "Bangalore"
+                    ]
+                },
+                "salary_is_predicted": "0",
+                "contract_time": "full_time",
+                "salary_min": 800000,
+                "description": "We are now seeking a talented and motivated individual to contribute to our product in the Cloud data protection space. Ability to clearly comprehend customer needs in a cloud environment, excellent troubleshooting skills, and the ability to focus on problem resolution until completion are a requirement. Responsibilities Include: Review proposed feature requirements Create test plan and test cases Analyze performance, diagnosis, and troubleshooting Enter and track defects Interact with customer…",
+                "title": "DevOps Engineer",
+                "created": "2021-10-02T04:36:00Z",
+                "redirect_url": "https://www.adzuna.in/details/2509166492?utm_medium=api&utm_source=7d10bb5b",
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIyNTA5MTY2NDkyIn0.O_XpyghpnyhbKN3e1wWX4pkKVg-WoiphONBG1GDf-LA",
+                "salary_max": 1200000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "tag": "it-jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs"
+                },
+                "id": "2509166492",
+                "company": {
+                    "display_name": "The Hub",
+                    "__CLASS__": "Adzuna::API::Response::Company"
+                }
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJpIjoxOTcyMzI0OTI5LCJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSJ9.MJnkD_zj4g5gAZ0Fmt5IjJKBBSs1CrdyMct1OkiSzsk",
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "category": {
+                    "label": "IT Jobs",
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "Vamstar"
+                },
+                "id": 1972324929,
+                "salary_max": 1000000,
+                "salary_min": 0,
+                "contract_time": "full_time",
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "redirect_url": "https://www.adzuna.in/details/1972324929?utm_medium=api&utm_source=7d10bb5b",
+                "created": "2021-02-05T04:43:29Z",
+                "title": "DevOps Engineer",
+                "description": "We are looking for a full-time remote DevOps Engineer who has worked with CI/CD automation, big data pipelines and Cloud Infrastructure, to solve complex technical challenges at scale that will reshape the healthcare industry for generations. You will get the opportunity to be involved in the latest tech in big data engineering, novel machine learning pipelines and highly scalable backend development. The successful candidates will be working in a team of highly skilled and experienced develope…"
+            },
+            {
+                "adref": "eyJhbGciOiJIUzI1NiJ9.eyJzIjoiN0tDVmdrZHI4UkdoSTg5OXVlaGNIQSIsImkiOiIyOTg5MTIyMzQxIn0.aNyKFBJDBLE9n_QcJ2Opoh_77jbiF9058StVI66Iijs",
+                "salary_max": 600000,
+                "__CLASS__": "Adzuna::API::Response::Job",
+                "id": "2989122341",
+                "category": {
+                    "__CLASS__": "Adzuna::API::Response::Category",
+                    "label": "IT Jobs",
+                    "tag": "it-jobs"
+                },
+                "company": {
+                    "__CLASS__": "Adzuna::API::Response::Company",
+                    "display_name": "CoverYou"
+                },
+                "contract_time": "full_time",
+                "salary_min": 500000,
+                "location": {
+                    "area": [
+                        "India"
+                    ],
+                    "display_name": "India",
+                    "__CLASS__": "Adzuna::API::Response::Location"
+                },
+                "salary_is_predicted": "0",
+                "created": "2022-03-22T05:11:16Z",
+                "redirect_url": "https://www.adzuna.in/details/2989122341?utm_medium=api&utm_source=7d10bb5b",
+                "title": "DevOps Engineer",
+                "description": "Profile Description: The job holder will work with developers and the IT staff to oversee the code releases, combining an understanding of both engineering and coding . From creating and implementing systems software to analyzing data to improve existing ones, a DevOps Engineer increases productivity in the workplace. Key Responsibilities: Understanding customer requirements and project KPIs Implementing various development, testing, automation tools, and IT infrastructure Planning the team str…"
+            }
+        ],
+        "__CLASS__": "Adzuna::API::Response::JobSearchResults",
+        "count": 4053
+    },
+    "page": 4,
+    "role": "devops_engineer"
+}
