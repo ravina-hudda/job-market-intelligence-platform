@@ -1,7 +1,9 @@
 # Job Market Intelligence Platform
 
 An end-to-end Data Engineering platform that collects job market data from public APIs, processes it using PySpark, stores analytics-ready datasets in Snowflake, and visualizes insights through Streamlit dashboards. The entire pipeline is automated using Apache Airflow and containerized with Docker.
+
 access here: https://job-market-intelligence-platform-ai.streamlit.app/
+
 ---
 
 ## Project Overview
